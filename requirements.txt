@@ -1,0 +1,17 @@
+requests
+feedparser
+tqdm
+flask
+PyPDF2          
+pdfminer.six
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+transformers
+datasets
+scikit-learn
+fastapi
+uvicorn
+pandas
+label-studio-sdk  
+huggingface_hub
