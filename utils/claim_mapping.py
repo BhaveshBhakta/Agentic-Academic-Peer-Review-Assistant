@@ -41,9 +41,29 @@ def split_into_sentences(text):
 
 def extract_claims_by_keywords(sentences):
     claims = []
+
     for s in sentences:
-        if any(kw in s.lower() for kw in CLAIM_KEYWORDS):
+        s_clean = s.lower()
+
+        if any(kw in s_clean for kw in CLAIM_KEYWORDS):
+
+            if "@" in s:
+                continue
+
+            if "university" in s_clean:
+                continue
+
+            if "vol" in s_clean:
+                continue
+
+            if len(s.split()) < 10:
+                continue
+
+            if "www." in s_clean:
+                continue
+
             claims.append(s)
+
     return claims
 
 def extract_text_from_paper_meta(paper_meta, idx):

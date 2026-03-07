@@ -6,7 +6,7 @@ def reviewer_agent(state):
     papers = state.get("retrieved_papers", [])
 
     literature_context = "\n".join(
-        f"{p.get('title')} (similarity {p.get('similarity'):.2f})"
+        f"- {p.get('title')} (similarity {p.get('similarity'):.2f})"
         for p in papers
     )
 
@@ -14,9 +14,10 @@ def reviewer_agent(state):
 You are an academic peer reviewer.
 
 Relevant literature retrieved from the research corpus:
+
 {literature_context}
 
-Based on the analysis results below, write an initial peer review.
+Use these papers as context when evaluating novelty.
 
 Evidence available:
 Citation analysis: {state.get("citation_result")}
@@ -30,10 +31,10 @@ Write a structured review including:
 1. Summary of the paper
 2. Strengths
 3. Weaknesses
-4. Suggestions
+4. Suggestions for improvement
 5. Preliminary recommendation
 
-While writing the review, consider whether the retrieved literature suggests that the submitted paper is novel or overlaps with existing research.
+When discussing novelty, explicitly reference relevant literature retrieved above.
 """
 
     review = query_llm(prompt)
