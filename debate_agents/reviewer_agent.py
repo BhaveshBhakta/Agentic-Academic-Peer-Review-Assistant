@@ -3,8 +3,18 @@ from utils.llm_client import query_llm
 
 def reviewer_agent(state):
 
+    papers = state.get("retrieved_papers", [])
+
+    literature_context = "\n".join(
+        f"{p.get('title')} (similarity {p.get('similarity'):.2f})"
+        for p in papers
+    )
+
     prompt = f"""
 You are an academic peer reviewer.
+
+Relevant literature retrieved from the research corpus:
+{literature_context}
 
 Based on the analysis results below, write an initial peer review.
 
@@ -22,6 +32,8 @@ Write a structured review including:
 3. Weaknesses
 4. Suggestions
 5. Preliminary recommendation
+
+While writing the review, consider whether the retrieved literature suggests that the submitted paper is novel or overlaps with existing research.
 """
 
     review = query_llm(prompt)

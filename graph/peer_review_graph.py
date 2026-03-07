@@ -9,7 +9,7 @@ from tools.citation_tool import citation_check_tool
 from tools.claim_tool import claim_mapping_tool
 from tools.factual_tool import factual_check_tool
 from tools.deep_search_tool import deep_search_tool
-
+from rag.rag_node import rag_retriever_node
 from debate_agents.reviewer_agent import reviewer_agent
 from debate_agents.critic_agent import critic_agent
 from debate_agents.meta_reviewer import meta_reviewer
@@ -60,15 +60,16 @@ def build_graph():
     builder = StateGraph(ReviewState)
 
     builder.add_node("planner", planner_agent)
+    builder.add_node("rag_retrieval", rag_retriever_node)
     builder.add_node("tools", run_tools)
-
     builder.add_node("reviewer", reviewer_agent)
     builder.add_node("critic", critic_agent)
     builder.add_node("meta_reviewer", meta_reviewer)
 
     builder.set_entry_point("planner")
 
-    builder.add_edge("planner", "tools")
+    builder.add_edge("planner", "rag_retrieval")
+    builder.add_edge("rag_retrieval", "tools")
     builder.add_edge("tools", "reviewer")
     builder.add_edge("reviewer", "critic")
     builder.add_edge("critic", "meta_reviewer")

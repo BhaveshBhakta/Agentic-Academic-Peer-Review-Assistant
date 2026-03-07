@@ -13,7 +13,7 @@ RESULTS_FOLDER = "data/results"
 ALLOWED_EXTENSIONS = {"pdf"}
 
 app = Flask(__name__)
-CORS(app) 
+CORS(app)
 
 agent_graph = build_graph()
 
@@ -71,9 +71,13 @@ def review():
 
         if not review_text:
             review_file = "data/results/review.txt"
-            with open(review_file, "r", encoding="utf-8") as f:
-                review_text = f.read()
-                sections = parse_review(review_text)
+            if os.path.exists(review_file):
+                with open(review_file, "r", encoding="utf-8") as f:
+                    review_text = f.read()
+            else:
+                review_text = "**9. Final Recommendation**\nReview generation failed."
+
+        sections = parse_review(review_text)
 
         return jsonify({"review": sections})
 

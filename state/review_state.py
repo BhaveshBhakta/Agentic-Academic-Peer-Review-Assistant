@@ -1,19 +1,21 @@
-from typing import TypedDict, List, Optional
+from typing import TypedDict, List, Dict
+
 
 class ReviewState(TypedDict):
-    
+
     pdf_path: str
     topic: str
 
-    # planner decision
     tools_to_run: List[str]
 
-    # tool outputs
-    citation_result: Optional[str]
-    novelty_result: Optional[str]
-    plagiarism_result: Optional[str]
-    factual_result: Optional[str]
-    claim_result: Optional[str]
+    retrieved_papers: List[Dict]
 
-    # final review
-    final_review: Optional[str]
+    novelty_result: Dict
+    plagiarism_result: Dict
+    citation_result: Dict
+    claim_result: Dict
+    factual_result: Dict
+
+    review_draft: str
+    critic_feedback: str
+    final_review_text: str
