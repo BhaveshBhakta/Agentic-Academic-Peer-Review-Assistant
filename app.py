@@ -27,7 +27,6 @@ def allowed_file(filename):
 
 
 def parse_review(text):
-    """Parse the review.txt into sections."""
     sections = {}
     matches = re.split(r"\*\*(\d+\..*?)\*\*", text)
     for i in range(1, len(matches), 2):
@@ -50,7 +49,6 @@ def review():
         pdf_path = os.path.join(app.config["UPLOAD_FOLDER"], filename)
         file.save(pdf_path)
 
-        # Handle Deep Search
         deep_search = request.form.get("deep_search")
         topic = request.form.get("topic")
         if deep_search and topic:
@@ -58,32 +56,24 @@ def review():
             fetch_and_add_papers(topic, max_papers=15)
             subprocess.run(["python", "utils/faiss_index.py"])
 
-        # Unique run ID
         run_id = str(uuid.uuid4())[:8]
         run_dir = os.path.join(RESULTS_FOLDER, run_id)
         os.makedirs(run_dir, exist_ok=True)
 
-        # Run pipeline
         state = {
             "pdf_path": pdf_path,
             "topic": topic if topic else "general"
         }
 
         result = agent_graph.invoke(state)
-        review_file = "data/results/review.txt"
-        
-        if not os.path.exists(review_file):
-            with open(review_file, "w", encoding="utf-8") as f:
-                f.write(
-                    "**1. Summary of the Paper**\nThis is a mock summary.\n\n"
-                    "**2. Strengths**\n- Example strength.\n\n"
-                    "**3. Weaknesses**\n- Example weakness.\n\n"
-                    "**9. Final Recommendation**\n📌 Reject."
-                )
 
-        with open(review_file, "r", encoding="utf-8") as f:
-            review_text = f.read()
-        sections = parse_review(review_text)
+        review_text = result.get("final_review_text")
+
+        if not review_text:
+            review_file = "data/results/review.txt"
+            with open(review_file, "r", encoding="utf-8") as f:
+                review_text = f.read()
+                sections = parse_review(review_text)
 
         return jsonify({"review": sections})
 

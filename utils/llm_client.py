@@ -16,7 +16,7 @@ def query_llm(prompt: str) -> str:
     """
     # --- Try Gemini ---
     try:
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.5-flash")
         resp = model.generate_content(prompt)
         return resp.text
     except Exception as e:

@@ -1,6 +1,8 @@
 from langgraph.graph import StateGraph, END
 from state.review_state import ReviewState
+
 from agents.planner_agent import planner_agent
+
 from tools.novelty_tool import novelty_search_tool
 from tools.plagiarism_tool import plagiarism_detection_tool
 from tools.citation_tool import citation_check_tool
@@ -8,7 +10,10 @@ from tools.claim_tool import claim_mapping_tool
 from tools.factual_tool import factual_check_tool
 from tools.deep_search_tool import deep_search_tool
 
-# TOOL EXECUTION NODE
+from debate_agents.reviewer_agent import reviewer_agent
+from debate_agents.critic_agent import critic_agent
+from debate_agents.meta_reviewer import meta_reviewer
+
 
 def run_tools(state: ReviewState):
 
@@ -49,26 +54,6 @@ def run_tools(state: ReviewState):
 
     return state
 
-# REFLECTION NODE
-
-from pathlib import Path
-from utils.llm_review_synthesis import synthesize_report
-
-def reflection_node(state):
-
-    paper_dir = Path("data/results")
-    review_path = Path("data/results/review.txt")
-
-    synthesize_report(
-        paper_dir=paper_dir,
-        output_file=review_path
-    )
-
-    state["final_review"] = str(review_path)
-
-    return state
-
-# GRAPH BUILDER
 
 def build_graph():
 
@@ -76,14 +61,19 @@ def build_graph():
 
     builder.add_node("planner", planner_agent)
     builder.add_node("tools", run_tools)
-    builder.add_node("reflection", reflection_node)
+
+    builder.add_node("reviewer", reviewer_agent)
+    builder.add_node("critic", critic_agent)
+    builder.add_node("meta_reviewer", meta_reviewer)
 
     builder.set_entry_point("planner")
 
     builder.add_edge("planner", "tools")
-    builder.add_edge("tools", "reflection")
-    builder.add_edge("reflection", END)
+    builder.add_edge("tools", "reviewer")
+    builder.add_edge("reviewer", "critic")
+    builder.add_edge("critic", "meta_reviewer")
+    builder.add_edge("meta_reviewer", END)
 
     graph = builder.compile()
 
-    return graph    
+    return graph

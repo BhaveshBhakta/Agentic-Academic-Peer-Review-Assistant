@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Energy conditions in generalized teleparallel gravity models",
+        "abstract": "In this paper, we investigate the energy conditions (including null, weak, strong, dominant) in generalized teleparallel gravities including pure $F(T)$, teleparallel gravity with non-minimally coupled scalar field and $F(T)$ with non-minimally coupled scalar field models. In particular, we apply them to Friedmann-Robertson-Walker (FRW) cosmology and obtain some corresponding results. Using two specific phenomenological forms of $F(T)$, we show that some of the energy conditions are violated.",
+        "link": "https://arxiv.org/abs/1211.3740v2",
+        "published": "2012-11-15T16:08:53Z",
+        "pdf_url": "http://arxiv.org/pdf/1211.3740v2.pdf",
+        "txt_path": "data/parsed_text/general_paper_1.txt",
+        "pdf_path": "data/pdfs/general_paper_1.pdf"
+    },
+    {
+        "title": "Goldberger-Treiman constraint criteria for hyperon coupling constants",
+        "abstract": "The generalized Goldberger-Treiman relation is combined with the Dashen-Weinstein sum rule to provide a constraint equation between the g(KSigmaN) and g(KLambdaN) coupling constants. A comprehensive examination of the published phenomenological and theoretical hyperon couplings has yielded a much smaller set of values, spanning the intervals 0.80<=g(KSigmaN)/Sqrt(4Pi)<=2.72 and -3.90<=g(KLambdaN)/Sqrt(4Pi)<=-1.84, consistent with this criteria. The SU(3) and Goldberger-Treiman hyperon couplings satisfy the constraint along with predictions from a Taylor series extrapolation using the same momentum variation as exhibited by g(PiNN).",
+        "link": "https://arxiv.org/abs/nucl-th/0311039v2",
+        "published": "2003-11-12T01:50:07Z",
+        "pdf_url": "http://arxiv.org/pdf/nucl-th/0311039v2.pdf",
+        "txt_path": "data/parsed_text/general_paper_2.txt",
+        "pdf_path": "data/pdfs/general_paper_2.pdf"
+    },
+    {
+        "title": "The Canonical Lagrangian Approach To Three-Space General Relativity",
+        "abstract": "We study the action for the three-space formalism of General Relativity, better known as the BFÓ (Barbour--Foster--Ó Murchadha) action, which is a square-root BSW (Baierlein--Sharp--Wheeler) action. In particular, we explore the (pre)symplectic structure by pulling it back via a Legendre map to the tangent bundle of the configuration space of this action. With it we attain the canonical Lagrangian vector field which generates the gauge transformations (3-diffeomorphisms) and the true physical evolution of the system. This vector field encapsulates all the dynamics of the system. We also discuss briefly the observables and perennials for this theory. We then present a symplectic reduction of the constrained phase space.",
+        "link": "https://arxiv.org/abs/1209.5042v3",
+        "published": "2012-09-23T09:31:18Z",
+        "pdf_url": "http://arxiv.org/pdf/1209.5042v3.pdf",
+        "txt_path": "data/parsed_text/general_paper_3.txt",
+        "pdf_path": "data/pdfs/general_paper_3.pdf"
+    },
+    {
+        "title": "Fixed mesh refinement in the characteristic formulation of General Relativity",
+        "abstract": "We implement a spatially fixed mesh refinement under spherical symmetry for the characteristic formulation of General Relativity. The Courant-Friedrich-Levy (CFL) condition lets us deploy an adaptive resolution in (retarded-like) time, even for the nonlinear regime. As test cases, we replicate the main features of the gravitational critical behavior and the spacetime structure at null infinity using the Bondi mass and the News function. Additionally, we obtain the global energy conservation for an extreme situation, i.e. in the threshold of the black hole formation. In principle, the calibrated code can be used in conjunction with an ADM 3+1 code to confirm the critical behavior recently reported in the gravitational collapse of a massless scalar field in an asymptotic anti-de Sitter spacetime. For the scenarios studied, the fixed mesh refinement offers improved runtime and results comparable to code without mesh refinement.",
+        "link": "https://arxiv.org/abs/1707.04938v1",
+        "published": "2017-07-16T19:45:30Z",
+        "pdf_url": "http://arxiv.org/pdf/1707.04938v1.pdf",
+        "txt_path": "data/parsed_text/general_paper_4.txt",
+        "pdf_path": "data/pdfs/general_paper_4.pdf"
+    },
+    {
+        "title": "Post-Newtonian Generation of Gravitational Waves in a Theory of Gravity with Torsion",
+        "abstract": "We adapt the post-Newtonian gravitational-radiation methods developed within general relativity by Epstein and Wagoner to the gravitation theory with torsion, recently proposed by Hehl et al., and show that the two theories predict in this approximation the same gravitational radiation losses. Since they agree also on the first post-Newtonian level, they are at the present time - observationally - indistinguishable.",
+        "link": "https://arxiv.org/abs/2305.01603v1",
+        "published": "2023-05-02T17:06:21Z",
+        "pdf_url": "http://arxiv.org/pdf/2305.01603v1.pdf",
+        "txt_path": "data/parsed_text/general_paper_5.txt",
+        "pdf_path": "data/pdfs/general_paper_5.pdf"
+    },
+    {
+        "title": "The Dynamic Space of General Relativity in Second Atomization",
+        "abstract": "The notion that the geometry of our space-time is not only a static background but can be physically dynamic is well established in general relativity. Geometry can be described as shaped by the presence of matter, where such shaping manifests itself as gravitational force. We consider here probabilistic or atomistic models of such space-time, in which the active geometry emerges from a statistical distribution of 'atoms'. Such atoms are not to be confused with their chemical counterparts, however the shift of perspective obtained in analyzing a gas via its molecules rather than its bulk properties is analogous to this \"second atomization\". In this atomization, space-time itself (i.e. the meter and the second) is effectively atomized, so the atoms themselves must exist in a 'subspace'.\n  Here we build a simple model of such a space-time from the ground up, establishing a route for more complete theories, and enabling a review of recent work. We first introduce the motivation behind statistical interpretations and atomism, and look at applications to the realm of dynamic space-time theories. We then consider models of kinetic media in subspace compatible with our understanding of light. From the equations governing the propagation of light in subspace we can build a metric geometry, describing the dynamic and physical space-time of general relativity. Finally, implications of the theory on current frontiers of general relativity including cosmology, black holes, and quantum gravity are discussed.",
+        "link": "https://arxiv.org/abs/gr-qc/0405132v2",
+        "published": "2004-05-26T18:03:24Z",
+        "pdf_url": "http://arxiv.org/pdf/gr-qc/0405132v2.pdf",
+        "txt_path": "data/parsed_text/general_paper_6.txt",
+        "pdf_path": "data/pdfs/general_paper_6.pdf"
+    },
+    {
+        "title": "Magnetic Levitation and Compression of Compact Tori",
+        "abstract": "The magnetic compression experiment at General Fusion was a repetitive non-destructive test to study plasma physics to Magnetic Target Fusion compression. A compact torus (CT) is formed with a co-axial gun into a containment region with an hour-glass shaped inner flux conserver, and an insulating outer wall. External coil currents keep the CT off the outer wall (radial levitation) and then rapidly compress it inwards. The optimal external coil configuration greatly improved both the levitated CT lifetime and the rate of shots with good flux conservation during compression. As confirmed by spectrometer data, the improved levitation field profile reduced plasma impurity levels by suppressing the interaction between plasma and the insulating outer wall during the formation process. Significant increases in magnetic field, density, and ion temperature were routinely observed at magnetic compression despite the prevalence of an instability, thought be an external kink, at compression. Matching the decay rate of the levitation coil currents to that of the internal CT currents resulted in a reduced level of MHD activity associated with unintentional compression by the levitation field, and a higher probability of long-lived CTs. An axisymmetric finite element MHD code that conserves system energy, particle count, angular momentum, and toroidal flux, was developed to study CT formation into a levitation field and magnetic compression. An overview of the principal experimental observations, and comparisons between simulated and experimental diagnostics are presented.",
+        "link": "https://arxiv.org/abs/1907.10307v4",
+        "published": "2019-07-24T08:54:22Z",
+        "pdf_url": "http://arxiv.org/pdf/1907.10307v4.pdf",
+        "txt_path": "data/parsed_text/general_paper_7.txt",
+        "pdf_path": "data/pdfs/general_paper_7.pdf"
+    },
+    {
+        "title": "The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence",
+        "abstract": "We attempt to define what is necessary to construct an Artificial Scientist, explore and evaluate several approaches to artificial general intelligence (AGI) which may facilitate this, conclude that a unified or hybrid approach is necessary and explore two theories that satisfy this requirement to some degree.",
+        "link": "https://arxiv.org/abs/2110.01831v1",
+        "published": "2021-10-05T05:58:23Z",
+        "pdf_url": "http://arxiv.org/pdf/2110.01831v1.pdf",
+        "txt_path": "data/parsed_text/general_paper_8.txt",
+        "pdf_path": "data/pdfs/general_paper_8.pdf"
+    },
+    {
+        "title": "On uniqueness of the foliation by comoving observers restspaces of a Generalized Robertson Walker spacetime",
+        "abstract": "A characterization of the foliation by spacelike slices of an $(n+1)$-dimensional spatially closed Generalized Robertson-Walker spacetime is given by means of studying a natural mean curvature type equation on spacelike graphs. Under some natural assumptions, of physical or geometric nature, all the entire solutions of such an equation are obtained. In particular, the case of entire spacelike graphs in de Sitter spacetime is faced and completely solved by means of a new application of a known integral formula.",
+        "link": "https://arxiv.org/abs/1902.08776v1",
+        "published": "2019-02-23T11:30:22Z",
+        "pdf_url": "http://arxiv.org/pdf/1902.08776v1.pdf",
+        "txt_path": "data/parsed_text/general_paper_9.txt",
+        "pdf_path": "data/pdfs/general_paper_9.pdf"
+    },
+    {
+        "title": "General relativistic spinning fluids with a modified projection tensor",
+        "abstract": "An energy-momentum tensor for general relativistic spinning fluids compatible with Tulczyjew-type supplementary condition is derived from the variation of a general Lagrangian with unspecified explicit form. This tensor is the sum of a term containing the Belinfante-Rosenfeld tensor and a modified perfect-fluid energy-momentum tensor in which the four-velocity is replaced by a unit four-vector in the direction of fluid momentum. The equations of motion are obtained and it is shown that they admit a Friedmann-Robertson-Walker space-time as a solution.",
+        "link": "https://arxiv.org/abs/1005.3108v1",
+        "published": "2010-05-18T06:16:17Z",
+        "pdf_url": "http://arxiv.org/pdf/1005.3108v1.pdf",
+        "txt_path": "data/parsed_text/general_paper_10.txt",
+        "pdf_path": "data/pdfs/general_paper_10.pdf"
+    },
+    {
+        "title": "General Relativistic effects in the structure of massive white dwarfs",
+        "abstract": "In this work we investigate the structure of white dwarfs using the Tolman-Oppenheimer-Volkoff equations and compare our results with those obtained from Newtonian equations of gravitation in order to put in evidence the importance of General Relativity (GR) for the structure of such stars. We consider in this work for the matter inside white dwarfs two equations of state, frequently found in the literature, namely, the Chandrasekhar and Salpeter equations of state. We find that using Newtonian equilibrium equations, the radii of massive white dwarfs ($M>1.3M_{\\odot}$) are overestimated in comparison with GR outcomes. For a mass of $1.415M_{\\odot}$ the white dwarf radius predicted by GR is about 33\\% smaller than the Newtonian one. Hence, in this case, for the surface gravity the difference between the general relativistic and Newtonian outcomes is about 65\\%. We depict the general relativistic mass-radius diagrams as $M/M_{\\odot}=R/(a+bR+cR^2+dR^3+kR^4)$, where $a$, $b$, $c$ and $d$ are parameters obtained from a fitting procedure of the numerical results and $k=(2.08\\times 10^{-6}R_{\\odot})^{-1}$, being $R_{\\odot}$ the radius of the Sun in km. Lastly, we point out that GR plays an important role to determine any physical quantity that depends, simultaneously, on the mass and radius of massive white dwarfs.",
+        "link": "https://arxiv.org/abs/1709.01635v3",
+        "published": "2017-09-06T00:20:38Z",
+        "pdf_url": "http://arxiv.org/pdf/1709.01635v3.pdf",
+        "txt_path": "data/parsed_text/general_paper_11.txt",
+        "pdf_path": "data/pdfs/general_paper_11.pdf"
+    },
+    {
+        "title": "Generalized Uncertainty Principle and Quantum Electrodynamics",
+        "abstract": "In the present work the role that a generalized uncertainty principle could play in the quantization of the electromagnetic field is analyzed. It will be shown that we may speak of a Fock space, a result that implies that the concept of photon is properly defined. Nevertheless, in this new context the creation and annihilation operators become a function of the new term that modifies the Heisenberg algebra, and hence the Hamiltonian is not anymore diagonal in the occupation number representation. Additionally, we show the changes that the energy expectation value suffers as result of the presence of an extra term in the uncertainty principle. The existence of a deformed dispersion relation is also proved.",
+        "link": "https://arxiv.org/abs/gr-qc/0303061v1",
+        "published": "2003-03-17T15:56:56Z",
+        "pdf_url": "http://arxiv.org/pdf/gr-qc/0303061v1.pdf",
+        "txt_path": "data/parsed_text/general_paper_12.txt",
+        "pdf_path": "data/pdfs/general_paper_12.pdf"
+    },
+    {
+        "title": "A simple characterization of generalized Robertson-Walker spacetimes",
+        "abstract": "A generalized Robertson-Walker spacetime is the warped product with base an open interval of the real line endowed with the opposite of its metric and base any Riemannian manifold. The family of generalized Robertson-Walker spacetimes widely extends the one of classical Robertson-Walker spacetimes. In this article we prove a very simple characterization of generalized Robertson-Walker spacetimes; namely, a Lorentzian manifold is a generalized Robertson-Walker spacetime if and only if it admits a timelike concircular vector field.",
+        "link": "https://arxiv.org/abs/1411.0270v1",
+        "published": "2014-11-02T15:29:52Z",
+        "pdf_url": "http://arxiv.org/pdf/1411.0270v1.pdf",
+        "txt_path": "data/parsed_text/general_paper_13.txt",
+        "pdf_path": "data/pdfs/general_paper_13.pdf"
+    },
+    {
+        "title": "Magnetic black holes in Weitzenböck geometry",
+        "abstract": "We derive magnetic black hole solutions using a general gauge potential in the framework of teleparallel equivalent general relativity. One of the solutions gives a non-trivial value of the scalar torsion. This non-triviality of the torsion scalar depends on some values of the magnetic field. The metric of those solutions behave asymptotically as Anti-de-Sitter/ de-Sitter (AdS/dS) spacetimes. The energy conditions are discussed in details. Also, we calculate the torsion and curvature invariants to discuss singularities. Additionally, we calculate the conserved quantities using the Einstein-Cartan geometry to understand the physics of the constants appearing into the solutions.",
+        "link": "https://arxiv.org/abs/1903.11165v1",
+        "published": "2019-03-26T21:48:44Z",
+        "pdf_url": "http://arxiv.org/pdf/1903.11165v1.pdf",
+        "txt_path": "data/parsed_text/general_paper_14.txt",
+        "pdf_path": "data/pdfs/general_paper_14.pdf"
+    },
+    {
+        "title": "Generalized observers and velocity measurements in General Relativity",
+        "abstract": "To resolve some unphysical interpretations related to velocity measurements by static observers, we discuss the use of generalized observer sets, give a prescription for defining the speed of test particles relative to those observers and show that, for any locally inertial frame, the speed of a freely falling material particle is always less than the speed of light at the Schwarzschild black hole surface.",
+        "link": "https://arxiv.org/abs/gr-qc/0111073v1",
+        "published": "2001-11-21T20:29:47Z",
+        "pdf_url": "http://arxiv.org/pdf/gr-qc/0111073v1.pdf",
+        "txt_path": "data/parsed_text/general_paper_15.txt",
+        "pdf_path": "data/pdfs/general_paper_15.pdf"
+    }
+]
