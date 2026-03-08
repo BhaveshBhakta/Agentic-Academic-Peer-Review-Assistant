@@ -4,12 +4,10 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from PyPDF2 import PdfReader
 
-
 FAISS_INDEX = "data/faiss_indexes/global_index.bin"
 FAISS_MAPPING = "data/faiss_indexes/global_mapping.json"
 
 model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
-
 
 def extract_text_from_pdf(pdf_path, max_chars=2000):
     text = ""
@@ -21,10 +19,8 @@ def extract_text_from_pdf(pdf_path, max_chars=2000):
         pass
     return text[:max_chars]
 
-
 def normalize(v):
     return v / np.linalg.norm(v, axis=1, keepdims=True)
-
 
 def retrieve_literature(pdf_path, top_k=5):
 

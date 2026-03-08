@@ -4,13 +4,10 @@ from PyPDF2 import PdfReader
 def extract_paper_text(pdf_path, max_chars=3000):
 
     text = ""
-
     try:
         reader = PdfReader(pdf_path)
-
         for page in reader.pages[:3]:
             text += page.extract_text() or ""
-
     except:
         pass
 
@@ -27,8 +24,6 @@ def reviewer_agent(state):
         for p in papers
     )
 
-    # ---------------- Citation Summary ----------------
-
     citation_data = state.get("citation_result", {})
     citation_analysis = citation_data.get("analysis", {})
 
@@ -37,8 +32,6 @@ def reviewer_agent(state):
         f"Recent citations: {citation_analysis.get('recent_percentage', 'N/A')}%\n"
         f"Missing DOIs: {citation_analysis.get('missing_dois', 'N/A')}"
     )
-
-    # ---------------- Novelty Summary ----------------
 
     novelty_results = state.get("novelty_result", {}).get("results", [])
 
@@ -50,8 +43,6 @@ def reviewer_agent(state):
 
     novelty_summary = "\n".join(novelty_lines) if novelty_lines else "No similar papers found."
 
-    # ---------------- Plagiarism Summary ----------------
-
     plag_summary_data = state.get("plagiarism_result", {}).get("summary", {})
 
     plagiarism_summary = (
@@ -60,16 +51,12 @@ def reviewer_agent(state):
         f"Risk level: {plag_summary_data.get('plagiarism_risk', 'Unknown')}"
     )
 
-    # ---------------- Factual Summary ----------------
-
     factual_issues = state.get("factual_result", {}).get("issues", {})
 
     factual_summary = (
         f"Hard issues: {len(factual_issues.get('hard_checks', []))}\n"
         f"Statistical issues: {len(factual_issues.get('statistical_checks', []))}"
     )
-
-    # ---------------- Prompt ----------------
 
     prompt = f"""
 You are an expert academic peer reviewer.

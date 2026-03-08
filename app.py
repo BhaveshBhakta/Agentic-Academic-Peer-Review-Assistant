@@ -66,7 +66,6 @@ def review():
         }
 
         result = agent_graph.invoke(state)
-        print("\nLANGGRAPH RESULT:\n", result)
 
         review_text = result.get("final_review_text", "")
 

@@ -1,8 +1,6 @@
 from langgraph.graph import StateGraph, END
 from state.review_state import ReviewState
-
 from agents.planner_agent import planner_agent
-
 from tools.novelty_tool import novelty_search_tool
 from tools.plagiarism_tool import plagiarism_detection_tool
 from tools.citation_tool import citation_check_tool
@@ -14,7 +12,6 @@ from debate_agents.reviewer_agent import reviewer_agent
 from debate_agents.critic_agent import critic_agent
 from debate_agents.meta_reviewer import meta_reviewer
 
-
 import json
 
 def load_json_safe(path):
@@ -23,7 +20,6 @@ def load_json_safe(path):
             return json.load(f)
     except:
         return {"error": f"Failed to load {path}"}
-
 
 def run_tools(state: ReviewState):
 
@@ -58,7 +54,6 @@ def run_tools(state: ReviewState):
         deep_search_tool.invoke({"topic": topic})
 
     return state
-
 
 def build_graph():
 
