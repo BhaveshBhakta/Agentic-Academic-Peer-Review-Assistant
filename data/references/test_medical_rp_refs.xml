@@ -109,7 +109,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.6.2" ident="GROBID" when="2026-03-07T13:38+0000">
+				<application version="0.6.2" ident="GROBID" when="2026-03-08T15:05+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -135,38 +135,49 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">High-performance medicine: the convergence of human and artificial intelligence</title>
 		<author>
-			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Topol</surname></persName>
+			<persName><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Topol</surname></persName>
+			<idno type="ORCID">0000-0002-1478-4729</idno>
 		</author>
+		<idno type="DOI">10.1038/s41591-018-0300-7</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Nat Med</title>
+		<title level="j">Nature Medicine</title>
+		<title level="j" type="abbrev">Nat Med</title>
+		<idno type="ISSN">1078-8956</idno>
+		<idno type="ISSNe">1546-170X</idno>
 		<imprint>
 			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
 			<biblScope unit="page" from="44" to="56" />
-			<date type="published" when="2019" />
+			<date type="published" when="2019-01" />
+			<publisher>Springer Science and Business Media LLC</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b1">
 	<analytic>
-		<title level="a" type="main">Finding the missing link for big biomedical data</title>
+		<title level="a" type="main">Finding the Missing Link for Big Biomedical Data</title>
 		<author>
-			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+			<persName><forename type="first">Griffin</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Mandl</surname></persName>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">D</forename><surname>Mandl</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
+			<persName><forename type="first">Isaac</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
 		</author>
+		<idno type="DOI">10.1001/jama.2014.4228</idno>
 	</analytic>
 	<monogr>
 		<title level="j">JAMA</title>
+		<title level="j" type="abbrev">JAMA</title>
+		<idno type="ISSN">0098-7484</idno>
 		<imprint>
 			<biblScope unit="volume">311</biblScope>
 			<biblScope unit="page" from="2479" to="2480" />
-			<date type="published" when="2014" />
+			<date type="published" when="2014-05-22" />
+			<publisher>American Medical Association (AMA)</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -175,26 +186,21 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Biases in electronic health record data due to processes within the healthcare system: retrospective observational study</title>
 		<author>
-			<persName><forename type="first">Denis</forename><surname>Agniel</surname></persName>
+			<persName><forename type="first">D</forename><surname>Agniel</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Isaac</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Griffin</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
 		</author>
-		<idno type="DOI">10.1136/bmj.k1479</idno>
 	</analytic>
 	<monogr>
 		<title level="j">BMJ</title>
-		<title level="j" type="abbrev">BMJ</title>
-		<idno type="ISSN">0959-8138</idno>
-		<idno type="ISSNe">1756-1833</idno>
 		<imprint>
 			<biblScope unit="volume">361</biblScope>
-			<biblScope unit="page">k1479</biblScope>
-			<date type="published" when="2018-04-30" />
-			<publisher>BMJ</publisher>
+			<biblScope unit="page">1479</biblScope>
+			<date type="published" when="2018" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -203,39 +209,21 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Mayo clinical Text Analysis and Knowledge Extraction System (cTAKES): architecture, component evaluation and applications</title>
 		<author>
-			<persName><forename type="first">Guergana</forename><forename type="middle">K</forename><surname>Savova</surname></persName>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Savova</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">James</forename><forename type="middle">J</forename><surname>Masanz</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Masanz</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Philip</forename><forename type="middle">V</forename><surname>Ogren</surname></persName>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Ogren</surname></persName>
 		</author>
-		<author>
-			<persName><forename type="first">Jiaping</forename><surname>Zheng</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Sunghwan</forename><surname>Sohn</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Karin</forename><forename type="middle">C</forename><surname>Kipper-Schuler</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Christopher</forename><forename type="middle">G</forename><surname>Chute</surname></persName>
-		</author>
-		<idno type="DOI">10.1136/jamia.2009.001560</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Journal of the American Medical Informatics Association</title>
-		<title level="j" type="abbrev">J Am Med Inform Assoc</title>
-		<idno type="ISSN">1067-5027</idno>
-		<idno type="ISSNe">1527-974X</idno>
+		<title level="j">J Am Med Inform Assoc</title>
 		<imprint>
 			<biblScope unit="volume">17</biblScope>
-			<biblScope unit="issue">5</biblScope>
 			<biblScope unit="page" from="507" to="513" />
-			<date type="published" when="2010-09" />
-			<publisher>Oxford University Press (OUP)</publisher>
+			<date type="published" when="2010" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -311,31 +299,29 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b6">
 	<analytic>
-		<title level="a" type="main">Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks</title>
+		<title level="a" type="main">Distillation as a defense to adversarial perturbations against deep neural networks</title>
 		<author>
-			<persName><forename type="first">Nicolas</forename><surname>Papernot</surname></persName>
+			<persName><forename type="first">N</forename><surname>Papernot</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Patrick</forename><surname>Mcdaniel</surname></persName>
+			<persName><forename type="first">P</forename><surname>Mcdaniel</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Xi</forename><surname>Wu</surname></persName>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Somesh</forename><surname>Jha</surname></persName>
+			<persName><forename type="first">S</forename><surname>Jha</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Ananthram</forename><surname>Swami</surname></persName>
+			<persName><forename type="first">A</forename><surname>Swami</surname></persName>
 		</author>
-		<idno type="DOI">10.1109/sp.2016.41</idno>
+		<idno type="DOI">10.1109/SP.2016.41</idno>
 	</analytic>
 	<monogr>
-		<title level="m">2016 IEEE Symposium on Security and Privacy (SP)</title>
+		<title level="m">IEEE Symposium on Security and Privacy</title>
 				<meeting><address><addrLine>San Jose, CA</addrLine></address></meeting>
 		<imprint>
-			<publisher>IEEE</publisher>
-			<date type="published" when="2016-05" />
-			<biblScope unit="page" from="582" to="597" />
+			<date type="published" when="2016" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -344,27 +330,21 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Epidemiology and risk profile of heart failure</title>
 		<author>
-			<persName><forename type="first">Anh</forename><forename type="middle">L</forename><surname>Bui</surname></persName>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Bui</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Tamara</forename><forename type="middle">B</forename><surname>Horwich</surname></persName>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Horwich</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Gregg</forename><forename type="middle">C</forename><surname>Fonarow</surname></persName>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Fonarow</surname></persName>
 		</author>
-		<idno type="DOI">10.1038/nrcardio.2010.165</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Nature Reviews Cardiology</title>
-		<title level="j" type="abbrev">Nat Rev Cardiol</title>
-		<idno type="ISSN">1759-5002</idno>
-		<idno type="ISSNe">1759-5010</idno>
+		<title level="j">Nat Rev Cardiol</title>
 		<imprint>
 			<biblScope unit="volume">8</biblScope>
-			<biblScope unit="issue">1</biblScope>
 			<biblScope unit="page" from="30" to="41" />
-			<date type="published" when="2010-11-09" />
-			<publisher>Springer Science and Business Media LLC</publisher>
+			<date type="published" when="2011" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -394,73 +374,32 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b9">
 	<analytic>
-		<title level="a" type="main">Making Big Data Useful for Health Care: A Summary of the Inaugural MIT Critical Data Conference</title>
+		<title level="a" type="main">Making big data useful for health care: a summary of the inaugural MIT critical data conference</title>
 		<author>
-			<persName><forename type="first">Omar</forename><surname>Badawi</surname></persName>
+			<persName><forename type="first">O</forename><surname>Badawi</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Thomas</forename><surname>Brennan</surname></persName>
+			<persName><forename type="first">T</forename><surname>Brennan</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Leo</forename><forename type="middle">Anthony</forename><surname>Celi</surname></persName>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Celi</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Mengling</forename><surname>Feng</surname></persName>
+			<persName><forename type="first">M</forename><surname>Feng</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Marzyeh</forename><surname>Ghassemi</surname></persName>
+			<persName><forename type="first">M</forename><surname>Ghassemi</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Andrea</forename><surname>Ippolito</surname></persName>
+			<persName><forename type="first">A</forename><surname>Ippolito</surname></persName>
 		</author>
-		<author>
-			<persName><forename type="first">Alistair</forename><surname>Johnson</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Roger</forename><forename type="middle">G</forename><surname>Mark</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Louis</forename><surname>Mayaud</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">George</forename><surname>Moody</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Christopher</forename><surname>Moses</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Tristan</forename><surname>Naumann</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Vipan</forename><surname>Nikore</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Marco</forename><surname>Pimentel</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Tom</forename><forename type="middle">J</forename><surname>Pollard</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Mauro</forename><surname>Santos</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">David</forename><forename type="middle">J</forename><surname>Stone</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Andrew</forename><surname>Zimolzak</surname></persName>
-		</author>
-		<idno type="DOI">10.2196/medinform.3447</idno>
 	</analytic>
 	<monogr>
-		<title level="j">JMIR Medical Informatics</title>
-		<title level="j" type="abbrev">JMIR Med Inform</title>
-		<idno type="ISSNe">2291-9694</idno>
+		<title level="j">JMIR Med Inform</title>
 		<imprint>
 			<biblScope unit="volume">2</biblScope>
-			<biblScope unit="issue">2</biblScope>
 			<biblScope unit="page">e22</biblScope>
-			<date type="published" when="2014-08-22" />
-			<publisher>JMIR Publications Inc.</publisher>
+			<date type="published" when="2014" />
 		</imprint>
 	</monogr>
 </biblStruct>

@@ -6,21 +6,27 @@ def critic_agent(state):
     draft = state.get("reviewer_draft", "")
 
     prompt = f"""
-You are a strict academic reviewer.
+You are a senior academic reviewer.
 
-Your task is to critique the following peer review.
+Below is a draft peer review.
 
-Review:
+Your job is NOT to criticize the reviewer.
+
+Instead, evaluate whether the review properly evaluates the research paper.
+
+Draft Review:
 {draft}
 
-Identify:
+Check whether the review:
 
-1. Missing evidence
-2. Weak reasoning
-3. Unsupported claims
-4. Overlooked weaknesses
+• Identifies strengths
+• Identifies weaknesses
+• Provides suggestions
+• Provides a clear recommendation
 
-Write a critique explaining what is wrong or incomplete in the review.
+If something is missing, explain what should be improved.
+
+Do not claim the review is empty unless it is truly empty.
 """
 
     critique = query_llm(prompt)

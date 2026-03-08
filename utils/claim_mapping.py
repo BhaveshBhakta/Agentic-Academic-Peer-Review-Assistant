@@ -231,9 +231,13 @@ def main():
 
     # Print summary
     for m in mappings:
-        print("\nClaim:", m["claim"])
-        print("Similarity:", m["similarity"], "| Novel:", m["is_novel"])
-        print("Matched paper:", m["matched_paper_title"], "| Matched claim:", m["matched_claim"])
+        print("\nClaim:", m.get("claim"))
+        print("Similarity:", m.get("similarity"), "| Novel:", m.get("is_novel"))
+
+        matched_paper = m.get("matched_paper_title", "None")
+        matched_claim = m.get("matched_claim", "None")
+
+    print("Matched paper:", matched_paper, "| Matched claim:", matched_claim)
 
 if __name__ == "__main__":
     main()

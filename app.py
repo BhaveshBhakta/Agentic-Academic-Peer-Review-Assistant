@@ -66,16 +66,19 @@ def review():
         }
 
         result = agent_graph.invoke(state)
+        print("\nLANGGRAPH RESULT:\n", result)
 
-        review_text = result.get("final_review_text")
+        review_text = result.get("final_review_text", "")
 
-        if not review_text:
+        if not review_text or len(review_text.strip()) < 20:
             review_file = "data/results/review.txt"
+
             if os.path.exists(review_file):
                 with open(review_file, "r", encoding="utf-8") as f:
                     review_text = f.read()
+
             else:
-                review_text = "**9. Final Recommendation**\nReview generation failed."
+                review_text = "Review generation failed."
 
         sections = parse_review(review_text)
 

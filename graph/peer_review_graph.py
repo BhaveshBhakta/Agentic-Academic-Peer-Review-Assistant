@@ -15,6 +15,16 @@ from debate_agents.critic_agent import critic_agent
 from debate_agents.meta_reviewer import meta_reviewer
 
 
+import json
+
+def load_json_safe(path):
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except:
+        return {"error": f"Failed to load {path}"}
+
+
 def run_tools(state: ReviewState):
 
     tools = state.get("tools_to_run", [])
@@ -22,35 +32,30 @@ def run_tools(state: ReviewState):
     topic = state.get("topic", "general")
 
     if "novelty_search" in tools:
-        state["novelty_result"] = novelty_search_tool.invoke({
-            "pdf_path": pdf_path
-        })
+        path = novelty_search_tool.invoke({"pdf_path": pdf_path})
+        state["novelty_result"] = load_json_safe(path)
 
     if "plagiarism_detection" in tools:
-        state["plagiarism_result"] = plagiarism_detection_tool.invoke({
-            "pdf_path": pdf_path
-        })
+        path = plagiarism_detection_tool.invoke({"pdf_path": pdf_path})
+        state["plagiarism_result"] = load_json_safe(path)
 
     if "citation_quality" in tools:
-        state["citation_result"] = citation_check_tool.invoke({
-            "pdf_path": pdf_path
-        })
+        path = citation_check_tool.invoke({"pdf_path": pdf_path})
+        state["citation_result"] = load_json_safe(path)
 
     if "claim_mapping" in tools:
-        state["claim_result"] = claim_mapping_tool.invoke({
-            "pdf_path": pdf_path
-        })
+        path = claim_mapping_tool.invoke({"pdf_path": pdf_path})
+        state["claim_result"] = load_json_safe(path)
 
     if "factual_check" in tools:
-        state["factual_result"] = factual_check_tool.invoke({
+        path = factual_check_tool.invoke({
             "pdf_path": pdf_path,
             "topic": topic
         })
+        state["factual_result"] = load_json_safe(path)
 
     if "deep_search" in tools:
-        deep_search_tool.invoke({
-            "topic": topic
-        })
+        deep_search_tool.invoke({"topic": topic})
 
     return state
 

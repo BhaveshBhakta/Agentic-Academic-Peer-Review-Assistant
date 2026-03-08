@@ -16,6 +16,6 @@ class ReviewState(TypedDict):
     claim_result: Dict
     factual_result: Dict
 
-    review_draft: str
+    reviewer_draft: str
     critic_feedback: str
     final_review_text: str

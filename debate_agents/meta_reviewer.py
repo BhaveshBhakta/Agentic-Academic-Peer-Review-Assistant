@@ -9,7 +9,7 @@ def meta_reviewer(state):
     prompt = f"""
 You are a senior meta reviewer.
 
-Use the review and critique to produce a final academic peer review.
+You must combine the draft review and the critique into a final peer review.
 
 Draft Review:
 {review}
@@ -17,17 +17,15 @@ Draft Review:
 Critique:
 {critique}
 
-Write the FINAL review with:
+Produce a final review using the structure below.
 
-**1. Summary of the Paper**
+1. Summary of the Paper
+2. Strengths
+3. Weaknesses
+4. Suggestions
+9. Final Recommendation
 
-**2. Strengths**
-
-**3. Weaknesses**
-
-**4. Suggestions**
-
-**9. Final Recommendation**
+Ensure the review is detailed and reflects the critique if improvements are needed.
 """
 
     final_review = query_llm(prompt)
