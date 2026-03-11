@@ -109,7 +109,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.6.2" ident="GROBID" when="2026-03-08T15:42+0000">
+				<application version="0.6.2" ident="GROBID" when="2026-03-11T05:46+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -157,27 +157,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b1">
 	<analytic>
-		<title level="a" type="main">Finding the Missing Link for Big Biomedical Data</title>
+		<title level="a" type="main">Finding the missing link for big biomedical data</title>
 		<author>
-			<persName><forename type="first">Griffin</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Kenneth</forename><forename type="middle">D</forename><surname>Mandl</surname></persName>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Mandl</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Isaac</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
 		</author>
-		<idno type="DOI">10.1001/jama.2014.4228</idno>
 	</analytic>
 	<monogr>
 		<title level="j">JAMA</title>
-		<title level="j" type="abbrev">JAMA</title>
-		<idno type="ISSN">0098-7484</idno>
 		<imprint>
 			<biblScope unit="volume">311</biblScope>
 			<biblScope unit="page" from="2479" to="2480" />
-			<date type="published" when="2014-05-22" />
-			<publisher>American Medical Association (AMA)</publisher>
+			<date type="published" when="2014" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -186,21 +182,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Biases in electronic health record data due to processes within the healthcare system: retrospective observational study</title>
 		<author>
-			<persName><forename type="first">D</forename><surname>Agniel</surname></persName>
+			<persName><forename type="first">Denis</forename><surname>Agniel</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
+			<persName><forename type="first">Isaac</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+			<persName><forename type="first">Griffin</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
 		</author>
+		<idno type="DOI">10.1136/bmj.k1479</idno>
 	</analytic>
 	<monogr>
 		<title level="j">BMJ</title>
+		<title level="j" type="abbrev">BMJ</title>
+		<idno type="ISSN">0959-8138</idno>
+		<idno type="ISSNe">1756-1833</idno>
 		<imprint>
 			<biblScope unit="volume">361</biblScope>
-			<biblScope unit="page">1479</biblScope>
-			<date type="published" when="2018" />
+			<biblScope unit="page">k1479</biblScope>
+			<date type="published" when="2018-04-30" />
+			<publisher>BMJ</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -334,21 +335,27 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Epidemiology and risk profile of heart failure</title>
 		<author>
-			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Bui</surname></persName>
+			<persName><forename type="first">Anh</forename><forename type="middle">L</forename><surname>Bui</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Horwich</surname></persName>
+			<persName><forename type="first">Tamara</forename><forename type="middle">B</forename><surname>Horwich</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Fonarow</surname></persName>
+			<persName><forename type="first">Gregg</forename><forename type="middle">C</forename><surname>Fonarow</surname></persName>
 		</author>
+		<idno type="DOI">10.1038/nrcardio.2010.165</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Nat Rev Cardiol</title>
+		<title level="j">Nature Reviews Cardiology</title>
+		<title level="j" type="abbrev">Nat Rev Cardiol</title>
+		<idno type="ISSN">1759-5002</idno>
+		<idno type="ISSNe">1759-5010</idno>
 		<imprint>
 			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
 			<biblScope unit="page" from="30" to="41" />
-			<date type="published" when="2011" />
+			<date type="published" when="2010-11-09" />
+			<publisher>Springer Science and Business Media LLC</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>

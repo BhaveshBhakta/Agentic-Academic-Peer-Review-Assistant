@@ -28,27 +28,46 @@ def run_tools(state: ReviewState):
     topic = state.get("topic", "general")
 
     if "novelty_search" in tools:
-        path = novelty_search_tool.invoke({"pdf_path": pdf_path})
-        state["novelty_result"] = load_json_safe(path)
+
+        path = novelty_search_tool.invoke({
+            "pdf_path": pdf_path
+        })
+
+        with open(path, "r") as f:
+            state["novelty_result"] = json.load(f)
 
     if "plagiarism_detection" in tools:
-        path = plagiarism_detection_tool.invoke({"pdf_path": pdf_path})
-        state["plagiarism_result"] = load_json_safe(path)
+        path = plagiarism_detection_tool.invoke({
+            "pdf_path": pdf_path
+        })
+
+        with open(path, "r") as f:
+            state["plagiarism_result"] = json.load(f)
 
     if "citation_quality" in tools:
-        path = citation_check_tool.invoke({"pdf_path": pdf_path})
-        state["citation_result"] = load_json_safe(path)
+        path = citation_check_tool.invoke({
+            "pdf_path": pdf_path
+        })
+
+        with open(path, "r") as f:
+            state["citation_result"] = json.load(f)
 
     if "claim_mapping" in tools:
-        path = claim_mapping_tool.invoke({"pdf_path": pdf_path})
-        state["claim_result"] = load_json_safe(path)
+        path = claim_mapping_tool.invoke({
+            "pdf_path": pdf_path
+        })
+
+        with open(path, "r") as f:
+            state["claim_result"] = json.load(f)
 
     if "factual_check" in tools:
         path = factual_check_tool.invoke({
             "pdf_path": pdf_path,
             "topic": topic
         })
-        state["factual_result"] = load_json_safe(path)
+
+        with open(path, "r") as f:
+            state["factual_result"] = json.load(f)
 
     if "deep_search" in tools:
         deep_search_tool.invoke({"topic": topic})

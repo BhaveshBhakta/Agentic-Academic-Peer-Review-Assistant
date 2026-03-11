@@ -29,6 +29,9 @@ Ensure the review is detailed and reflects the critique if improvements are need
 """
 
     final_review = query_llm(prompt)
+    
+    if not final_review.strip():
+        final_review = "Review generation failed."
 
     state["final_review_text"] = final_review
 
