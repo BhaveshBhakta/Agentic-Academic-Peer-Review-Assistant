@@ -27,12 +27,29 @@ def allowed_file(filename):
 
 
 def parse_review(text):
+
     sections = {}
-    matches = re.split(r"\*\*(\d+\..*?)\*\*", text)
-    for i in range(1, len(matches), 2):
-        title = matches[i].strip()
-        content = matches[i + 1].strip() if i + 1 < len(matches) else ""
-        sections[title] = content
+
+    pattern = r"\*\*(\d+)\.\s*([^\*]+)\*\*"
+
+    matches = list(re.finditer(pattern, text))
+
+    for i, match in enumerate(matches):
+
+        section_num = match.group(1)
+        title = match.group(2).strip()
+
+        start = match.end()
+
+        if i + 1 < len(matches):
+            end = matches[i + 1].start()
+        else:
+            end = len(text)
+
+        content = text[start:end].strip()
+
+        sections[f"{section_num}. {title}"] = content
+
     return sections
 
 @app.route("/api/review", methods=["POST"])

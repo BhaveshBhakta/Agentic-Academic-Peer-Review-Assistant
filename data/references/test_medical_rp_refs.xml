@@ -109,7 +109,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.6.2" ident="GROBID" when="2026-03-11T07:28+0000">
+				<application version="0.6.2" ident="GROBID" when="2026-03-11T08:09+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -209,21 +209,39 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Mayo clinical Text Analysis and Knowledge Extraction System (cTAKES): architecture, component evaluation and applications</title>
 		<author>
-			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Savova</surname></persName>
+			<persName><forename type="first">Guergana</forename><forename type="middle">K</forename><surname>Savova</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Masanz</surname></persName>
+			<persName><forename type="first">James</forename><forename type="middle">J</forename><surname>Masanz</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Ogren</surname></persName>
+			<persName><forename type="first">Philip</forename><forename type="middle">V</forename><surname>Ogren</surname></persName>
 		</author>
+		<author>
+			<persName><forename type="first">Jiaping</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sunghwan</forename><surname>Sohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karin</forename><forename type="middle">C</forename><surname>Kipper-Schuler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">G</forename><surname>Chute</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/jamia.2009.001560</idno>
 	</analytic>
 	<monogr>
-		<title level="j">J Am Med Inform Assoc</title>
+		<title level="j">Journal of the American Medical Informatics Association</title>
+		<title level="j" type="abbrev">J Am Med Inform Assoc</title>
+		<idno type="ISSN">1067-5027</idno>
+		<idno type="ISSNe">1527-974X</idno>
 		<imprint>
 			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">5</biblScope>
 			<biblScope unit="page" from="507" to="513" />
-			<date type="published" when="2010" />
+			<date type="published" when="2010-09" />
+			<publisher>Oxford University Press (OUP)</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -232,36 +250,20 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Privacy-preserving generative deep neural networks support clinical data sharing</title>
 		<author>
-			<persName><forename type="first">Brett</forename><forename type="middle">K</forename><surname>Beaulieu-Jones</surname></persName>
-			<idno type="ORCID">0000-0002-6700-1468</idno>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Beaulieu-Jones</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Zhiwei</forename><forename type="middle">Steven</forename><surname>Wu</surname></persName>
+			<persName><forename type="first">Z</forename><forename type="middle">S</forename><surname>Wu</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Chris</forename><surname>Williams</surname></persName>
+			<persName><forename type="first">C</forename><surname>Williams</surname></persName>
 		</author>
-		<author>
-			<persName><forename type="first">Ran</forename><surname>Lee</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Sanjeev</forename><forename type="middle">P</forename><surname>Bhavnani</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">James</forename><forename type="middle">Brian</forename><surname>Byrd</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Casey</forename><forename type="middle">S</forename><surname>Greene</surname></persName>
-			<idno type="ORCID">0000-0001-8713-9213</idno>
-		</author>
-		<idno type="DOI">10.1101/159756</idno>
 		<idno>DOI:10•1101/159756</idno>
 	</analytic>
 	<monogr>
 		<title level="j">bioRxiv</title>
 		<imprint>
-			<date type="published" when="2017-07-05" />
-			<publisher>openRxiv</publisher>
+			<date type="published" when="2018-12-20" />
 		</imprint>
 	</monogr>
 	<note>published online. preprint</note>
@@ -269,29 +271,22 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b5">
 	<analytic>
-		<title level="a" type="main">Reconsidering the Consequences of Using Race to Estimate Kidney Function</title>
+		<title level="a" type="main">Reconsidering the consequences of using race to estimate kidney function</title>
 		<author>
-			<persName><forename type="first">Nwamaka</forename><forename type="middle">Denise</forename><surname>Eneanya</surname></persName>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Eneanya</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Wei</forename><surname>Yang</surname></persName>
+			<persName><forename type="first">W</forename><surname>Yang</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Peter</forename><forename type="middle">Philip</forename><surname>Reese</surname></persName>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Reese</surname></persName>
 		</author>
-		<idno type="DOI">10.1001/jama.2019.5774</idno>
 		<idno>DOI:10•1001/jama.2019•5774</idno>
 	</analytic>
 	<monogr>
 		<title level="j">JAMA</title>
-		<title level="j" type="abbrev">JAMA</title>
-		<idno type="ISSN">0098-7484</idno>
 		<imprint>
-			<biblScope unit="volume">322</biblScope>
-			<biblScope unit="issue">2</biblScope>
-			<biblScope unit="page">113</biblScope>
-			<date type="published" when="2019-07-09" />
-			<publisher>American Medical Association (AMA)</publisher>
+			<date type="published" when="2019-06-06" />
 		</imprint>
 	</monogr>
 	<note>published online</note>

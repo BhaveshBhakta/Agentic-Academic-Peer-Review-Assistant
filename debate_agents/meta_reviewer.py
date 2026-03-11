@@ -9,32 +9,52 @@ def meta_reviewer(state):
     prompt = f"""
 You are a senior meta reviewer.
 
-You must combine the draft review and the critique into a final peer review.
+You must combine the draft review and critique into a final academic peer review.
+
+Follow the EXACT structure below. Do NOT add extra headings, bullet numbers, or text before section titles.
+
+Write each section clearly.
+
+FORMAT:
+
+**1. Summary of the Paper**
+<paragraph>
+
+**2. Strengths**
+- point
+- point
+
+**3. Weaknesses**
+- point
+- point
+
+**4. Suggestions for Improvement**
+- point
+- point
+
+**5. Section-wise Scores (0–10 each)**
+Novelty: <score>
+Claims (Citation Quality): <score>
+Plagiarism: <score>
+Factual Accuracy: <score>
+
+**6. Claim Labels (TRUE/FALSE)**
+<explanation>
+
+**7. Plagiarism / Overlap Evidence**
+<evidence>
+
+**8. Duplicate Claim Evidence**
+<evidence>
+
+**9. Final Recommendation**
+<Accept / Minor Revision / Major Revision / Reject>
 
 Draft Review:
 {review}
 
 Critique:
 {critique}
-
-Produce a final review using EXACTLY this format:
-
-**1. Summary of the Paper**
-<text>
-
-**2. Strengths**
-<text>
-
-**3. Weaknesses**
-<text>
-
-**4. Suggestions**
-<text>
-
-**5. Final Recommendation**
-<text>
-
-Ensure the review is detailed and reflects the critique if improvements are needed.
 """
 
     final_review = query_llm(prompt)
