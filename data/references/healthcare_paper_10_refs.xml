@@ -1,0 +1,1544 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Data mining in healthcare and biomedicine: a survey of the literature</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Alafaireet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marinov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pena-Hernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gopidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hua</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of medical systems</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2431" to="2448" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Mining electronic health records: towards better research applications and clinical care</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brunak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Genetics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="395" to="405" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">How big is big data in healthcare</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hughes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">From a shot in the arm blog</title>
+				<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Big data analytics in healthcare: promise and potential</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Raghupathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Raghupathi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Information Science and Systems</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kamber</surname></persName>
+		</author>
+		<title level="m">Data mining: concepts and techniques</title>
+				<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Machine learning: a probabilistic perspective</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Murphy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>MIT press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Encyclopedia of machine learning</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sammut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Webb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>Springer Science &amp; Business Media</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Data mining: concepts, models, methods, and algorithms</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kantardzic</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>John Wiley &amp; Sons</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Mastering Medical Coding</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Diamond</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>Elsevier Health Sciences</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Introduction to data mining</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Tan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Pearson Education India</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The problem of concept drift: definitions and related work</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tsymbal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computer Science Department, Trinity College Dublin</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Data cleaning: Problems and current approaches</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rahm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Do</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Data Eng. Bull</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="3" to="13" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The digital hospital: opportunities and challenges</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jacquin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zeltwanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of healthcare information management: JHIM</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="37" to="45" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">From wearable sensors to smart implants-toward pervasive and personalized healthcare</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Andreu-Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Leff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Ip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Z</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Biomedical Engineering</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2750" to="2762" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The aware home: A living laboratory for ubiquitous computing research</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Kidd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Orr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Abowd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Atkeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Essa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Macintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mynatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Starner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Newstetter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Workshop on Cooperative Buildings</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1999" />
+			<biblScope unit="page" from="191" to="198" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Medical Devices-measurement, Quality Assurance, and Standards. Number 800</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Caceres</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983" />
+			<publisher>ASTM International</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Clinical engineering and uncertainty in clinical measurements</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Koumoundouros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australasian physical &amp; engineering sciences in medicine</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">467</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Statistics notes: measurement error</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Bland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Altman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bmj</title>
+		<imprint>
+			<biblScope unit="volume">313</biblScope>
+			<biblScope unit="issue">7059</biblScope>
+			<biblScope unit="page">744</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Physiological and non-physiological eeg artifacts</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sethi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sethi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Torgovnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Arsura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Internet Journal of Neuromonitoring</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Are missing outcome data adequately handled? a review of published randomized controlled trials in major medical journals</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical trials</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="368" to="376" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The prevention and treatment of missing data in clinical trials</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Dickersin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Emerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Farrar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Frangakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Molenberghs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1355" to="1360" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Unsupervised pattern discovery in electronic health care data using probabilistic clustering models</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Marlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Kale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Khemani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Wetzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2nd ACM SIGHIT International Health Informatics Symposium</title>
+				<meeting>the 2nd ACM SIGHIT International Health Informatics Symposium</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="389" to="398" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A review of cross organizational healthcare data sharing</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Azarm-Daigle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kuziemsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Peyton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Procedia Computer Science</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="425" to="432" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Assessing validity of icd-9-cm and icd-10 administrative data in recording clinical conditions in a unique dually coded database</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Quan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Duncan Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Parsons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alibhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Ghali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health services research</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1424" to="1441" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">International classification of diseases, (icd-10-cm/pcs) transition</title>
+		<imprint>
+			<date type="published" when="2015-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Coding complexity: Us health care gets ready for the coming of icd-10</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="968" to="974" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The accuracy of medicare&apos;s hospital claims data: progress has been made, but problems remain</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Whaley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Krushat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Malenka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fleming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Hsia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American journal of public health</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="243" to="248" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Accuracy of icd-9-cm codes in hospital morbidity data, victoria: implications for public health research</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Macintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Ackland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Chandraraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Pilla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian and New Zealand journal of public health</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="477" to="482" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Limits on learning machine accuracy imposed by data quality</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cortes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Jackel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Chiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">KDD</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="57" to="62" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Statistical learning theory</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">N</forename><surname>Vapnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vapnik</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<publisher>Wiley</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">An introduction to computational learning theory</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Kearns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">V</forename><surname>Vazirani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>MIT press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">The effects of data quality on machine learning algorithms</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sessions</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Valtorta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="485" to="498" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Distance-based outliers: algorithms and applications. The VLDB</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Knorr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Ng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Tucakov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JournalThe International Journal on Very Large Data Bases</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="237" to="253" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Method and apparatus for analysis and decomposition of classifier data anomalies</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Bacioiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Sauntry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Boyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C W</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chandrasekar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">US Patent</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">497</biblScope>
+			<date type="published" when="2008-09-16" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Statistical analysis with missing data</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rubin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Full information estimation in the presence of incomplete data. Advanced structural equation modeling</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Arbuckle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Marcoulides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Schumacker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Issues and techniques</title>
+		<imprint>
+			<biblScope unit="volume">243</biblScope>
+			<biblScope unit="page">277</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Multiple imputation for nonresponse in surveys</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>John Wiley &amp; Sons</publisher>
+			<biblScope unit="volume">81</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">A comparison of inclusive and restrictive strategies in modern missing data procedures</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Schafer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Kam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological methods</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">330</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Missing data theory</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Graham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Missing Data</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="3" to="46" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Why do it the hard way? the case for an expressive description logic for snomed</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Rector</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brandt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Medical Informatics Association</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="744" to="751" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Association of diagnostic coding with trends in hospitalizations and mortality of patients with pneumonia</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Lindenauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lagu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Shieh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Pekow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Rothberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jama</title>
+		<imprint>
+			<biblScope unit="volume">307</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1405" to="1413" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Finding the missing link for big biomedical data</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Mandl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jama</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="2479" to="2480" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Population health in the Affordable Care Act era</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Stoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acade-myHealth</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Mining the clinical narrative: All text are not equal</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hazekamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">V</forename><surname>Chawla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE International Conference on</title>
+				<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="271" to="280" />
+		</imprint>
+	</monogr>
+	<note>IEEE</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Five years of gwas discovery</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Visscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Journal of Human Genetics</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="24" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Support vector machine learning from heterogeneous data: an empirical analysis using protein sequence and structure</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jebara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Noble</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="2753" to="2760" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Collecting and sharing data for population health: a new paradigm</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mostashari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shirky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health affairs</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="454" to="466" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Identity crisis: An examination of the costs and benefits of a unique patient identifier for the US health care system</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hillestad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Rand Corporation</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Challenges of big data analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National science review</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="293" to="314" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Johnstone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Titterington</surname></persName>
+		</author>
+		<title level="m">Statistical challenges of high-dimensional data</title>
+				<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Challenges in statistical machine learning</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lafferty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wasserman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistica Sinica</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">307</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Learning from imbalanced data</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Garcia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on knowledge and data engineering</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1263" to="1284" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">An insight into classification with imbalanced data: Empirical results and current trends on using data intrinsic characteristics</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>López</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Palade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Herrera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information Sciences</title>
+		<imprint>
+			<biblScope unit="volume">250</biblScope>
+			<biblScope unit="page" from="113" to="141" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Robustness in the strategy of scientific model building</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Box</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Robustness in statistics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="201" to="236" />
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Verification, validation, and confirmation of numerical models in the earth sciences</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Oreskes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shrader-Frechette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Belitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">263</biblScope>
+			<biblScope unit="issue">5147</biblScope>
+			<biblScope unit="page" from="641" to="646" />
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Learning from partially labeled data</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Szummer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+		<respStmt>
+			<orgName>Massachusetts Institute of Technology</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Analytics in healthcare: An introduction</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Gensinger</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cphims</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">HIMSS</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">The diagnostic odds ratio: a single indicator of test performance</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Glas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Lijmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Prins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Bonsel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bossuyt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of clinical epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1129" to="1135" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Metric learning: A survey</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kulis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Foundations and Trends R in Machine Learning</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="287" to="364" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Parameter tuning or default values? an empirical investigation in search-based software engineering</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Arcuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fraser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Empirical Software Engineering</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="594" to="623" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Automated algorithm configuration and parameter tuning</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Hoos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>Autonomous search. Springer</publisher>
+			<biblScope unit="page" from="37" to="71" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Iterative methods for optimization</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Kelley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<pubPlace>SIAM</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Optimization for machine learning</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nowozin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Wright</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>Mit Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">A brief survey of modern optimization for statisticians</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Chi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Statistical Review</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="46" to="70" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">A systematic analysis of performance measures for classification tasks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sokolova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lapalme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information Processing &amp; Management</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="427" to="437" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Learning from heterogeneous temporal data in electronic health records</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Papapetrou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Asker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Boström</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Biomedical Informatics</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="105" to="119" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Genotype to phenotype via network analysis. Current opinion in genetics</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hofree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ideker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">&amp; development</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="611" to="621" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Insights into population health management through disease diagnoses networks</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stiglic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dasgupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kricheff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Obradovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">V</forename><surname>Chawla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main">The power of tensor decompositions in biomedical applications</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hunyadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Van Huffel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Vos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Tensor factorization toward precision medicine</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Szolovits</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Briefings in bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="511" to="514" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

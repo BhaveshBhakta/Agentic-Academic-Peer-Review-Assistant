@@ -1,0 +1,593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">High-performance medicine: the convergence of human and artificial intelligence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Topol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature medicine</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="44" to="56" />
+			<date type="published" when="2019-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rajkomar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kohane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Machine Learning in Medicine Reply</title>
+				<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="page" from="2589" to="2590" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Deep learning for healthcare: review, opportunities and challenges</title>
+		<author>
+			<persName><forename type="first">Riccardo</forename><surname>Miotto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Briefings in bioinformatics</title>
+		<imprint>
+			<biblScope unit="page" from="e1236" to="1246" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Big data analytics in healthcare: promise and potential, Health information science and systems</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Raghupathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Raghupathi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1" to="1" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Cloud</forename><surname>Flatirons</surname></persName>
+		</author>
+		<ptr target="https://flatirons.com/blog/cloud-computing-in-healthcare/" />
+		<title level="m">Computing in Healthcare: Trends &amp; Benefits. 2024</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Security and privacy in cloud-based e-health system</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">A</forename><surname>Zukarnain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Symmetry</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">742</biblScope>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Current Use Cases for Machine Learning in Healthcare</title>
+		<imprint>
+			<date type="published" when="2024-11-17" />
+			<biblScope unit="volume">26</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Microsoft Azure Blog, Microsoft</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Introduction to BigQuery ML, Google Cloud Documentation, Google</title>
+		<imprint>
+			<date type="published" when="2024-11-17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">How Lumiata Democratizes AI in Healthcare with Google Cloud, Google Cloud Blog</title>
+		<imprint>
+			<date type="published" when="2021-04-20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Transforming Healthcare in the Cloud through Data Analytics Machine Learning</title>
+		<imprint>
+			<date type="published" when="2019-02-11" />
+		</imprint>
+		<respStmt>
+			<orgName>Cloud Blog</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Predicting the future big data, machine learning, and clinical medicine</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Obermeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Emanuel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1216" to="1219" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Machine learning and data mining methods in diabetes research</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kavakiotis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Tsave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Salifoglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Maglaveras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Vlahavas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Chouvarda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computational and structural biotechnology journal</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="104" to="116" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Artificial intelligence in healthcare</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Beam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature biomedical engineering</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="719" to="731" />
+			<date type="published" when="2018-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Big data analytics in healthcare: promise and potential, Health information science and systems</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Raghupathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Raghupathi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1" to="1" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Healthcare Solutions Playbook. Google Cloud, National Institutes of Health, Accessed</title>
+		<imprint>
+			<date type="published" when="2024-12-16" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Google Auto ML versus Apple Create ML for histopathologic cancer diagnosis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Borkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Borkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Deland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Grewe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Mastorides</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1903.08057</idno>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+	<note>which algorithms are better</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tigani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Naidu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Google</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014-05-21" />
+			<publisher>John Wiley &amp; Sons</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Create Machine Learning Models in BigQuery ML</title>
+		<imprint>
+			<date type="published" when="2024" />
+			<publisher>Google Cloud</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Applied logistic regression</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Hosmer</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lemeshow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">X</forename><surname>Sturdivant</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>John Wiley &amp; Sons</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Xgboost: A scalable tree boosting system</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Guestrin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining</title>
+				<meeting>the 22nd acm sigkdd international conference on knowledge discovery and data mining</meeting>
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="785" to="794" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Efficient processing of deep neural networks: A tutorial and survey</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Emer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the IEEE</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2295" to="2329" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Teboul</surname></persName>
+		</author>
+		<title level="m">Health Indicators Dataset, Kaggle</title>
+				<imprint>
+			<date type="published" when="2024" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Evaluation: from precision, recall and F-measure to ROC, informedness, markedness and correlation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Powers</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2010.16061</idno>
+		<imprint>
+			<biblScope unit="page">2020</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">the advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chicco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Jurman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC genomics</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1" to="3" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Classifying and forecasting seismic event characteristics using artificial intelligence</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bustos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Maazallahi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Snir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Norouzzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rahmani</surname></persName>
+		</author>
+		<idno type="DOI">10.21203/rs.3.rs-4249733/v1</idno>
+		<imprint>
+			<date type="published" when="2024" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">COVID-19 does not correlate with the temperature</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Adrian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mingxuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Norouzzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Amini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Salari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Snir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rahmani</surname></persName>
+		</author>
+		<idno type="DOI">10.5121/ijbes.2024.11101</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Biomedical Engineering and Science (IJBES)</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2024" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Stack</forename><surname>Overflow</surname></persName>
+		</author>
+		<ptr target="https://survey.stackoverflow.co/2024" />
+		<title level="m">Stack Overflow Developer Survey 2024, Stack Overflow</title>
+				<meeting><address><addrLine>Accessed</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Use of automatic SQL generation interface to enhance transparency and validity of health-data analysis</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Wagholikar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Maclaughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mandrekar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Simha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.imu.2022.100996</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Informatics Med Unlocked</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">100996</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Towards understanding the generalization of medical text-to-SQL models and datasets</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tarbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Talukder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Wallace</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AMIA Annu Symp Proc</title>
+		<imprint>
+			<biblScope unit="volume">2023</biblScope>
+			<biblScope unit="page" from="669" to="678" />
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Automatic feature preprocessing</title>
+		<author>
+			<persName><forename type="first">Google</forename><surname>Cloud</surname></persName>
+		</author>
+		<ptr target="https://cloud.google.com/bigquery/docs/auto-preprocessing" />
+		<imprint/>
+	</monogr>
+	<note>Google Cloud. cited 2025 Feb 1</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

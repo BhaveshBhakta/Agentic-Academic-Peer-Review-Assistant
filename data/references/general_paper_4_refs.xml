@@ -1,0 +1,727 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Choptuik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page">9</biblScope>
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Santos-Oliván</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sopuerta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page">41101</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Santos-Oliván</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sopuerta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page">104002</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oliger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Phys</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page">484</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Choptuik</surname></persName>
+		</author>
+		<title level="m">Frontiers in Numerical Relativity</title>
+				<editor>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Evans</surname></persName>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Finn</surname></persName>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Hobill</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Hamade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Class. Quantum Grav</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">497</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pretorius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lehner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Phys</title>
+		<imprint>
+			<biblScope unit="volume">198</biblScope>
+			<biblScope unit="page">10</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Garfinkle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page">5558</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pürrer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Husa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Aichelburg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page">104005</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>De Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pando-Zayas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rodrigues</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page">51101</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M C V</forename><surname>Goncalves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page">R6057</biblScope>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Seidel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-M</forename><surname>Suen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page">1659</biblScope>
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gundlach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Martn-Garca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Living Rev. Relativity</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Barreto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Crespo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>De Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rodriguez-Mueller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page">64042</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bekenstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific American</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">67</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maldacena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Theor. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">231</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>'t Hooft</surname></persName>
+		</author>
+		<idno>arXiv:9310026</idno>
+		<imprint/>
+	</monogr>
+	<note>qr-qc</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Susskind</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">6377</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pretorius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page">121101</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Campanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lousto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marronetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zlochower</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">111101</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Centrella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koppitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Metter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">111102</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Abbott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page">61102</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Balasubramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buchel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lehner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liebling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page">71601</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schnetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Hawley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hawke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Class. Quant. Grav</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">1465</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bondi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G J</forename><surname>Van Der Burg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W K</forename><surname>Metzner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. R. Soc. A</title>
+		<imprint>
+			<biblScope unit="volume">269</biblScope>
+			<biblScope unit="page">21</biblScope>
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Sachs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. R. Soc. A</title>
+		<imprint>
+			<biblScope unit="volume">270</biblScope>
+			<biblScope unit="page">103</biblScope>
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bondi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. R. Soc. A</title>
+		<imprint>
+			<biblScope unit="volume">281</biblScope>
+			<biblScope unit="page">39</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chesler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yaffe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. High Energ. Phys</title>
+		<imprint>
+			<biblScope unit="volume">2014</biblScope>
+			<biblScope unit="page">86</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Winicour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">1445</biblScope>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Barreto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">84071</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Winicour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Isaacson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Phys</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Living Rev</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Winicour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Relativity</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Koike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Adachi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page">5170</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gundlach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Martin-Garcia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Living Rev. Relativity</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Barreto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Frittelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">124029</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

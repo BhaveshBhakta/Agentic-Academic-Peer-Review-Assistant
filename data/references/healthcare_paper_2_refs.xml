@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">/health-law-and-business/ health-care-clings-to-faxes-as-u-s-pushes-electronic-records</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brown</surname></persName>
+		</author>
+		<ptr target="https://news.bloomberglaw.com" />
+		<imprint>
+			<date type="published" when="2021-11" />
+			<biblScope unit="page" from="2023" to="2024" />
+		</imprint>
+	</monogr>
+	<note>Health care clings to faxes as U.S. pushes electronic records</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">LayoutLMv3: Pre-training for document AI with unified text and image masking</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wei</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">LayoutLM: Pretraining of text and layout for document image understanding</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Unified pretraining framework for document understanding</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Morariu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Barmpalios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nenkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sun</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">StructuralLM: Structural pre-training for form understanding</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021-05" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">DocFormer: End-to-End transformer for document understanding</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Appalaraju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jasani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">U</forename><surname>Kota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Manmatha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Multimodal pre-training based on graph attention network for document understanding</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans. Multimedia</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Amazon textract</title>
+		<author>
+			<persName><forename type="first">Amazon Web</forename><surname>Services</surname></persName>
+		</author>
+		<ptr target="https://aws.amazon.com/textract/" />
+		<imprint>
+			<biblScope unit="page" from="2022" to="2029" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">LayoutParser: A unified toolkit for deep learning based document image analysis</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C G</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carlson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Li</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A density-based algorithm for discovering clusters in large spatial databases with noise</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-P</forename><surname>Kriegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Second International Conference on Knowledge Discovery and Data Mining</title>
+				<meeting>the Second International Conference on Knowledge Discovery and Data Mining</meeting>
+		<imprint>
+			<publisher>AAAI Press</publisher>
+			<date type="published" when="1996-08" />
+			<biblScope unit="page" from="226" to="231" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">MUC-5 evaluation metrics</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chinchor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sundheim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fifth Message Understanding Conference</title>
+				<meeting><address><addrLine>Baltimore, Maryland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+	<note>Proceedings of a Conference Held in</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

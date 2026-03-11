@@ -36,7 +36,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.6.2" ident="GROBID" when="2026-03-08T14:55+0000">
+				<application version="0.6.2" ident="GROBID" when="2026-03-11T07:32+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -191,34 +191,30 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b4">
 	<analytic>
-		<title level="a" type="main">Intelligible Models for HealthCare</title>
+		<title level="a" type="main">Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission</title>
 		<author>
-			<persName><forename type="first">Rich</forename><surname>Caruana</surname></persName>
+			<persName><forename type="first">R</forename><surname>Caruana</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Yin</forename><surname>Lou</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Lou</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Johannes</forename><surname>Gehrke</surname></persName>
+			<persName><forename type="first">J</forename><surname>Gehrke</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Paul</forename><surname>Koch</surname></persName>
+			<persName><forename type="first">P</forename><surname>Koch</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Marc</forename><surname>Sturm</surname></persName>
+			<persName><forename type="first">M</forename><surname>Sturm</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Noemie</forename><surname>Elhadad</surname></persName>
+			<persName><forename type="first">N</forename><surname>Elhadad</surname></persName>
 		</author>
-		<idno type="DOI">10.1145/2783258.2788613</idno>
 	</analytic>
 	<monogr>
-		<title level="m">Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</title>
-				<meeting>the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</meeting>
+		<title level="j">KDD</title>
 		<imprint>
-			<publisher>ACM</publisher>
-			<date type="published" when="2015-08-10" />
-			<biblScope unit="page" from="1721" to="1730" />
+			<date type="published" when="2015" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -494,39 +490,34 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Dermatologist-level classification of skin cancer with deep neural networks</title>
 		<author>
-			<persName><forename type="first">Andre</forename><surname>Esteva</surname></persName>
+			<persName><forename type="first">A</forename><surname>Esteva</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Brett</forename><surname>Kuprel</surname></persName>
+			<persName><forename type="first">B</forename><surname>Kuprel</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Roberto</forename><forename type="middle">A</forename><surname>Novoa</surname></persName>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Novoa</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Justin</forename><surname>Ko</surname></persName>
+			<persName><forename type="first">J</forename><surname>Ko</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Susan</forename><forename type="middle">M</forename><surname>Swetter</surname></persName>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Swetter</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Helen</forename><forename type="middle">M</forename><surname>Blau</surname></persName>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Blau</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Sebastian</forename><surname>Thrun</surname></persName>
+			<persName><forename type="first">S</forename><surname>Thrun</surname></persName>
 		</author>
-		<idno type="DOI">10.1038/nature21056</idno>
 	</analytic>
 	<monogr>
 		<title level="j">Nature</title>
-		<title level="j" type="abbrev">Nature</title>
-		<idno type="ISSN">0028-0836</idno>
-		<idno type="ISSNe">1476-4687</idno>
 		<imprint>
 			<biblScope unit="volume">542</biblScope>
 			<biblScope unit="issue">7639</biblScope>
-			<biblScope unit="page" from="115" to="118" />
-			<date type="published" when="2017-01-25" />
-			<publisher>Springer Science and Business Media LLC</publisher>
+			<biblScope unit="page">115</biblScope>
+			<date type="published" when="2017" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -592,23 +583,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 </biblStruct>
 
 <biblStruct xml:id="b17">
-	<analytic>
-		<title level="a" type="main">Greedy function approximation: A gradient boosting machine.</title>
-		<author>
-			<persName><forename type="first">Jerome</forename><forename type="middle">H</forename><surname>Friedman</surname></persName>
-		</author>
-		<idno type="DOI">10.1214/aos/1013203451</idno>
-	</analytic>
 	<monogr>
-		<title level="j">The Annals of Statistics</title>
-		<title level="j" type="abbrev">Ann. Statist.</title>
-		<idno type="ISSN">0090-5364</idno>
+		<title level="m" type="main">Greedy function approximation: a gradient boosting machine. Annals of statistics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Friedman</surname></persName>
+		</author>
 		<imprint>
-			<biblScope unit="volume">29</biblScope>
-			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2001" />
 			<biblScope unit="page" from="1189" to="1232" />
-			<date type="published" when="2001-10-01" />
-			<publisher>Institute of Mathematical Statistics</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -784,45 +766,64 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b23">
 	<analytic>
-		<title level="a" type="main">Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs</title>
+		<title level="a" type="main">Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs</title>
 		<author>
-			<persName><forename type="first">V</forename><surname>Gulshan</surname></persName>
+			<persName><forename type="first">Varun</forename><surname>Gulshan</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">L</forename><surname>Peng</surname></persName>
+			<persName><forename type="first">Lily</forename><surname>Peng</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Coram</surname></persName>
+			<persName><forename type="first">Marc</forename><surname>Coram</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Stumpe</surname></persName>
+			<persName><forename type="first">Martin</forename><forename type="middle">C</forename><surname>Stumpe</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">D</forename><surname>Wu</surname></persName>
+			<persName><forename type="first">Derek</forename><surname>Wu</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Narayanaswamy</surname></persName>
+			<persName><forename type="first">Arunachalam</forename><surname>Narayanaswamy</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S</forename><surname>Venugopalan</surname></persName>
+			<persName><forename type="first">Subhashini</forename><surname>Venugopalan</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">K</forename><surname>Widner</surname></persName>
+			<persName><forename type="first">Kasumi</forename><surname>Widner</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">T</forename><surname>Madams</surname></persName>
+			<persName><forename type="first">Tom</forename><surname>Madams</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><surname>Cuadros</surname></persName>
+			<persName><forename type="first">Jorge</forename><surname>Cuadros</surname></persName>
 		</author>
+		<author>
+			<persName><forename type="first">Ramasamy</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajiv</forename><surname>Raman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Philip</forename><forename type="middle">C</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><forename type="middle">L</forename><surname>Mega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dale</forename><forename type="middle">R</forename><surname>Webster</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.2016.17216</idno>
 	</analytic>
 	<monogr>
 		<title level="j">JAMA</title>
+		<title level="j" type="abbrev">JAMA</title>
+		<idno type="ISSN">0098-7484</idno>
 		<imprint>
 			<biblScope unit="volume">316</biblScope>
 			<biblScope unit="issue">22</biblScope>
-			<biblScope unit="page" from="2402" to="2410" />
-			<date type="published" when="2016" />
+			<biblScope unit="page">2402</biblScope>
+			<date type="published" when="2016-12-13" />
+			<publisher>American Medical Association (AMA)</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -855,47 +856,47 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b25">
 	<analytic>
-		<title level="a" type="main">Reducing the Dimensionality of Data with Neural Networks</title>
+		<title level="a" type="main">Reducing the dimensionality of data with neural networks</title>
 		<author>
 			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Hinton</surname></persName>
 		</author>
 		<author>
 			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Salakhutdinov</surname></persName>
 		</author>
-		<idno type="DOI">10.1126/science.1127647</idno>
 	</analytic>
 	<monogr>
 		<title level="j">Science</title>
-		<title level="j" type="abbrev">Science</title>
-		<idno type="ISSN">0036-8075</idno>
-		<idno type="ISSNe">1095-9203</idno>
 		<imprint>
 			<biblScope unit="volume">313</biblScope>
 			<biblScope unit="issue">5786</biblScope>
 			<biblScope unit="page" from="504" to="507" />
-			<date type="published" when="2006-07-28" />
-			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+			<date type="published" when="2006" />
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b26">
 	<analytic>
-		<title level="a" type="main">Ridge regression: Biased estimation for nonorthogonal problems</title>
+		<title level="a" type="main">Ridge Regression: Biased Estimation for Nonorthogonal Problems</title>
 		<author>
-			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Hoerl</surname></persName>
+			<persName><forename type="first">Arthur</forename><forename type="middle">E</forename><surname>Hoerl</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Kennard</surname></persName>
+			<persName><forename type="first">Robert</forename><forename type="middle">W</forename><surname>Kennard</surname></persName>
 		</author>
+		<idno type="DOI">10.1080/00401706.1970.10488634</idno>
 	</analytic>
 	<monogr>
 		<title level="j">Technometrics</title>
+		<title level="j" type="abbrev">Technometrics</title>
+		<idno type="ISSN">0040-1706</idno>
+		<idno type="ISSNe">1537-2723</idno>
 		<imprint>
 			<biblScope unit="volume">12</biblScope>
 			<biblScope unit="issue">1</biblScope>
 			<biblScope unit="page" from="55" to="67" />
-			<date type="published" when="1970" />
+			<date type="published" when="1970-02" />
+			<publisher>Informa UK Limited</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -904,36 +905,31 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Creating an automated trigger for sepsis clinical decision support at emergency department triage using machine learning</title>
 		<author>
-			<persName><forename type="first">Steven</forename><surname>Horng</surname></persName>
+			<persName><forename type="first">S</forename><surname>Horng</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Sontag</surname></persName>
-			<idno type="ORCID">0000-0002-5034-7796</idno>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Sontag</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Yoni</forename><surname>Halpern</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Halpern</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Yacine</forename><surname>Jernite</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Jernite</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Nathan</forename><forename type="middle">I</forename><surname>Shapiro</surname></persName>
+			<persName><forename type="first">N</forename><forename type="middle">I</forename><surname>Shapiro</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Larry</forename><forename type="middle">A</forename><surname>Nathanson</surname></persName>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Nathanson</surname></persName>
 		</author>
-		<idno type="DOI">10.1371/journal.pone.0174708</idno>
 	</analytic>
 	<monogr>
-		<title level="j">PLOS ONE</title>
-		<title level="j" type="abbrev">PLoS ONE</title>
-		<idno type="ISSNe">1932-6203</idno>
+		<title level="j">PLoS one</title>
 		<imprint>
 			<biblScope unit="volume">12</biblScope>
 			<biblScope unit="issue">4</biblScope>
 			<biblScope unit="page">e0174708</biblScope>
-			<date type="published" when="2017-04-06" />
-			<publisher>Public Library of Science (PLoS)</publisher>
+			<date type="published" when="2017" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -1094,51 +1090,41 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 </biblStruct>
 
 <biblStruct xml:id="b34">
-	<analytic>
-		<title level="a" type="main">Artificial Intelligence–Based Breast Cancer Nodal Metastasis Detection: Insights Into the Black Box for Pathologists</title>
-		<author>
-			<persName><forename type="first">Yun</forename><surname>Liu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Timo</forename><surname>Kohlberger</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Mohammad</forename><surname>Norouzi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">George</forename><forename type="middle">E</forename><surname>Dahl</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Jenny</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Arash</forename><surname>Mohtashamian</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Niels</forename><surname>Olson</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Lily</forename><forename type="middle">H</forename><surname>Peng</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Jason</forename><forename type="middle">D</forename><surname>Hipp</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Martin</forename><forename type="middle">C</forename><surname>Stumpe</surname></persName>
-		</author>
-		<idno type="DOI">10.5858/arpa.2018-0147-oa</idno>
-		<idno type="arXiv">arXiv:1703.02442</idno>
-	</analytic>
 	<monogr>
-		<title level="j">Archives of Pathology &amp; Laboratory Medicine</title>
-		<idno type="ISSN">0003-9985</idno>
-		<idno type="ISSNe">1543-2165</idno>
-		<imprint>
-			<biblScope unit="volume">143</biblScope>
-			<biblScope unit="issue">7</biblScope>
-			<biblScope unit="page" from="859" to="868" />
-			<date type="published" when="2018-10-08" />
-			<publisher>Archives of Pathology and Laboratory Medicine</publisher>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gadepalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Norouzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Dahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kohlberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Boyko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Venugopalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Timofeev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Q</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Corrado</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1703.02442</idno>
+		<title level="m">Detecting cancer metastases on gigapixel pathology images</title>
+				<imprint>
+			<date type="published" when="2017" />
 		</imprint>
 	</monogr>
 	<note type="report_type">arXiv preprint</note>
@@ -1306,24 +1292,25 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b39">
 	<analytic>
-		<title level="a" type="main">Learning representations by back-propagating errors</title>
+		<title level="a" type="main">Learning Representations by Back-Propagating Errors</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Rumelhart</surname></persName>
+			<persName><forename type="first">David</forename><forename type="middle">E</forename><surname>Rumelhart</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Hinton</surname></persName>
+			<persName><forename type="first">Geoffrey</forename><forename type="middle">E</forename><surname>Hinton</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
+			<persName><forename type="first">Ronald</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
 		</author>
+		<idno type="DOI">10.7551/mitpress/1888.003.0013</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Cognitive modeling</title>
-		<imprint>
+		<title level="m">Cognitive Modeling</title>
+				<imprint>
+			<publisher>The MIT Press</publisher>
+			<date type="published" when="2002-09-13" />
 			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="issue">3</biblScope>
-			<biblScope unit="page">1</biblScope>
-			<date type="published" when="1988" />
+			<biblScope unit="page" from="213" to="222" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -1432,18 +1419,20 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b42">
 	<analytic>
-		<title level="a" type="main">Mapping unparalleled clinical professional and consumer languages with embedding alignment</title>
+		<title level="a" type="main">Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine Learning and Programming Languages</title>
 		<author>
 			<persName><forename type="first">W.-H</forename><surname>Weng</surname></persName>
 		</author>
 		<author>
 			<persName><forename type="first">P</forename><surname>Szolovits</surname></persName>
 		</author>
+		<idno type="DOI">10.1145/3211346</idno>
 	</analytic>
 	<monogr>
 		<title level="j">KDD Workshop on Machine Learning for Medicine and Healthcare</title>
 		<imprint>
-			<date type="published" when="2018" />
+			<date type="published" when="2018-06-18" />
+			<publisher>ACM</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -1476,28 +1465,33 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Medical subdomain classification of clinical notes using a machine learning-based natural language processing approach</title>
 		<author>
-			<persName><forename type="first">W.-H</forename><surname>Weng</surname></persName>
+			<persName><forename type="first">Wei-Hung</forename><surname>Weng</surname></persName>
+			<idno type="ORCID">0000-0003-2232-0390</idno>
 		</author>
 		<author>
-			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Wagholikar</surname></persName>
+			<persName><forename type="first">Kavishwar</forename><forename type="middle">B</forename><surname>Wagholikar</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Mccray</surname></persName>
+			<persName><forename type="first">Alexa</forename><forename type="middle">T</forename><surname>Mccray</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">P</forename><surname>Szolovits</surname></persName>
+			<persName><forename type="first">Peter</forename><surname>Szolovits</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Chueh</surname></persName>
+			<persName><forename type="first">Henry</forename><forename type="middle">C</forename><surname>Chueh</surname></persName>
 		</author>
+		<idno type="DOI">10.1186/s12911-017-0556-8</idno>
 	</analytic>
 	<monogr>
-		<title level="j">BMC medical informatics and decision making</title>
+		<title level="j">BMC Medical Informatics and Decision Making</title>
+		<title level="j" type="abbrev">BMC Med Inform Decis Mak</title>
+		<idno type="ISSNe">1472-6947</idno>
 		<imprint>
 			<biblScope unit="volume">17</biblScope>
 			<biblScope unit="issue">1</biblScope>
 			<biblScope unit="page">155</biblScope>
-			<date type="published" when="2017" />
+			<date type="published" when="2017-12" />
+			<publisher>Springer Science and Business Media LLC</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -1597,27 +1591,22 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review</title>
 		<author>
-			<persName><forename type="first">Cao</forename><surname>Xiao</surname></persName>
-			<idno type="ORCID">0000-0002-3869-6942</idno>
+			<persName><forename type="first">C</forename><surname>Xiao</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Edward</forename><surname>Choi</surname></persName>
+			<persName><forename type="first">E</forename><surname>Choi</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Jimeng</forename><surname>Sun</surname></persName>
+			<persName><forename type="first">J</forename><surname>Sun</surname></persName>
 		</author>
-		<idno type="DOI">10.1093/jamia/ocy068</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Journal of the American Medical Informatics Association</title>
-		<idno type="ISSN">1067-5027</idno>
-		<idno type="ISSNe">1527-974X</idno>
+		<title level="j">JAMIA</title>
 		<imprint>
 			<biblScope unit="volume">25</biblScope>
 			<biblScope unit="issue">10</biblScope>
 			<biblScope unit="page" from="1419" to="1428" />
-			<date type="published" when="2018-06-08" />
-			<publisher>Oxford University Press (OUP)</publisher>
+			<date type="published" when="2018" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -1626,61 +1615,98 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Using machine learning to parse breast pathology reports</title>
 		<author>
-			<persName><forename type="first">A</forename><surname>Yala</surname></persName>
+			<persName><forename type="first">Adam</forename><surname>Yala</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><surname>Barzilay</surname></persName>
+			<persName><forename type="first">Regina</forename><surname>Barzilay</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">L</forename><surname>Salama</surname></persName>
+			<persName><forename type="first">Laura</forename><surname>Salama</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Griffin</surname></persName>
+			<persName><forename type="first">Molly</forename><surname>Griffin</surname></persName>
+			<idno type="ORCID">0000-0002-1615-2645</idno>
 		</author>
 		<author>
-			<persName><forename type="first">G</forename><surname>Sollender</surname></persName>
+			<persName><forename type="first">Grace</forename><surname>Sollender</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Bardia</surname></persName>
+			<persName><forename type="first">Aditya</forename><surname>Bardia</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">C</forename><surname>Lehman</surname></persName>
+			<persName><forename type="first">Constance</forename><surname>Lehman</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Buckley</surname></persName>
+			<persName><forename type="first">Julliette</forename><forename type="middle">M</forename><surname>Buckley</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Coopey</surname></persName>
+			<persName><forename type="first">Suzanne</forename><forename type="middle">B</forename><surname>Coopey</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">F</forename><surname>Polubriaginof</surname></persName>
+			<persName><forename type="first">Fernanda</forename><surname>Polubriaginof</surname></persName>
 		</author>
+		<author>
+			<persName><forename type="first">Judy</forename><forename type="middle">E</forename><surname>Garber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barbara</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michele</forename><forename type="middle">A</forename><surname>Gadd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michelle</forename><forename type="middle">C</forename><surname>Specht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">M</forename><surname>Gudewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">J</forename><surname>Guidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alphonse</forename><surname>Taghian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><forename type="middle">S</forename><surname>Hughes</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10549-016-4035-1</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Breast cancer research and treatment</title>
+		<title level="j">Breast Cancer Research and Treatment</title>
+		<title level="j" type="abbrev">Breast Cancer Res Treat</title>
+		<idno type="ISSN">0167-6806</idno>
+		<idno type="ISSNe">1573-7217</idno>
 		<imprint>
 			<biblScope unit="volume">161</biblScope>
 			<biblScope unit="issue">2</biblScope>
 			<biblScope unit="page" from="203" to="211" />
-			<date type="published" when="2017" />
+			<date type="published" when="2016-11-08" />
+			<publisher>Springer Science and Business Media LLC</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Regularization and Variable Selection Via the Elastic Net</title>
+		<author>
+			<persName><forename type="first">Hui</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Trevor</forename><surname>Hastie</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9868.2005.00503.x</idno>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">Elastic net regularization and variable selection</title>
-		<author>
-			<persName><forename type="first">H</forename><surname>Zou</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Hastie</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Elasticnet</surname></persName>
-		</author>
+		<title level="j">Journal of the Royal Statistical Society Series B: Statistical Methodology</title>
+		<idno type="ISSN">1369-7412</idno>
+		<idno type="ISSNe">1467-9868</idno>
 		<imprint>
-			<date type="published" when="2005" />
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="301" to="320" />
+			<date type="published" when="2005-03-09" />
+			<publisher>Oxford University Press (OUP)</publisher>
 		</imprint>
 	</monogr>
 	<note>R package version</note>

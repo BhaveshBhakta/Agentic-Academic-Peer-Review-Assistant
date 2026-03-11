@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Landau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lifschitz</surname></persName>
+		</author>
+		<title level="m">The Classical Theory of Fields</title>
+				<meeting><address><addrLine>Reading, Mass</addrLine></address></meeting>
+		<imprint>
+			<publisher>Addison-Wesley</publisher>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+	<note>3rd Ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Relativistic Astrophysics (Univ</title>
+		<author>
+			<persName><forename type="first">Ya</forename><surname>Zel'dovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Novikov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971" />
+			<publisher>of Chicago Press</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Black Hole Physics</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Frolov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Novikov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<publisher>Kluwer Academic Publishers</publisher>
+			<pubPlace>Dordrecht</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Black Holes, White Dwarfs and Neutron Stars: The Physics of Compact Objects</title>
+		<author>
+			<persName><forename type="first">Stuart</forename><forename type="middle">L</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Saul</forename><forename type="middle">A</forename><surname>Teukolsky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983" />
+			<publisher>John Wiley &amp; Sons, Inc</publisher>
+			<pubPlace>NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Motion of Particles Entering a Schwarzschild field</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cavalleri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Spinelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nuovo Cimento Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="5" to="8" />
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Note on Motion in the Schwarzschild field</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cavalleri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Spinelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys.Rev</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="3065" to="3067" />
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Exploring Black Holes</title>
+		<author>
+			<persName><forename type="first">Edwin</forename><forename type="middle">F</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">A</forename><surname>Wheeler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Addison Wesley Longman</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Wald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">General Relativity</title>
+		<imprint>
+			<date type="published" when="1984" />
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Kruskal Coordinates and Mass of Schwarzschild Black Holes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mitra</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>astroph/9904162 electronic preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Non-Ocurrence of Trapped Surfaces and Black Holes in Spherical Gravitational Collapse</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mitra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Found. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="543" to="579" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Motion in the Schwarzschild field: A reply</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Janis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys.Rev</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="3068" to="3069" />
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Introduction to the Theory of Relativity</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Bergmann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1942" />
+			<publisher>Prentice-Hall</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Spherical Coordinates in General Relativity from 1915 to 1960: A Physical Interpretation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vilain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Studies in the History of General Relativity</title>
+				<editor>
+			<persName><forename type="first">Jean</forename><surname>Eisenstaedt</surname></persName>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Kox</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Birkhäuser</publisher>
+			<date type="published" when="1992" />
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+	<note>The Center for Einstein Studies</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Theory of Relativity</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Møller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">First published in 1952 by</title>
+				<meeting><address><addrLine>Delhi; Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon Press</publisher>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+	<note>2nd ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Geometry of Kerr Black Holes (A K Peters</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>O'neill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995" />
+			<pubPlace>Wellesley, Massachusetts</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wu</surname></persName>
+		</author>
+		<title level="m">General Relativity for Mathematicians</title>
+				<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Black Holes and Tachyons</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sabbata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pavšič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Recami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lett. Nuovo Cim</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="441" to="451" />
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Misner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thorne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wheeler</surname></persName>
+		</author>
+		<title level="m">Gravitation</title>
+				<meeting><address><addrLine>Freeman, San Francisco</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Acceleration of a static observer near the event horizon of a static isolated black hole</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Doughthy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am.J.Phys</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="412" to="416" />
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rindler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Essential Relativity</title>
+		<imprint>
+			<date type="published" when="1979" />
+			<publisher>Springer-Verlag</publisher>
+		</imprint>
+	</monogr>
+	<note>2nd revised edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Note on Motion in Schwarzschild field</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Janis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys.Rev</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="2360" to="2362" />
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Another view on the velocity at the Schwarzschild horizon</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tereno</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>astroph/9905298 electronic preprint</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

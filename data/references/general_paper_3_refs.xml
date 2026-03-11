@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Barbour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brendan</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niall</forename><surname>Murchadha</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:gr-qc/0012089v3</idno>
+		<imprint/>
+	</monogr>
+	<note type="report_type">Relativity without relativity</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Superspace of Geometrodynamics</title>
+		<author>
+			<persName><forename type="first">Domenico</forename><surname>Giulini</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:0902.3923v1</idno>
+		<imprint/>
+	</monogr>
+	<note>gr-qc</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Randono</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:0805.3169v2</idno>
+		<title level="m">A New Perspective on Covariant Canonical Gravity</title>
+				<imprint/>
+	</monogr>
+	<note>gr-qc</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Barbour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brendan</forename><forename type="middle">Z</forename><surname>Foster</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:0808.1223v1</idno>
+		<title level="m">Constraints and gauge transformations: Dirac&apos;s theorem is not always valid</title>
+				<imprint/>
+	</monogr>
+	<note>gr-qc</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Presymplectic manifolds and the Dirac Bergmann theory of constraints</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Gotay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">George</forename><surname>Nester</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hinds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">2388</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1063/1.523597</idno>
+		<ptr target="http://dx.doi.org/10.1063/1.523597" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Randono</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:0802.2230v2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Canonical Lagrangian Dynamics and General Relativity</title>
+		<imprint/>
+	</monogr>
+	<note>gr-qc</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Time and interpretations of quantum gravity</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Kuchař</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 4th Canadian Conference on General Relativity and Relativistic Astrophysics</title>
+				<meeting>the 4th Canadian Conference on General Relativity and Relativistic Astrophysics<address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Scientific</publisher>
+			<date type="published" when="1992" />
+			<biblScope unit="page">211314</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

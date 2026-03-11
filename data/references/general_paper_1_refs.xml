@@ -1,0 +1,600 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ferraro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fiorini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page">84031</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ferraro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fiorini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">124019</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Setare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J S</forename><surname>Houndjo</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1203.1315</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Setare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J S</forename><surname>Houndjo</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1111.2821</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shirafuji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">3524</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shirafuji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">3312</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Der Heyde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kerlick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Mod. Phys</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">393416</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">X</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Phys. J. C</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page">1755</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q-G</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JCAP</title>
+		<imprint>
+			<biblScope unit="volume">1103</biblScope>
+			<biblScope unit="page">2</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jamil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Momeni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Myrzakulov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Phys. J. C</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page">1959</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jamil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Momeni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Myrzakulov</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1202.6114</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-Q</forename><surname>Geng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L-W</forename><surname>Luo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JCAP</title>
+		<imprint>
+			<biblScope unit="volume">1101</biblScope>
+			<biblScope unit="page">21</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Miao</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">33</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Sotiriou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Barrow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page">64035</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R-X</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y-G</forename><surname>Miao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JHEP</title>
+		<imprint>
+			<biblScope unit="volume">1107</biblScope>
+			<biblScope unit="page">108</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sharif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Amir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mod. Phys. Lett. A</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">3167</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sharif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jawad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mod. Phys. Lett. A</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">3241</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sharif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Scr</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">55005</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C-Q</forename><surname>Geng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Saridakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y-P</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett. B</title>
+		<imprint>
+			<biblScope unit="volume">704</biblScope>
+			<biblScope unit="page">384</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C-Q</forename><surname>Geng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Saridakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JCAP</title>
+		<imprint>
+			<biblScope unit="volume">01</biblScope>
+			<biblScope unit="page">2</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Saridakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Leon</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1202.3781</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szydlowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hrycyna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JCAP</title>
+		<imprint>
+			<biblScope unit="volume">0901</biblScope>
+			<biblScope unit="page">39</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Garci'a</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Harko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S N</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Mimoso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Conf. Ser</title>
+		<imprint>
+			<biblScope unit="volume">314</biblScope>
+			<biblScope unit="page">12060</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett. B</title>
+		<imprint>
+			<biblScope unit="volume">652</biblScope>
+			<biblScope unit="page">63</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Hawking</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F R</forename><surname>Ellis</surname></persName>
+		</author>
+		<title level="m">The Large Scale Structure of Space-Time</title>
+				<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y-B</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y-X</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W-Q</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett. B</title>
+		<imprint>
+			<biblScope unit="volume">689</biblScope>
+			<biblScope unit="page">133</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X-J</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L-F</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett. B</title>
+		<imprint>
+			<biblScope unit="volume">707</biblScope>
+			<biblScope unit="page">298</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Phys. J. C</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page">1552</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

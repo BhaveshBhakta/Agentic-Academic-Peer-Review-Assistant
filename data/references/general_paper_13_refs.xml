@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Upper and lower bounds for the volume of a compact spacelike hypersurface in a generalized Robertson-Walker spacetime</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Aledo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Geom. Methods Mod. Phys</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">10</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Uniqueness of complete spacelike hypersurfaces of constant mean curvature in generalized Robertson-Walker spacetimes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Alías</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sánchez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Relativity Gravitation</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="84" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">On the rigidity of complete spacelike hypersurfaces immersed in a generalized Robertson-Walker spacetime</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Alías</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Colares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>De Lima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Braz. Math. Soc. (N.S.)</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">195217</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Constant mean curvature spacelike hypersurfaces in Lorentzian manifolds with a timelike gradient conformal vector field</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caballero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Classical Quantum Gravity</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">B.-Y</forename><surname>Chen</surname></persName>
+		</author>
+		<title level="m">Pseudo-Riemannian Geometry, δ-invariants and Applications</title>
+				<meeting><address><addrLine>Hackensack, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Scientific</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">B.-Y</forename><surname>Chen</surname></persName>
+		</author>
+		<title level="m">Total Mean Curvature and Submanifolds of Finite Type</title>
+				<meeting><address><addrLine>Hackensack, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Scientific</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>2nd Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">On curvature properties of certain generalized Robertson-Walker spacetimes</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Deszcz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kucharski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tsukuba J. Math</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="113" to="130" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fialkow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conformals geodesics</title>
+				<imprint>
+			<date type="published" when="1939" />
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="443" to="473" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Eine innere Kennzeichnung der verzerrten Produkte</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hiepko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Math. Ann</title>
+		<imprint>
+			<biblScope unit="volume">241</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="209" to="215" />
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>O'neill</surname></persName>
+		</author>
+		<title level="m">Semi-Riemannian Geometry with applications to Relativity</title>
+				<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Twisted products in pseudo-Riemannian geometry</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ponge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Reckziegel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geom. Dedicata</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="15" to="25" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Parabolicity of spacelike hypersurfaces in generalized Robertson-Walker spacetimes. Applications to uniqueness results</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Salamanca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Geom. Methods Mod. Phys</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Uniqueness of complete maximal hypersurfaces in spatially parabolic generalized Robertson-Walker spacetimes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Salamanca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Classical Quantum Gravity</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">13</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">On the geometry of generalized Robertson-Walker spacetimes: geodesics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sánchez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Relativity Gravitation</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="915" to="932" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">On the geometry of generalized Robertson-Walker spacetimes: curvature and Killing fields</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sánchez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Geom. Phys</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Concircular scalar field in spherically symmetric space-times</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Takeno</surname></persName>
+		</author>
+		<editor>I, Tensor (N.S.</editor>
+		<imprint>
+			<date type="published" when="1967" />
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="167" to="176" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Concircular geometry. I. Concircular transformations</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. Imp. Acad. Tokyo</title>
+				<meeting>Imp. Acad. Tokyo</meeting>
+		<imprint>
+			<date type="published" when="1940" />
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="195" to="200" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

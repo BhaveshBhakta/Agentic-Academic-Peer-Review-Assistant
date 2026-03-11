@@ -1,0 +1,504 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Principles of Optics</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Born</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emil</forename><surname>Wolf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969" />
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+	<note>7th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Curtiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Chemical Physics</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">225</biblScope>
+			<date type="published" when="1956" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A M</forename><surname>Dirac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">General Theory of Relativity</title>
+		<imprint>
+			<date type="published" when="1975" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Theor. Phys</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">2091</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kaniadakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica A</title>
+		<imprint>
+			<biblScope unit="volume">307</biblScope>
+			<biblScope unit="issue">172</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Landau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Lifshitz</surname></persName>
+		</author>
+		<title level="m">Fluid Mechanics</title>
+				<meeting><address><addrLine>Reading, Massachusetts</addrLine></address></meeting>
+		<imprint>
+			<publisher>Addison-Wesley Publishing Company, Inc</publisher>
+			<date type="published" when="1959" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Introduction to the Theory of Kinetic Equations</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">L</forename><surname>Liboff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969" />
+			<publisher>John Wiley and Sons, Inc</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Madelung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitscrift für Physic</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page">322</biblScope>
+			<date type="published" when="1926" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marlow</surname></persName>
+		</author>
+		<title level="m">Quantum Theory and Graviation</title>
+				<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Haralambos</forename><surname>Marmanis</surname></persName>
+		</author>
+		<title level="m">Proc. R. Soc. Lond. A</title>
+				<meeting>R. Soc. Lond. A</meeting>
+		<imprint>
+			<date type="published" when="1998" />
+			<biblScope unit="volume">454</biblScope>
+			<biblScope unit="page" from="585" to="606" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Haralambos</forename><surname>Marmanis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics of Fluids</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">1428</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Meno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Essays</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">94</biblScope>
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Meno</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Cats</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Atoms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aether</forename><surname>Gyrons</surname></persName>
+		</author>
+		<author>
+			<persName><surname>The Universe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>AEtherpress</publisher>
+			<pubPlace>Pittsburgh, PA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Charles</forename><forename type="middle">W</forename><surname>Misner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kip</forename><forename type="middle">S</forename><surname>Thorne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">Archibald</forename><surname>Wheeler</surname></persName>
+		</author>
+		<title level="m">Gravitation. (W.H. Freeman and Company</title>
+				<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anwarul</forename><surname>Nandi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Islam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Phys</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">251</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The Dawning of Guage Theory</title>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Lochlainn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Raifeartaigh</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Principles of Physical Cosmology</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J E</forename><surname>Peebles</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993" />
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Recami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Salesi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. A</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page">98</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Lukas</forename><surname>Saul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics Letters A</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">316</biblScope>
+			<biblScope unit="page">385</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Lee</forename><surname>Smolin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific American</title>
+		<imprint>
+			<biblScope unit="volume">290</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">66</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">N</forename><surname>Stavroudis</surname></persName>
+		</author>
+		<title level="m">The Optics of Rays, Wavefronts, and Caustics</title>
+				<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Unruh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schutzhold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page">24008</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Matt</forename><surname>Visser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Class. Quant. Grav</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">1767</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Matt</forename><surname>Visser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Barcelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefano</forename><surname>Liberati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Rel. Grav</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">1719</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">Edmund</forename><surname>Sir</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Whittaker</surname></persName>
+		</author>
+		<title level="m">A History of the Theories of Aether and Electricity</title>
+				<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harper Torchbooks</publisher>
+			<date type="published" when="1960" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">The Panck Aether Hypothesis</title>
+		<author>
+			<persName><forename type="first">Friedwardt</forename><surname>Winterberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970" />
+			<publisher>Carl Friedrich Gauss Academy of Science Press</publisher>
+			<pubPlace>Reno, Nevada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Friedwardt</forename><surname>Winterberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Theor. Phys</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">2145</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ta-You</forename><surname>Wu</surname></persName>
+		</author>
+		<title level="m">Kinetic Equations of Gases and Plasmas</title>
+				<meeting><address><addrLine>Reading, Massachusetts</addrLine></address></meeting>
+		<imprint>
+			<publisher>Addison-Wesley</publisher>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

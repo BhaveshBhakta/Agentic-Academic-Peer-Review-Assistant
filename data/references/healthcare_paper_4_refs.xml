@@ -1,0 +1,3232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Casas: A smart home in a box</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Crandall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Krishnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computer</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="62" to="69" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Wbsn in iot healthbased application: toward delay and energy consumption minimization</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alkhayyat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Thabit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Al-Mayali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">H</forename><surname>Abbasi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Sensors</title>
+		<imprint>
+			<biblScope unit="volume">2019</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Real time wireless health monitoring application using mobile devices</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abdullah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ismael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rashid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abou-Elnour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tarique</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Computer Networks &amp; Communications (IJCNC)</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="13" to="30" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A wearable, low-power, real-time ecg monitor for smart t-shirt and iot healthcare applications</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Redouté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yuce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Body Area Networks I: Post-Conference Proceedings of BodyNets</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="165" to="173" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">System design for wearable blood oxygen saturation and pulse measurement device</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Procedia manufacturing</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1187" to="1194" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A framework about using internet of things for smart cancer treatment process</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heshmat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-R</forename><forename type="middle">S</forename><surname>Shehata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the international conference on industrial engineering and operations management</title>
+				<meeting>the international conference on industrial engineering and operations management</meeting>
+		<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="1206" to="1211" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Machine learning for internet of things data analysis: A survey</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mahdavinejad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rezvan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barekatain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Adibi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Barnaghi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Sheth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Communications and Networks</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="161" to="175" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Orchestrating the development lifecycle of machine learningbased iot applications: A taxonomy and survey</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Qian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Jha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Guan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Puthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Zomaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Computing Surveys (CSUR)</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="47" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Survey on data analytics techniques in healthcare using iot platform</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Babu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shantharajah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Reasoning-based Intelligent Systems</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="183" to="196" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Iot for smart cities: Machine learning approaches in smart healthcare-a review</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Ghazal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Alshurideh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Alzoubi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Akbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Al</forename><surname>Kurdi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Akour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Internet</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">218</biblScope>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Applications of machine learning in healthcare and internet of things (iot): a comprehensive review</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Mohammadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Shenavarmasouleh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Arabnia</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2202.02868</idno>
+		<imprint>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Ai, iot and wearable technology for smart healthcare-a review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chawla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Recent Research Aspects</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A comprehensive survey of the internet of things (iot) and ai-based smart healthcare</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Alshehri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Muhammad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Access</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="3660" to="3678" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">A survey on iot smart healthcare: Emerging technologies, applications, challenges, and future trends</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Tunc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gures</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Shayea</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2109.02042</idno>
+		<imprint>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Smart healthcare</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Akmandor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mosenia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Foundations and Trends® in Electronic Design Automation</title>
+				<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="401" to="466" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Smart healthcare: making medical care more intelligent</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Le Grange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Health Journal</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="62" to="65" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Internet of things-based electrocardiogram monitoring system</title>
+		<author>
+			<persName><forename type="first">M.-L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Patent</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">764</biblScope>
+			<biblScope unit="page">118</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Heart rate monitoring device for arrhythmia using pulse oximeter sensor based on android</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Agustine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Muljono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Angka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gunadhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lestariningsih</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Weliamto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2018 International Conference on Computer Engineering, Network and Intelligent Multimedia (CENIM)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="106" to="111" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">An iomt based cyber training framework for orthopedic surgery using next generation internet technologies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cecil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pirela-Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ramanathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Informatics in Medicine Unlocked</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="128" to="137" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Internet of things (iot)-based collaborative control of a redundant manipulator for teleoperated minimally invasive surgeries</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Ovur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Knoll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ferrigno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>De Momi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2020 IEEE international conference on robotics and automation (ICRA)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="9737" to="9742" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A posture recognitionbased fall detection system for monitoring an elderly person in a smart home environment</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rhuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Naqvi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chambers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE transactions on information technology in biomedicine</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1274" to="1286" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Open mhealth architecture: an engine for health care innovation</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Estrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">330</biblScope>
+			<biblScope unit="issue">6005</biblScope>
+			<biblScope unit="page" from="759" to="760" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Keep the stress away with soda: Stress detection and alleviation system</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Akmandor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Multi-Scale Computing Systems</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="269" to="282" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Covict: an iot based architecture for covid-19 detection and contact tracing</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Wahid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H R</forename><surname>Bukhari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Daud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Awan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A Z</forename><surname>Raja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ambient Intelligence and Humanized Computing</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="7381" to="7398" />
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A health decision support system for disease diagnosis based on wearable medical sensors and machine learning ensembles</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Multi-Scale Computing Systems</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="228" to="241" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Chronic disease and mobile technology: an innovative tool for clinicians</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Merck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nursing Forum</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="298" to="305" />
+			<date type="published" when="2017" />
+			<publisher>Wiley Online Library</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The effectiveness of medical assistant health coaching for low-income patients with uncontrolled diabetes, hypertension, and hyperlipidemia: protocol for a randomized controlled trial and baseline characteristics of the study population</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Willard-Grace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Devore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hessler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bodenheimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Thom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Family practice</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">From wearable sensors to smart implants-toward pervasive and personalized healthcare</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Andreu-Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Leff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Ip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G.-Z</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Biomedical Engineering</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2750" to="2762" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Smart-mat: Recognizing and counting gym exercises with low-cost resistive pressure sensing matrix</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sundholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sethi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lukowicz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2014 ACM international joint conference on pervasive and ubiquitous computing</title>
+				<meeting>the 2014 ACM international joint conference on pervasive and ubiquitous computing</meeting>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="373" to="382" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Smart technology in lung disease clinical trials</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Geller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-Y.</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Tian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chest</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="22" to="26" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Intelligent hybrid remote patient-monitoring model with cloud-based framework for knowledge discovery</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Desouky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Elghamrawy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Sarhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers &amp; Electrical Engineering</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="1034" to="1048" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A hybrid realtime remote monitoring framework with nb-woa algorithm for patients with chronic diseases</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Desouky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Elghamrawy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Sarhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Generation Computer Systems</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="77" to="95" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Smart healthcare framework for ambient assisted living using iomt and big data analytics techniques</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Syed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jabeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Manimala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alsaeedi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Generation Computer Systems</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="136" to="151" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Smart home health monitoring system for predicting type 2 diabetes and hypertension</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Chatrati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhattacharya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gaurav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Tiwari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of King Saud University-Computer and Information Sciences</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="862" to="870" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Predicting healthcare trajectories from medical records: A deep learning approach</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Phung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Venkatesh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of biomedical informatics</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="218" to="229" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Fog computing-based intelligent healthcare system for the detection and prevention of mosquito-borne diseases</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vijayakumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Malathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Subramaniyaswamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Saravanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Logesh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="275" to="285" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Anticancer drug sensitivity prediction in cell lines from baseline gene expression through recursive feature selection</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC cancer</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Deep learning in pharmacogenomics: from gene regulation to patient stratification</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Kalinin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Reamaroon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Soroushmehr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Allyn-Feuer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Dinov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Najarian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Athey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacogenomics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="629" to="650" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Aespnet: Attention enhanced stacked parallel network to improve automatic diabetic foot ulcer identification</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Namasudra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Moparthi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Image and Vision Computing</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page">104809</biblScope>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">A comprehensive health assessment framework to facilitate iot-assisted smart workouts: A predictive healthcare perspective</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bhatia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Sood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Industry</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="50" to="66" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Healthcare assistant-a tool to predict disease using machine learning</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Babu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nihaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Micro-Electronics and Telecommunication Engineering</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<biblScope unit="page">2021</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Intelligent Internet of Things: From Device to Fog and Cloud</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Farahani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Firouzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chakrabarty</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="515" to="545" />
+		</imprint>
+	</monogr>
+	<note>Healthcare iot</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Healthfog: An ensemble deep learning based smart healthcare system for automatic diagnosis of heart diseases in integrated iot and fog computing environments</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tuli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Basumatary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kahani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Arya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Wander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Buyya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Generation Computer Systems</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="187" to="200" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">A review on machine learning forecasting growth trends and their real-time applications in different energy systems</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainable Cities and Society</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">102010</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A recommendation system for proactive health monitoring using iot and wearable technologies</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Asthana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Megahed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Strong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2017 IEEE international conference on AI &amp; mobile services (AIMS)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="14" to="21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">An ontology-driven personalized food recommendation in iot-based healthcare system</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Subramaniyaswamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Manogaran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Logesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vijayakumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chilamkurti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Malathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Senthilselvan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Supercomputing</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="3184" to="3216" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">An efficient tree-based self-organizing protocol for internet of things</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ieee Access</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="3535" to="3546" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Rate-distortion balanced data compression for wireless sensor networks</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Alsheikh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Niyato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-P</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Sensors Journal</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="5072" to="5083" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Enhanced deep learning assisted convolutional neural network for heart disease prediction on the internet of medical things platform</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ieee Access</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="189503" to="189512" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Medical internet of things using machine learning algorithms for lung cancer detection</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pradhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chawla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management Analytics</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="591" to="623" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Wban path loss based approach for human activity recognition with machine learning techniques</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Negra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jemili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zemmari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mosbah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Belghith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2018 14th International Wireless Communications &amp; Mobile Computing Conference (IWCMC)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="470" to="475" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Internet of things in sleep monitoring: An application for posture recognition using supervised learning</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Matar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Lina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Riley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kaddoum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2016 IEEE 18th International conference on e-Health networking, applications and services (Healthcom)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Friendcare-aal: A robust social iot based alert generation system for ambient assisted living</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gulati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Kaur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ambient Intelligence and Humanized Computing</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="28" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Towards ambient assisted living (aal): Design of an iotbased elderly activity monitoring system</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rupasinghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maduranga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Engineering and Manufacturing (IJEM)</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Performance of cognitive radio sensor networks using hybrid automatic repeat request: Stop-and-wait</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ur Rehman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Usman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Puthal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mobile Networks and Applications</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="479" to="488" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Bsn-care: A secure iot-based modern healthcare system using body sensor network</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hwang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE sensors journal</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1368" to="1376" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">A wireless early prediction system of cardiac arrest through iot</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Elsaadany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J A</forename><surname>Majumder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Ucci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2017 IEEE 41st annual computer software and applications conference (COMPSAC)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="690" to="695" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Toward a softwarebased network: integrating software defined networking and network function virtualization</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ramakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hwang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Network</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="36" to="41" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Real-time signal quality-aware ecg telemetry system for iot-based health care monitoring</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Satija</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ramkumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Manikandan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Internet of Things Journal</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="815" to="823" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Smartedge: An end-to-end encryption framework for an edge-enabled smart city application</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Jan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Usman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Luo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Network and Computer Applications</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Brain-computer interface learning system for quadriplegics</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Kanagasabai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gautam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rathna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2016 IEEE 4th international conference on MOOCs, innovation and technology in education (MITE)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="258" to="262" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Uncertainty in iot for smart healthcare: Challenges, and opportunities</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tissaoui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saidi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Impact of Digital Technologies on Public Health in Developed and Developing Countries: 18th International Conference</title>
+				<meeting><address><addrLine>Hammamet, Tunisia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2020" />
+			<biblScope unit="volume">2020</biblScope>
+			<biblScope unit="page" from="232" to="239" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Remote patient monitoring: a comprehensive study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Malasinghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ramzan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dahal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ambient Intelligence and Humanized Computing</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="57" to="76" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">An efficient data preprocessing approach for large scale medical data mining</title>
+		<author>
+			<persName><forename type="first">Y.-H</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-C</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-F</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-W</forename><surname>Ke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-W</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Technology and Health Care</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="153" to="160" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Predictive data mining in clinical medicine: current issues and guidelines</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bellazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zupan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International journal of medical informatics</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="81" to="97" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">How to develop machine learning models for healthcare</title>
+		<author>
+			<persName><forename type="first">P.-H</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Peng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature materials</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="410" to="414" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Early identification of icu patients at risk of complications: Regularization based on robustness and stability of explanations</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Amador</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saturnino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Veloso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ziviani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artificial Intelligence in Medicine</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page">102283</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Deadline-based dynamic resource allocation and provisioning algorithms in fog-cloud environment</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Naha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Battula</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Generation Computer Systems</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="131" to="141" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Security and privacy for cloud-based iot: Challenges</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Vasilakos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Communications Magazine</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="26" to="33" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Resource management techniques for cloud-based iot environment</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ansari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Internet of Things (IoT) Concepts and Applications</title>
+				<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="63" to="87" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Challenges of iot implementation in smart city development</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Smart Cities-Opportunities and Challenges: Select Proceedings of ICSC 2019</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="475" to="486" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Performance of internet of things based healthcare secure services and its importance: Issue and challenges</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tripathi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">tech. rep</title>
+		<imprint>
+			<date type="published" when="2020" />
+			<publisher>EasyChair</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical report</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">A payload-based mutual authentication scheme for internet of things</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Jan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Usman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Generation Computer Systems</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1028" to="1039" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main">Knock! knock! who is there? investigating data leakage from a medical internet of things hijacking attack</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Flynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Grispos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Glisson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mahoney</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Always connected: The security challenges of the healthcare internet of things</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mccauley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2016 IEEE 3rd World Forum on Internet of Things (WF-IoT)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="30" to="35" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Fairness and throughput improvement in multihop wireless ad hoc networks</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Khan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2014 IEEE 27th Canadian Conference on Electrical and Computer Engineering (CCECE)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">The future of healthcare internet of things: a survey of emerging technologies</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">A</forename><surname>Qadri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nauman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">B</forename><surname>Zikria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Vasilakos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Communications Surveys &amp; Tutorials</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1121" to="1167" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Energy per operation optimization for energy-harvesting wearable iot devices</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bhat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Geyik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">Y</forename><surname>Ogras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sensors</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">764</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">A survey on data aggregation techniques in iot sensor networks</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dehkordi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Farajzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rezazadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Farahbakhsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sandrasegaran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Abbasian</forename><surname>Dehkordi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wireless Networks</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1243" to="1263" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Challenges and opportunities in iot healthcare systems: a systematic review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Selvaraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sundaravaradhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">SN Applied Sciences</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">139</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Concepts, Paradigms and Solutions, Studies in Systems, Decision and Control</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mittal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tanwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Goyal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Preparation</title>
+				<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="1" to="365" />
+		</imprint>
+	</monogr>
+	<note>Energy conservation for iot devices</note>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title level="m" type="main">Bio-inspired algorithms for big data analytics: a survey, taxonomy, and open challenges,&quot; in Big data analytics for intelligent healthcare management</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Buyya</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019" />
+			<publisher>Elsevier</publisher>
+			<biblScope unit="page" from="1" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Similarity-aware data aggregation using fuzzy c-means approach for wireless sensor networks</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EURASIP Journal on Wireless Communications and Networking</title>
+		<imprint>
+			<biblScope unit="volume">2019</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Convolutional neural network based detection and judgement of environmental obstacle in vehicle operation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Qi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CAAI Transactions on Intelligence Technology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="80" to="91" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Secrecy analysis of ambient backscatter noma systems under i/q imbalance</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nallanathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Vehicular Technology</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="12286" to="12290" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Engine speed reduction for hydraulic machinery using predictive algorithms</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wiens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Hydromechatronics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="31" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Uav-aided multi-way noma networks with residual hardware impairments</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Tsiftsis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nallanathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Wireless Communications Letters</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1538" to="1542" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">A review on the artificial neural network approach to analysis and prediction of seismic damage in infrastructure</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shokri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tavakoli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Hydromechatronics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="178" to="196" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Using nsga-iii for optimising biomedical ontology alignment</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CAAI Transactions on Intelligence Technology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="135" to="141" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Numerical modelling of underwater structural impact damage problems based on the material point method</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Hydromechatronics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="99" to="110" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">A secured and reliable communication scheme in cognitive hybrid arq-aided smart city</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ur Rehman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Jan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers &amp; Electrical Engineering</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page">106502</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">Three-stage network for age estimation</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tingting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Junqian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lintai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CAAI Transactions on Intelligence Technology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="122" to="126" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Performance investigation of srharq transmission scheme in realistic cognitive radio system</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ishtiaq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Rehman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Salam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="258" to="0263" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Machine learning for resource management in cellular and iot networks: Potentials, current solutions, and open challenges</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hussain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hussain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE communications surveys &amp; tutorials</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1251" to="1275" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hassabis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kumaran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Summerfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Botvinick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroscience-inspired artificial intelligence</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="245" to="258" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>Neuron</note>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">An internet of healthcare things (ioht)-based healthcare monitoring system</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kaur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Atif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chauhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Intelligent Computing and Communication: Proceedings of ICAC 2019</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="475" to="482" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">The security issues in iot-cloud: a review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Almolhis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Alashjaee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Duraibi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Alqahtani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Moussa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2020 16th IEEE International Colloquium on Signal Processing &amp; Its Applications (CSPA)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="191" to="196" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Iot ecosystem: A survey on devices, gateways, operating systems, middleware and communication</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bansal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Wireless Information Networks</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="340" to="364" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">Present scenarios of iot projects with security aspects focused</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bhattacharjya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Digital Twin Technologies and Smart Cities</title>
+				<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="95" to="122" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Federated machine learning for intelligent iot via reconfigurable intelligent surface</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE network</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="16" to="22" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">Fallcare+: An iot surveillance system for fall detection</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.-C</forename><surname>Chiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Wen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2017 International conference on applied system innovation (ICASI)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="921" to="922" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main">Internet of things meets brain-computer interface: A unified deep learning framework for enabling human-thing cognitive interactivity</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kanhere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Internet of Things Journal</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="2084" to="2092" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Wearable device localisation using machine learning techniques</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>De Arruda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Hancke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2016 IEEE 25th International symposium on industrial electronics (ISIE)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="1110" to="1115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main">Case study: Integrating iot, streaming analytics and machine learning to improve intelligent diabetes management system</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2017 International conference on energy, communication, data analytics and soft computing (ICECDS)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="3179" to="3182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">Extending the battery lifetime of wearable sensors with embedded machine learning</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Fafoutis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Marchegiani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elsts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Piechocki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Craddock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2018 IEEE 4th World Forum on Internet of Things (WF-IoT)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="269" to="274" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<analytic>
+		<title level="a" type="main">Probing an intelligent predictive maintenance approach with deep learning and augmented reality for machine tools in iot-enabled manufacturing</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Nie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Robotics and Computer-Integrated Manufacturing</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page">102357</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main">Towards a secure and scalable maritime monitoring system using blockchain and low-cost iot technology</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Freire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Melo</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">D</forename><surname>Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>De Sá</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sensors</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page">4895</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<analytic>
+		<title level="a" type="main">An adaptive energy aware dtn-based communication layer for cyber-physical systems</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pamula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Srivastava</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sustainable Computing: Informatics and Systems</title>
+				<imprint>
+			<date type="published" when="2022" />
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">100657</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<monogr>
+		<title level="m" type="main">The new era of computer network by using machine learning</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Namasudra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lorenz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Ghosh</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023" />
+			<publisher>Mobile Networks and Applications</publisher>
+			<biblScope unit="page" from="1" to="3" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<analytic>
+		<title level="a" type="main">Data management techniques for internet of things</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Diène</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Diallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H M</forename><surname>Ndoye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Korotaev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mechanical Systems and Signal Processing</title>
+				<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page">106564</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<analytic>
+		<title level="a" type="main">Enhanced neural network-based univariate time-series forecasting model for big data</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Namasudra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dhamodharavadhani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rathipriya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Crespo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Moparthi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Big Data</title>
+		<imprint>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main">Energy sustainable paradigms and methods for future mobile networks: A survey</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Piovesan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Gambin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miozzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computer Communications</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="101" to="117" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<analytic>
+		<title level="a" type="main">Qest: Quantized and efficient scene text detector using deep learning</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Manjari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Singal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Namasudra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Trans. Asian Low-Resour. Lang. Inf. Process</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<date type="published" when="2023-05" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<analytic>
+		<title level="a" type="main">Deep learning in medical imaging</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurospine</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">657</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<analytic>
+		<title level="a" type="main">Explainability for artificial intelligence in healthcare: a multidisciplinary perspective</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Amann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blasimme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vayena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Frey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Madai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Consortium</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC medical informatics and decision making</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<analytic>
+		<title level="a" type="main">The importance of interpretability and visualization in machine learning for applications in medicine and health care</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vellido</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Neural computing and applications</title>
+				<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="18069" to="18083" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<analytic>
+		<title level="a" type="main">An improved ensemble learning method for classifying highdimensional and imbalanced biomedicine data</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE/ACM transactions on computational biology and bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="657" to="666" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<analytic>
+		<title level="a" type="main">Security, privacy, trust, and anonymity</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Namasudra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Devi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Choudhary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Patan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kallam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances of DNA computing in cryptography</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="138" to="150" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<analytic>
+		<title level="a" type="main">A novel hybrid encryption method to secure healthcare data in iot-enabled healthcare infrastructure</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Namasudra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers and Electrical Engineering</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page">107991</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<analytic>
+		<title level="a" type="main">A comprehensive survey on machine learning-based big data analytics for iot-enabled smart healthcare system</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R U</forename><surname>Jan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Menon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Kavita</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mobile networks and applications</title>
+				<imprint>
+			<date type="published" when="2021" />
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="234" to="252" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b120">
+	<analytic>
+		<title level="a" type="main">Artificial intelligence and machine learning in clinical development: a translational perspective</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kendall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khozin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Laramie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ringel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Schork</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NPJ digital medicine</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">69</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b121">
+	<analytic>
+		<title level="a" type="main">An iot patient monitoring based on fog computing and data mining: Cardiac arrhythmia usecase</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moghadas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rezazadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Farahbakhsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Internet of Things</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">100251</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

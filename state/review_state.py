@@ -5,6 +5,7 @@ class ReviewState(TypedDict):
 
     pdf_path: str
     topic: str
+    run_dir: str
 
     tools_to_run: List[str]
 

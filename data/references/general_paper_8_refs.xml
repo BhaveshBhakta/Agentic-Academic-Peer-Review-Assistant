@@ -1,0 +1,496 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Artificial General Intelligence: Concept, State of the Art, and Future Prospects</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Goertzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Artificial General Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="48" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Mapping the landscape of human-level artificial general intelligence</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Adams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AI Magazine</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="25" to="42" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Making sense of sensory input</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hernández-Orallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Welbl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kohli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sergot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artificial Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">293</biblScope>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Making Sense of Raw Input</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bošnjak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Buesing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pfau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kohli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sergot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artificial Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">299</biblScope>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Kant&apos;s Cognitive Architecture</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Evans</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020" />
+			<pubPlace>Imperial College London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">PhD Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Universal Artificial Intelligence: Sequential Decisions based on Algorithmic Probability</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hutter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>Springer</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Origo: Causal Inference by Compression</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Budhathoki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vreeken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Knowledge and Information Systems</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="28" to="307" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Limits of Reason</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chaitin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific American</title>
+		<imprint>
+			<biblScope unit="volume">294</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="74" to="81" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Machine Super Intelligence</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Legg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Symbol Emergence in Cognitive Developmental Systems: A Survey</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Taniguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Cognitive and Developmental Systems</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="494" to="516" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Symbol Emergence in Robotics: A Survey</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Taniguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advanced Robotics</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">11-12</biblScope>
+			<biblScope unit="page" from="706" to="728" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">On the Measure of Intelligence</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chollet</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1911.01547[cs.AI]</idno>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">On tables of random numbers</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Kolmogorov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sankhya: The Indian Journal of Statistics A</title>
+		<imprint>
+			<biblScope unit="page" from="369" to="376" />
+			<date type="published" when="1963" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A formal theory of inductive inference. Part I</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Solomonoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information and Control</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A formal theory of inductive inference. Part II</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Solomonoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information and Control</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="224" to="254" />
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Embodiment: Does a Laptop Have a Body?</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of AGI-09</title>
+				<meeting>AGI-09</meeting>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="74" to="179" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Philosophical Specification of Empathetic Ethical Artificial Intelligence</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Maruyama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">To appear in: IEEE Transactions on Cognitive and Developmental Systems</title>
+				<imprint>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Symbol Emergence and The Solutions to Any Task. 14th Conference on Artificial General Intelligence</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Bennett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Physical Symbol System Hypothesis: Status and Prospects</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Nilsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">50 Years of Artificial Intelligence</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="9" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Causality: Models, Reasoning and Inference. 2nd. USA: Cambridge University Press</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pearl</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The Book of Why: The New Science of Cause and Effect. 1st. USA</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pearl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mackenzie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018" />
+			<publisher>BasicBooks, Inc</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">GPT-3: Its Nature, Scope, Limits, and Consequences</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Floridi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chiriatti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Minds and Machines</title>
+				<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Physical Symbol Systems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Newell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cog. Sci</title>
+		<imprint>
+			<biblScope unit="page" from="135" to="183" />
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The Symbol Grounding Problem</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Harnad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Mind in Life</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biology, Phenomenology and the Sciences of Mind</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Perceptual Symbol Systems</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Barsalou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavioral and Brain Sciences</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="577" to="660" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mi Lkowski</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Embodied Cognition.</orgName>
+			</affiliation>
+		</author>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Automation of Science</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">324</biblScope>
+			<biblScope unit="page" from="85" to="89" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

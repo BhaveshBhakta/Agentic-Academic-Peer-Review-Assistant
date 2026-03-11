@@ -17,13 +17,22 @@ Draft Review:
 Critique:
 {critique}
 
-Produce a final review using the structure below.
+Produce a final review using EXACTLY this format:
 
-1. Summary of the Paper
-2. Strengths
-3. Weaknesses
-4. Suggestions
-5. Final Recommendation
+**1. Summary of the Paper**
+<text>
+
+**2. Strengths**
+<text>
+
+**3. Weaknesses**
+<text>
+
+**4. Suggestions**
+<text>
+
+**5. Final Recommendation**
+<text>
 
 Ensure the review is detailed and reflects the critique if improvements are needed.
 """

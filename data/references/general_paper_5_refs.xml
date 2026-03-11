@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hulse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Gullahorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rankin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Talk given at the Ninth Texas Symposium on Relativistic Astrophysics</title>
+				<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1976" />
+			<biblScope unit="volume">206</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Mccullough</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="page">437</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Will</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Talk given at the Ninth Texas Symposium on Relativistic Astrophysics</title>
+				<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1977" />
+			<biblScope unit="volume">214</biblScope>
+			<biblScope unit="page" from="826" to="839" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Wagoner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="page">717</biblScope>
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Wagoner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Will</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">210</biblScope>
+			<biblScope unit="page">764</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schweizer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Straumann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page">493</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Hehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ne'eman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nitsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Der Heyde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Nitsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Der Heyde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Einstein Commemorative Volume</title>
+				<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Plenum</publisher>
+			<date type="published" when="1978" />
+			<biblScope unit="volume">788</biblScope>
+			<biblScope unit="page">102</biblScope>
+		</imprint>
+	</monogr>
+	<note>to appear</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Hehl</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Four Lectures on Poincaré Gauge Field Theory</title>
+				<editor>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Bergmann</surname></persName>
+			<persName><forename type="first">V</forename><surname>De Sabbata</surname></persName>
+			<persName><surname>Plenum</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Erice; New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1979-05" />
+		</imprint>
+	</monogr>
+	<note>to appear</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Trautman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Symposia Mathematica</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">139</biblScope>
+			<date type="published" when="1973" />
+			<publisher>Academic</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rumpf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Z. Naturforsch</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">1224</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Analyse einer Poincaré Eichfeldtheorie der Gravitation und Emission yon Gravitationsstrahlung in derselben</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wipf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Institute for Theoretical Physics</title>
+				<meeting><address><addrLine>Zürich</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1979" />
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">8001</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>University of Zürich</orgName>
+		</respStmt>
+	</monogr>
+	<note>Diplomarbeit</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">University of Cologne, preprint</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Hehl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nitsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nitsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the International School of Cosmology and Gravitation</title>
+		<editor>Bergmann, P. G., and de Sabbata, V. Plenum</editor>
+		<imprint>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+	<note>Seminar Talk. to appear</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Thirring</surname></persName>
+		</author>
+		<title level="m">Lehrbuch der Mathematischen Physik</title>
+				<meeting><address><addrLine>Wien</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="1978" />
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Isolated Systems in General Relativity</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ehlers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Talk given at the Ninth Texas Symposium on Relativistic Astrophysics</title>
+				<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

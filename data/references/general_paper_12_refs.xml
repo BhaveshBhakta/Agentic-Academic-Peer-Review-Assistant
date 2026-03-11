@@ -1,0 +1,476 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Amelino-Camelia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">398</biblScope>
+			<biblScope unit="page">216</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Amelino-Camelia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Mavromatos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Nanopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sarkar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page">763</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Alfaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Morales-Tecotl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Urrutia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">2318</biblScope>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">New Observational Bounds to Quantum Gravity Signals</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sudarsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Urrutia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vucetich</surname></persName>
+		</author>
+		<idno>gr-qc/0204027</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Konopka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Major</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New J.Phys</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">57</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Greisen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">748</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Zatsepin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Kuzmin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JETP</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">78</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Aharonian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. Astrophys</title>
+		<imprint>
+			<biblScope unit="volume">349</biblScope>
+			<biblScope unit="page">11A</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Antonov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JETP</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page">446</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Amelino-Camelia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys.Lett</title>
+		<imprint>
+			<biblScope unit="volume">528</biblScope>
+			<biblScope unit="page">181</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Amati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ciafaloni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Veneziano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">226</biblScope>
+			<biblScope unit="page">41</biblScope>
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maggiore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page">5182</biblScope>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Amelino-Camelia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">392</biblScope>
+			<biblScope unit="page">283</biblScope>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Likierski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ruegg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Zakrewski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Phys</title>
+		<imprint>
+			<biblScope unit="volume">243</biblScope>
+			<biblScope unit="page">90</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Minimal Length Uncertainty Relation and Ultraviolet Regularization</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kempf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mangano</surname></persName>
+		</author>
+		<idno>hep-th/9612084</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Szabo</surname></persName>
+		</author>
+		<idno>hep-th/0109162</idno>
+		<title level="m">Quantum Field Theory on Noncommutative Spaces</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<title level="m">The Theory of Groups and Quantum Mechanics</title>
+				<meeting><address><addrLine>Dover, New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1931" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Advanced Quantum Mechanics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Sakurai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1967" />
+			<publisher>Addison-Wesley Publ. Co</publisher>
+			<pubPlace>Reading, Mass</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Quantum Fields in Curved Space</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Birrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C W</forename><surname>Davies</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982" />
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Quantum Field Theory in Curved Spacetime and Black Hole Thermodynamics</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Wald</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kempf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mangano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Mann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page">1108</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gambini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pullin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page">124021</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Gleiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kozameh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">83007</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The Quantum Theory of Radiation</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Heitler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984" />
+			<publisher>Dover Publications</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Towards the QFT on Curved Spacetime Limit of QGR. I: A General Scheme</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sahlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Thiemann</surname></persName>
+		</author>
+		<idno>gr-qc/0207030</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Towards the QFT on Curved Spacetime Limit of QGR. II: A Concrete Implementation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sahlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Thiemann</surname></persName>
+		</author>
+		<idno>gr-qc/0207031</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

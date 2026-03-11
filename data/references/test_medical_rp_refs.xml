@@ -109,7 +109,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.6.2" ident="GROBID" when="2026-03-11T05:46+0000">
+				<application version="0.6.2" ident="GROBID" when="2026-03-11T07:28+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -157,23 +157,27 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b1">
 	<analytic>
-		<title level="a" type="main">Finding the missing link for big biomedical data</title>
+		<title level="a" type="main">Finding the Missing Link for Big Biomedical Data</title>
 		<author>
-			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+			<persName><forename type="first">Griffin</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Mandl</surname></persName>
+			<persName><forename type="first">Kenneth</forename><forename type="middle">D</forename><surname>Mandl</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
+			<persName><forename type="first">Isaac</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
 		</author>
+		<idno type="DOI">10.1001/jama.2014.4228</idno>
 	</analytic>
 	<monogr>
 		<title level="j">JAMA</title>
+		<title level="j" type="abbrev">JAMA</title>
+		<idno type="ISSN">0098-7484</idno>
 		<imprint>
 			<biblScope unit="volume">311</biblScope>
 			<biblScope unit="page" from="2479" to="2480" />
-			<date type="published" when="2014" />
+			<date type="published" when="2014-05-22" />
+			<publisher>American Medical Association (AMA)</publisher>
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -182,26 +186,21 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Biases in electronic health record data due to processes within the healthcare system: retrospective observational study</title>
 		<author>
-			<persName><forename type="first">Denis</forename><surname>Agniel</surname></persName>
+			<persName><forename type="first">D</forename><surname>Agniel</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Isaac</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Griffin</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
 		</author>
-		<idno type="DOI">10.1136/bmj.k1479</idno>
 	</analytic>
 	<monogr>
 		<title level="j">BMJ</title>
-		<title level="j" type="abbrev">BMJ</title>
-		<idno type="ISSN">0959-8138</idno>
-		<idno type="ISSNe">1756-1833</idno>
 		<imprint>
 			<biblScope unit="volume">361</biblScope>
-			<biblScope unit="page">k1479</biblScope>
-			<date type="published" when="2018-04-30" />
-			<publisher>BMJ</publisher>
+			<biblScope unit="page">1479</biblScope>
+			<date type="published" when="2018" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -210,39 +209,21 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Mayo clinical Text Analysis and Knowledge Extraction System (cTAKES): architecture, component evaluation and applications</title>
 		<author>
-			<persName><forename type="first">Guergana</forename><forename type="middle">K</forename><surname>Savova</surname></persName>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Savova</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">James</forename><forename type="middle">J</forename><surname>Masanz</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Masanz</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Philip</forename><forename type="middle">V</forename><surname>Ogren</surname></persName>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Ogren</surname></persName>
 		</author>
-		<author>
-			<persName><forename type="first">Jiaping</forename><surname>Zheng</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Sunghwan</forename><surname>Sohn</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Karin</forename><forename type="middle">C</forename><surname>Kipper-Schuler</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Christopher</forename><forename type="middle">G</forename><surname>Chute</surname></persName>
-		</author>
-		<idno type="DOI">10.1136/jamia.2009.001560</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Journal of the American Medical Informatics Association</title>
-		<title level="j" type="abbrev">J Am Med Inform Assoc</title>
-		<idno type="ISSN">1067-5027</idno>
-		<idno type="ISSNe">1527-974X</idno>
+		<title level="j">J Am Med Inform Assoc</title>
 		<imprint>
 			<biblScope unit="volume">17</biblScope>
-			<biblScope unit="issue">5</biblScope>
 			<biblScope unit="page" from="507" to="513" />
-			<date type="published" when="2010-09" />
-			<publisher>Oxford University Press (OUP)</publisher>
+			<date type="published" when="2010" />
 		</imprint>
 	</monogr>
 </biblStruct>
@@ -251,20 +232,36 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<analytic>
 		<title level="a" type="main">Privacy-preserving generative deep neural networks support clinical data sharing</title>
 		<author>
-			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Beaulieu-Jones</surname></persName>
+			<persName><forename type="first">Brett</forename><forename type="middle">K</forename><surname>Beaulieu-Jones</surname></persName>
+			<idno type="ORCID">0000-0002-6700-1468</idno>
 		</author>
 		<author>
-			<persName><forename type="first">Z</forename><forename type="middle">S</forename><surname>Wu</surname></persName>
+			<persName><forename type="first">Zhiwei</forename><forename type="middle">Steven</forename><surname>Wu</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">C</forename><surname>Williams</surname></persName>
+			<persName><forename type="first">Chris</forename><surname>Williams</surname></persName>
 		</author>
+		<author>
+			<persName><forename type="first">Ran</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sanjeev</forename><forename type="middle">P</forename><surname>Bhavnani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">Brian</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Casey</forename><forename type="middle">S</forename><surname>Greene</surname></persName>
+			<idno type="ORCID">0000-0001-8713-9213</idno>
+		</author>
+		<idno type="DOI">10.1101/159756</idno>
 		<idno>DOI:10•1101/159756</idno>
 	</analytic>
 	<monogr>
 		<title level="j">bioRxiv</title>
 		<imprint>
-			<date type="published" when="2018-12-20" />
+			<date type="published" when="2017-07-05" />
+			<publisher>openRxiv</publisher>
 		</imprint>
 	</monogr>
 	<note>published online. preprint</note>

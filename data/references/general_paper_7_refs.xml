@@ -1,0 +1,982 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">An Acoustically Driven Magnetized Target Fusion Reactor</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laberge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Fusion Energy</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="65" to="68" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Magnetized Target Fusion with a Spherical Tokamak</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laberge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Fusion Energy</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="199" to="203" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Froese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Suponitsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zimmermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Barsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mccone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ivanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Parfeniuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Shea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Delage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laberge</surname></persName>
+		</author>
+		<ptr target="http://pbnc2014.org/proceedings/html_files/2327.html" />
+		<title level="m">Spheromak Compression Experiments at General Fusion, 19th Pacific Basin Nuclear Conference Proceedings</title>
+				<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="C2014" to="C2234" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Experimental demonstration of compact torus compression and acceleration</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hammer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Eddleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Hartman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Mclean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Molvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics of Fluids B</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">2236</biblScope>
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Compact toroid formation, compression, and acceleration</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Degnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Peterkin</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Baca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Beason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Dearborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dietz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Douglas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Englert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Englert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics of Fluids B</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">2938</biblScope>
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laberge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Froese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Suponitsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Plant</surname></persName>
+		</author>
+		<title level="m">Acoustically driven Magnetized Target Fusion, IEEE, 25th Symposium on Fusion Engineering</title>
+				<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Development of Merged Compact Toroids for Use as a Magnetized Target Fusion Plasma</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laberge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mcilwraith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Fusion Energy</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">156</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Adiabatic Compression of Tokamak Discharges</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Furth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yoshikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics of Fluids</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">2593</biblScope>
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Adiabatic toroidal compression and free-expansion experiments in TFTR</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tait</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Plasma Physics and Controlled Nuclear Fusion Research Conference</title>
+				<meeting>the Plasma Physics and Controlled Nuclear Fusion Research Conference<address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1984" />
+			<biblScope unit="page" from="141" to="154" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Cecchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Daughney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Demarco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Eubank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Furth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hsuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mazzucato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<title level="m">Experiments on the Adiabatic Toroidal Compressor, Proceedings of the Plasma Physics and Controlled Nuclear Fusion Research Conference</title>
+				<meeting><address><addrLine>Tokyo</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1974" />
+			<biblScope unit="page" from="141" to="154" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Adiabatic compression of the Tokamak Discharge</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eubank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Furth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Jacobsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mazzucato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Stodiek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Tolnas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Letters</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1495</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Ohmic Ignition of Tokamak Plasma via Ultra Low q Discharge Combined with Adiabatic Compression</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Inoue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nuclear Sci. and Tech</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Application of magnetic compression to ultra-low-Q plasmas</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+	<note type="report_type">PhD thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Recent results of ultra low q experiments in TORIUT-6 and REPUTE-1</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fujita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ohira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Saitoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fuke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Utsumi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Inoue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Fusion</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">713</biblScope>
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Local heat balance and MHD stability in the plasma of Tuman-2A, a tokamak with magnetic compression</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Goncharev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Gusev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Ipatov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Plasma Physics and Controlled Nuclear Fusion Research Conference</title>
+				<meeting>the Plasma Physics and Controlled Nuclear Fusion Research Conference<address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1984" />
+			<biblScope unit="page" from="155" to="166" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Zero-dimensional study of the compression of low temperature spheromaks</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Meyerhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hulse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Zweibel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Fusion</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">235</biblScope>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">S-1 Spheromak</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Fusion</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">1327</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Experimental investigation of magnetic compression of a spheromak plasma</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Ellis</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Janos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Levinton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Mayo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Motley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nagata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Satomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ueda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics of Fluids B</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">High power magnetic compression heating of field reversed configurations</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Rej</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Taggart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Chrien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Gribble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tuszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Waganaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Wright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Fluids B</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">1909</biblScope>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Formation of hot, stable, long-lived field-reversed configuration plasmas on the C-2W device</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Binderbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Putvinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tuszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Dettrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Korepanov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Fusion</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page">112009</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Creation of a high-temperature plasma through merging and compression of supersonic field reversed configuration plasmoids</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Slough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Votroubek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pihl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Fusion</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page">53008</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Merging-compression formation of high temperature tokamak plasma</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Gryaznevich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sykes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Fusion</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page">72003</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Small-aspect-ratio tokamak research at Culham Laboratory, A Collection of Papers Presented at the IAEA Technical Committee Meeting Research Using Small Tokamaks (Wiirzburg</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Gryaznevich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992-09" />
+			<biblScope unit="page" from="28" to="29" />
+			<pubPlace>Vienna: IAEA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Progress on spherical tokamaks</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sykes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plasma Phys. Control. Fusion</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">B93</biblScope>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">First results from MAST</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sykes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Akers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Appel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Arendsa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Carolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Conway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Counsell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dnestrovskijb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">N</forename><surname>Dnestrovskijb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Fusion</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">1423</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gryaznevich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Akers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Counsell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dnestrovskij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Hender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kirk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lloyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Next-step-targeted experiments on the Mega-Amp Spherical Tokamak</title>
+				<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1803</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A Theorem on Force-Free Magnetic Fields</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Woltjer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Relaxation and magnetic reconnection in plasmas</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reviews of Modern Physics</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Tokamak Devices</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Artsimovich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Fusion</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">215</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A globally conservative finite element MHD code and its application to the study of compact torus formation, levitation and magnetic compression</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dunlea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Khalzov</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1907.13283</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comp. Phys</title>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+	<note>submitted to</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Magnetic Compression of Compact Tori -Experiment and Simulation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dunlea</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+		<respStmt>
+			<orgName>University of Saskatchewan</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A model for plasma-neutral fluid interaction and its application to a study of CT formation in a magnetised Marshall gun</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dunlea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hirose</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1909.08076v1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">and submitted Physics of Plasmas</title>
+				<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Meeker</surname></persName>
+		</author>
+		<ptr target="http://www.femm.info" />
+		<title level="m">Finite Element Method Magnetics (FEMM)</title>
+				<imprint/>
+	</monogr>
+	<note>Version 4.0.1</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hans-Joachim</forename><surname>Kunze</surname></persName>
+		</author>
+		<title level="m">Introduction to Plasma Spectroscopy</title>
+				<imprint>
+			<publisher>Springer-Verlag Berlin Heidelberg</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Plasma shifts of the He II, H alpha and P alpha lines</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fleurier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Rev A</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1291" to="1296" />
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wesson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tokamaks</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+	</monogr>
+	<note>2nd edition.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Barbano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Suen-Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shrock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Light</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Schaffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Woodruff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Meyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Magnetothermodynamics: Measurements of thermodynamic properties in a relaxed magnetohydrodynamic plasma</title>
+				<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">905840114</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

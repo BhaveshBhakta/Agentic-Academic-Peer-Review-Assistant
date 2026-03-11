@@ -11,8 +11,9 @@ from rag.rag_node import rag_retriever_node
 from debate_agents.reviewer_agent import reviewer_agent
 from debate_agents.critic_agent import critic_agent
 from debate_agents.meta_reviewer import meta_reviewer
-
+import os 
 import json
+import shutil
 
 def load_json_safe(path):
     try:
@@ -26,6 +27,7 @@ def run_tools(state: ReviewState):
     tools = state.get("tools_to_run", [])
     pdf_path = state["pdf_path"]
     topic = state.get("topic", "general")
+    run_dir = state["run_dir"]
 
     if "novelty_search" in tools:
 
@@ -33,7 +35,10 @@ def run_tools(state: ReviewState):
             "pdf_path": pdf_path
         })
 
-        with open(path, "r") as f:
+        new_path = os.path.join(run_dir, "novelty.json")
+        shutil.move(path, new_path)
+
+        with open(new_path, "r") as f:
             state["novelty_result"] = json.load(f)
 
     if "plagiarism_detection" in tools:
@@ -41,7 +46,10 @@ def run_tools(state: ReviewState):
             "pdf_path": pdf_path
         })
 
-        with open(path, "r") as f:
+        new_path = os.path.join(run_dir, "plagiarism.json")
+        shutil.move(path, new_path)
+
+        with open(new_path, "r") as f:
             state["plagiarism_result"] = json.load(f)
 
     if "citation_quality" in tools:
@@ -49,15 +57,22 @@ def run_tools(state: ReviewState):
             "pdf_path": pdf_path
         })
 
-        with open(path, "r") as f:
+        new_path = os.path.join(run_dir, "citation_report.json")
+        shutil.move(path, new_path)
+
+        with open(new_path, "r") as f:
             state["citation_result"] = json.load(f)
 
     if "claim_mapping" in tools:
         path = claim_mapping_tool.invoke({
-            "pdf_path": pdf_path
+            "pdf_path": pdf_path,
+            "run_dir": run_dir
         })
 
-        with open(path, "r") as f:
+        # new_path = os.path.join(run_dir, "claim_mapping.json")
+        # shutil.move(path, new_path)
+
+        with open(new_path, "r") as f:
             state["claim_result"] = json.load(f)
 
     if "factual_check" in tools:
@@ -66,7 +81,10 @@ def run_tools(state: ReviewState):
             "topic": topic
         })
 
-        with open(path, "r") as f:
+        new_path = os.path.join(run_dir, "factual.json")
+        shutil.move(path, new_path)
+
+        with open(new_path, "r") as f:
             state["factual_result"] = json.load(f)
 
     if "deep_search" in tools:
@@ -87,9 +105,9 @@ def build_graph():
 
     builder.set_entry_point("planner")
 
-    builder.add_edge("planner", "rag_retrieval")
-    builder.add_edge("rag_retrieval", "tools")
-    builder.add_edge("tools", "reviewer")
+    builder.add_edge("planner", "tools")
+    builder.add_edge("tools", "rag_retrieval")
+    builder.add_edge("rag_retrieval", "reviewer")
     builder.add_edge("reviewer", "critic")
     builder.add_edge("critic", "meta_reviewer")
     builder.add_edge("meta_reviewer", END)

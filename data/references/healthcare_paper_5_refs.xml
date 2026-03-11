@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Measuring lowvalue care in Medicare</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Landon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Elshaug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Chernew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mcwilliams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page" from="1067" to="1076" />
+			<date type="published" when="2014-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Trump Administration Announces Historic Price Transparency Requirements to Increase Competition and Lower Healthcare Costs for All Americans</title>
+		<ptr target="https://www.hhs.gov/about/news/2019/11/15/trump-administration-announces-historic-price-transparency-and-lower-healthcare-costs-for-all-americans.html" />
+		<imprint>
+			<date type="published" when="2019-02" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Facilitating the Exploration of Open Health-Care Data Through BOAT: A Big Data Open Source Analytics Tool</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clarke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Emerging Challenges in Business, Optimization, Technology, and Industry</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="93" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A fully integrated opensource toolkit for mining healthcare big-data: architecture and applications</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clarke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE International Conference on Healthcare Informatics ICHI</title>
+				<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="255" to="261" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">An open-source framework for the interactive exploration of Big Data: applications in understanding health care</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clarke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IJCNN, International Joint Conference on Neural Networks</title>
+				<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="1641" to="1648" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Building an Open Health Data Analytics Platform: A Case Study Examining Relationships and Trends in Seniority and Performance in Healthcare Providers</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vargas</surname></persName>
+		</author>
+		<ptr target="https://data.medicare.gov/Physician-Compare/National-Downloadable-File/s63f-csi6" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Healthcare Informatics Research</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="27" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Population cost prediction on public healthcare datasets</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sushmita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marquardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Cock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 5th International Conference on Digital Health</title>
+				<meeting>the 5th International Conference on Digital Health</meeting>
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="87" to="94" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Algorithmic prediction of health-care costs</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bertsimas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Bjarnadóttir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Kryder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pandey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vempala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Operations Research</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1382" to="1392" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A comparative analysis of claims-based methods of health risk assessment for commercial populations</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Cumming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Derrick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Final report to the Society of Actuaries</title>
+				<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A Platform based on Multiple Regression to Estimate the Effect of in-Hospital Events on Total Charges</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zikos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Healthcare Informatics (ICHI), 2016 IEEE International Conference on</title>
+				<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="403" to="408" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Hiding in plain sight: insights about health-care trends gained through open health data</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clarke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Technology in Human Services</title>
+		<imprint>
+			<date type="published" when="2018-01-19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Supervised learning methods for predicting healthcare costs: systematic literature review and empirical evaluation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Morid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kawamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dorius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Abdelrahman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">AMIA Annual Symposium Proceedings</title>
+				<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="page">1312</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A framework for analyzing publicly available healthcare data</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chhabra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ruhil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2015 17th International Conference on Ehealth Networking, Application &amp; Services</title>
+				<imprint>
+			<publisher>IEEE HealthCom</publisher>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="653" to="656" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A comparison of models to predict medical procedure costs from open public healthcare data</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clarke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE IJCNN International Joint Conference on Neural Networks</title>
+				<meeting><address><addrLine>Rio de Janeiro, Brazil</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="5013" to="5020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A system for exploring big data: an iterative k-means searchlight for outlier detection on open health data</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Garai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE 2018 International Joint Conference on Neural Networks (IJCNN)</title>
+				<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="5005" to="5012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Scikit-learn: Machine learning in Python</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pedregosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Varoquaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gramfort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Michel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thirion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Grisel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Machine Learning Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="2825" to="2830" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Building trust in the power of &quot;big data&quot; research to serve the public good</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Larson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jama</title>
+		<imprint>
+			<biblScope unit="volume">309</biblScope>
+			<biblScope unit="page" from="2443" to="2444" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Reproducibility and replicability in science</title>
+				<imprint>
+			<publisher>National Academies Press</publisher>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

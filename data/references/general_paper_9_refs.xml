@@ -1,0 +1,661 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Spacelike hypersurfaces with constant mean curvature in the steady state spacetime</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Albujer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Alías</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">P. Am. Math. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="711" to="721" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Integral formulae for spacelike hypersurfaces in conformally stationary spacetimes and applications</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Alías</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brasil</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Colares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">P. Edinburgh Math. Soc</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="465" to="488" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Uniqueness of spacelike hypersurfaces with constant higher order mean curvature in generalized Robertson-Walker spacetimes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Alías</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Colares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Math. Proc. Cambridge</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="703" to="729" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Uniqueness of complete spacelike hypersurfaces of constant mean curvature in Generalized Robertson-Walker spacetimes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Alías</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sánchez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Relat. Gravit</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="71" to="84" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Spacelike hypersurfaces of constant mean curvature and Calabi-Bernstein type problems</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Alías</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sánchez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tôhoku Math. J</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="337" to="345" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The structure of the space of solutions of Einstein&apos;s equations. II. Several Killing fields and the Einstein-Yang-Mills equations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Arms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Moncrief</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Phys</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="81" to="106" />
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ground state solution for a problem with mean curvature operator in Minkowski space</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Azzollini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Funct. Anal</title>
+		<imprint>
+			<biblScope unit="volume">266</biblScope>
+			<biblScope unit="page" from="2086" to="2095" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Spacelike hypersurfaces with prescribed boundary values and mean curvature</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bartnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="131" to="152" />
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Radial solutions for some nonlinear problems involving mean curvature operators in Euclidean and Minkowski spaces</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bereanu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jebelean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mawhin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">P. Am. Math. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="161" to="169" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">On constant mean curvature spacelike hypersurfaces in Lorentz manifolds</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brasil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Colares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mat. Contemp</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="99" to="136" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Isolated maximal surfaces in spacetime</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Flaherty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="157" to="165" />
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">New Calabi-Bernstein results for some elliptic nonlinear equations</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caballero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal. Appl</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1350002" to="1350003" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Examples of Bernstein problems for some nonlinear equations</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Calabi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">P. Symp. Pure Math</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="223" to="230" />
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Maximal space-like hypersurfaces in the Lorentz-Minkowski spaces</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Yau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. of Math</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="407" to="419" />
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Quelques propriétés des sousvariétés maximales d&apos;une variété lorentzienne</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Choquet-Bruhat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">C. R. Acad. Sci. Paris Série A</title>
+		<imprint>
+			<biblScope unit="volume">281</biblScope>
+			<biblScope unit="page" from="577" to="580" />
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Positive solutions of the Dirichlet problem for the prescribed mean curvature equation in Minkowski space</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Corsato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Obersnel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Omari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Math. Anal. Appl</title>
+		<imprint>
+			<biblScope unit="volume">405</biblScope>
+			<biblScope unit="page" from="227" to="239" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Radial solutions of the Dirichlet problem for the prescribed mean curvature equation in a Robertson-Walker spacetime</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>De La Fuente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Torres</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Nonlinear Stud</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="171" to="181" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Parabolic methods for the construction of spacelike slices of prescribed mean curvature in cosmological spacetimes</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Huisken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="595" to="613" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">H-surfaces in Lorentzian manifolds</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gerhardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="523" to="553" />
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Hypersurfaces of prescribed mean curvature in Lorentzian manifolds</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gerhardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Math. Z</title>
+		<imprint>
+			<biblScope unit="volume">235</biblScope>
+			<biblScope unit="page" from="83" to="97" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">From geometry to numerics: interdisciplinary aspects in mathematical and numerical relativity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Jaramillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A V</forename><surname>Kroon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gourgoulhon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Classical Quant. Grav</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="93001" to="93001" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Some applications of partial differential equations to problems in Geometry</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kazdan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Surveys in Geometry Series</title>
+				<imprint>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Maximal hypersurfaces and foliations of constant mean curvature in General Relativity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Tipler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rep</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="109" to="139" />
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>O'neill</surname></persName>
+		</author>
+		<title level="m">Semi-Riemannian Geometry with applications to Relativity</title>
+				<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">On maximal hypersurfaces in Lorentz manifolds admitting a parallel lightlike vector field</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A S</forename><surname>Pelegrín</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Classical Quant. Grav</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="55003" to="55004" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Uniqueness of complete maximal hypersurfaces in spatially open (n + 1)-dimensional Robertson-Walker spacetimes with flat fiber</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A S</forename><surname>Pelegrín</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Relat. Gravit</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A nonlinear inequality arising in geometry and Calabi-Bernstein type problems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Inequal. Appl</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A nonlinear inequality involving the mean curvature of a spacelike surface in 3-dimensional GRW spacetimes and Calabi-Bernstein type problems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Contemp. Math</title>
+		<imprint>
+			<biblScope unit="volume">674</biblScope>
+			<biblScope unit="page" from="141" to="152" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Spacelike graphs of finite total curvature in certain 3-dimensional generalized Robertson-Walker spacetime</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Rubio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Salamanca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rep. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="241" to="254" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Sachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">General Relativity for Mathematicians</title>
+		<title level="s">Graduate Texts in Math</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="1977" />
+			<biblScope unit="volume">48</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">On the proof of the positive mass conjecture in General Relativity</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schoen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Yau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comm. Math. Phys</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="45" to="76" />
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The problem of Dirichlet for quasilinear elliptic differential equations with many independent variables</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Serrin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. T. Roy. Soc. A</title>
+		<imprint>
+			<biblScope unit="volume">264</biblScope>
+			<biblScope unit="page" from="413" to="496" />
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

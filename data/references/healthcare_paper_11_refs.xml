@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Levinson</surname></persName>
+		</author>
+		<title level="m">Politeness: Some Universals in Language Usage</title>
+				<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Establishing the computer-patient working alliance in automated health behavior change interventions</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bickmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pfeifer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Patient Educ. Couns</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="30" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Nursing and human-computer interaction in healthcare robots for older people: An integrative review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J S</forename><surname>Dino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Ong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Bautista</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>De Guzman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Nurs. Stud. Adv</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">100072</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Should robots be polite? Expectations about politeness in human-robot interaction</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Saeki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ueda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Robot. AI</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1242127</biblScope>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Exploring how politeness impacts the user experience of chatbots for mental health support</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bowman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Cooney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Newbold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thieme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Doherty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cowan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+	<note type="report_type">Microsoft Research</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Hawkins</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2506.09391</idno>
+		<title level="m">Comparing human and LLM politeness strategies in free production</title>
+				<imprint>
+			<date type="published" when="2025" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">AI-driven healthcare: A review on ensuring fairness and mitigating bias</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Chinta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS Digit. Health</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">e0000864</biblScope>
+			<date type="published" when="2025" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Tackling the problem of bias in algorithms from a moral agency perspective</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rozas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Bryson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. AIES&apos;18</title>
+				<meeting>AIES&apos;18<address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Development issues of healthcare robots: Compassionate communication for older adults with dementia</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tanioka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page">13274</biblScope>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">LLMs factor in unrelated information when recommending medical treatments</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zewe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025" />
+			<publisher>MIT News</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<idno type="arXiv">arXiv:2403.14473v1</idno>
+		<title level="m">Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs)</title>
+				<imprint>
+			<date type="published" when="2024" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Anonymous: Current applications and challenges in large language models for patient care: a systematic review</title>
+	</analytic>
+	<monogr>
+		<title level="j">PubMed Central</title>
+		<imprint>
+			<date type="published" when="2025" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<ptr target="https://research.google,lastaccessed2025/09/11" />
+	</analytic>
+	<monogr>
+		<title level="j">Google Research: Med-PaLM: A Medical Large Language Model. Google Research</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<idno type="arXiv">arXiv:2405.16402v1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anonymous: Assessing Empathy in Large Language Models with Real-World</title>
+		<imprint>
+			<date type="published" when="2024" />
+		</imprint>
+	</monogr>
+	<note type="report_type">Physician-Patient Interactions. arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Using a robot for health communication: The effects of robot appearance and autonomy</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Sundar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Hum.-Comput. Stud</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="870" to="880" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A review on usability and user experience of assistive social robots for older persons</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Halim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Omar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Halim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Nasir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Integr. Eng</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="56" to="72" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Development of a comprehensive evaluation scale for LLM-powered counseling chatbots (CES-LCC) using the eDelphi method</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bolpagni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gabrielli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Informatics</title>
+		<imprint>
+			<date type="published" when="2025" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A mixed-methods evaluation of LLM-based chatbots for menopause</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Deva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stud. Health Technol. Inform</title>
+		<imprint>
+			<date type="published" when="2025" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A chatbot for hypertension self-management support: user-centered design, development, and usability testing</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khairat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Chung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMIA Open</title>
+		<imprint>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Just adjust one prompt: Enhancing in-context dialogue scoring via constructing the optimal subgraph of demonstrations and prompts</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. EMNLP 2023, ACL</title>
+				<meeting>EMNLP 2023, ACL<address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Adapting communication styles in health chatbot using large language models to support family caregivers from multicultural backgrounds</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Baik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. CHI 2025</title>
+				<meeting>CHI 2025<address><addrLine>Yokohama</addrLine></address></meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2025" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Development and evaluation of a mental health chatbot using ChatGPT 4.0: Mixed methods user experience study with Korean users</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JMIR Med. Inform</title>
+		<imprint>
+			<date type="published" when="2025" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The role of large language model chatbots in sexual education: An unmet need of research</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mondal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Psychosex. Health</title>
+		<imprint>
+			<date type="published" when="2025" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

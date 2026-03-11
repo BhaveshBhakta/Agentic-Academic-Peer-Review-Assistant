@@ -1,16 +1,19 @@
 from langchain.tools import tool
 import subprocess
+import os
 
 @tool
-def claim_mapping_tool(pdf_path: str) -> str:
+def claim_mapping_tool(pdf_path: str, run_dir: str) -> str:
     """
     Runs claim extraction and mapping against prior literature.
     """
 
-    novelty_json = "data/results/novelty.json"
-    out_dir = "data/results"
+    novelty_json = os.path.join(run_dir, "novelty.json")
 
-    cmd = f"python utils/claim_mapping.py --new_pdf {pdf_path} --similar_json {novelty_json} --out_dir {out_dir}"
+    output_path = os.path.join(run_dir, "claim_mapping.json")
+
+    cmd = f"python utils/claim_mapping.py --new_pdf {pdf_path} --similar_json {novelty_json} --out_dir {run_dir}"
+
     subprocess.run(cmd, shell=True)
 
-    return "data/results/claim_mapping.json"
+    return output_path

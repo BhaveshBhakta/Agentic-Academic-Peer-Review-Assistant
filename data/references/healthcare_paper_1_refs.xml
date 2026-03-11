@@ -1,0 +1,2452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Deep learning with differential privacy</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Abadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Goodfellow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brendan</forename><surname>Mcmahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ilya</forename><surname>Mironov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kunal</forename><surname>Talwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2016 ACM SIGSAC conference on computer and communications security</title>
+				<meeting>the 2016 ACM SIGSAC conference on computer and communications security</meeting>
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="308" to="318" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A survey on homomorphic encryption schemes: Theory and implementation</title>
+		<author>
+			<persName><forename type="first">Abbas</forename><surname>Acar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hidayet</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mauro</forename><surname>Selcuk Uluagac</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Conti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Computing Surveys (Csur)</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="35" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Federated learning for privacy preservation in smart healthcare systems: A comprehensive survey</title>
+		<author>
+			<persName><forename type="first">Mansoor</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Faisal</forename><surname>Naeem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Muhammad</forename><surname>Tariq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geroges</forename><surname>Kaddoum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE journal of biomedical and health informatics</title>
+		<imprint>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A methodology for training homomorphic encryption friendly neural networks</title>
+		<author>
+			<persName><forename type="first">Moran</forename><surname>Baruch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nir</forename><surname>Drucker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lev</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guy</forename><surname>Moshkowich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Applied Cryptography and Network Security Workshops: ACNS 2022 Satellite Workshops</title>
+				<meeting><address><addrLine>AIBlock, AIHWS, AIoTS, CIMSS, Cloud S&amp;P, SCI, SecMT, SiMLA, Rome, Italy</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2022" />
+			<biblScope unit="page" from="536" to="553" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Securing the classification of covid-19 in chest x-ray images: a privacy-preserving deep learning approach</title>
+		<author>
+			<persName><forename type="first">Wadii</forename><surname>Boulila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adel</forename><surname>Ammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bilel</forename><surname>Benjdira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anis</forename><surname>Koubaa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2022 2nd International Conference of Smart Systems and Emerging Technologies (SMARTTECH)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2022" />
+			<biblScope unit="page" from="220" to="225" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Privacypreserving multi-class support vector machine model on medical diagnosis</title>
+		<author>
+			<persName><forename type="first">Yange</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qinyu</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Baocang</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pu</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benyu</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhiyong</forename><surname>Hong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Journal of Biomedical and Health Informatics</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="3342" to="3353" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Privacy-preserving deep learning model for covid-19 disease detection</title>
+		<idno type="arXiv">arXiv:2209.04445</idno>
+		<editor>Vijay Srinivas Tida Sai Venkatesh Chilukoti, Sonya Hsu, and Xiali Hei</editor>
+		<imprint>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Federated learning for predicting clinical outcomes in patients with covid-19</title>
+		<author>
+			<persName><surname>Ittai Dayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aoxiao</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ahmed</forename><surname>Zhong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amilcare</forename><surname>Harouni</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gentili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Anas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Abidin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">Beardsworth</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bradford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chien-Sung</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tsai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature medicine</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1735" to="1743" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Distributed learning on 20 000+ lung cancer patients-the personal health train</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Timo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Deist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jwm</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Priyanka</forename><surname>Dankers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Scott</forename><surname>Ojha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tomas</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Corinne</forename><surname>Janssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlotta</forename><surname>Faivre-Finn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vincenzo</forename><surname>Masciocchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiazhou</forename><surname>Valentini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiayan</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiotherapy and Oncology</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="189" to="200" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">An image is worth 16x16 words: Transformers for image recognition at scale</title>
+		<author>
+			<persName><forename type="first">Alexey</forename><surname>Dosovitskiy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucas</forename><surname>Beyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Kolesnikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dirk</forename><surname>Weissenborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaohua</forename><surname>Zhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Unterthiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mostafa</forename><surname>Dehghani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthias</forename><surname>Minderer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Georg</forename><surname>Heigold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sylvain</forename><surname>Gelly</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2010.11929</idno>
+		<imprint>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Federated deep learning for detecting covid-19 lung abnormalities in ct: a privacy-preserving multinational validation study</title>
+		<author>
+			<persName><forename type="first">Qi</forename><surname>Dou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tiffany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meirui</forename><surname>So</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Quande</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Varut</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Georgios</forename><surname>Vardhanabhuti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zeju</forename><surname>Kaissis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weixin</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Heather</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NPJ digital medicine</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">2021</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The algorithmic foundations of differential privacy</title>
+		<author>
+			<persName><forename type="first">Cynthia</forename><surname>Dwork</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaron</forename><surname>Roth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Foundations and Trends® in Theoretical Computer Science</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="211" to="407" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving deep learning for the detection of protected health information in real-world data: Comparative evaluation</title>
+		<author>
+			<persName><forename type="first">Sven</forename><surname>Festag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cord</forename><surname>Spreckelsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JMIR Formative Research</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">e14064</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Infrastructure platform for privacy-preserving distributed machine learning development of computer-assisted theragnostics in cancer</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Thwaites</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geoff</forename><forename type="middle">P</forename><surname>Carolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joerg</forename><surname>Delaney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shalini</forename><surname>Sykes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lois</forename><surname>Vinod</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Holloway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Biomedical Informatics</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page">104181</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Secure multi-party computation. Manuscript. Preliminary version</title>
+		<author>
+			<persName><forename type="first">Oded</forename><surname>Goldreich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<biblScope unit="volume">78</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Primed: Private federated training and encrypted inference on medical images in healthcare</title>
+		<author>
+			<persName><forename type="first">Aparna</forename><surname>Gopalakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chethan</forename><surname>Kulkarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raghavendra</forename><surname>Raghavendra</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Manjappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sivaraman</forename><surname>Honnavalli</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Eswaran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Available at SSRN 4196696</title>
+				<imprint>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Beyond the hipaa privacy rule: enhancing privacy, improving health through research</title>
+		<author>
+			<persName><forename type="first">Laura</forename><forename type="middle">A</forename><surname>Lawrence O Gostin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sharyl</forename><forename type="middle">J</forename><surname>Levit</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nass</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving collaborative machine learning on genomic data using tensorflow</title>
+		<author>
+			<persName><forename type="first">Cheng</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhicong</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wen-Jie</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hunter</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Morten</forename><surname>Dahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Mancuso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the ACM Turing Celebration Conference-China</title>
+				<meeting>the ACM Turing Celebration Conference-China</meeting>
+		<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="39" to="44" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving deep learning with learnable image encryption on medical images</title>
+		<author>
+			<persName><forename type="first">Qi-Xian</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wai</forename><surname>Leong Yap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Min-Yi</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hung-Min</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Access</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="66345" to="66355" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A privacy-preserved transfer learning concept to predict diabetic kidney disease at out-of-network siloed sites using an in-network federated model on real-world data</title>
+		<author>
+			<persName><forename type="first">Humayera</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Khuder</forename><surname>Alaboud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tanmoy</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Md</forename><surname>Kamruz Zaman Rana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abu</forename><surname>Mosa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">AMIA Annual Symposium Proceedings</title>
+				<imprint>
+			<date type="published" when="2022" />
+			<biblScope unit="volume">2022</biblScope>
+			<biblScope unit="page">264</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving federated learning model for healthcare data</title>
+		<author>
+			<persName><forename type="first">Reza</forename><surname>Tanzir Ul Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Noman</forename><surname>Ghasemi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mohammed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2022 IEEE 12th Annual Computing and Communication Workshop and Conference (CCWC)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2022" />
+			<biblScope unit="page" from="281" to="0287" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Pricure: privacy-preserving collaborative inference in a multi-party setting</title>
+		<author>
+			<persName><forename type="first">Ismat</forename><surname>Jarin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Birhanu</forename><surname>Eshete</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2021 ACM Workshop on Security and Privacy Analytics</title>
+				<meeting>the 2021 ACM Workshop on Security and Privacy Analytics</meeting>
+		<imprint>
+			<date type="published" when="2021" />
+			<biblScope unit="page" from="25" to="35" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Significance of machine learning in healthcare: Features, pillars and applications</title>
+		<author>
+			<persName><forename type="first">Mohd</forename><surname>Javaid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abid</forename><surname>Haleem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ravi</forename><forename type="middle">Pratap</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rajiv</forename><surname>Suman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shanay</forename><surname>Rab</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Intelligent Networks</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="58" to="73" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Federated learning for healthcare domain-pipeline, applications and challenges</title>
+		<author>
+			<persName><forename type="first">Madhura</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ankit</forename><surname>Pal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Malaikannan</forename><surname>Sankarasubbu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Transactions on Computing for Healthcare</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="36" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Highly accurate protein structure prediction with alphafold</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Jumper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Pritzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Figurnov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olaf</forename><surname>Ronneberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Tunyasuvunakool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Russ</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Augustinžídek</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Potapenko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">596</biblScope>
+			<biblScope unit="issue">7873</biblScope>
+			<biblScope unit="page" from="583" to="589" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">End-to-end privacy preserving deep learning on multi-institutional medical imaging</title>
+		<author>
+			<persName><forename type="first">Georgios</forename><surname>Kaissis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Ziller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Passerat-Palmbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Théo</forename><surname>Ryffel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dmitrii</forename><surname>Usynin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Trask</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ionésio</forename><surname>Lima</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Mancuso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Friederike</forename><surname>Jungmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marc-Matthias</forename><surname>Steinborn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Machine Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="473" to="484" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving decentralized learning framework for healthcare system</title>
+		<author>
+			<persName><forename type="first">Harsh</forename><surname>Kasyap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Somanath</forename><surname>Tripathy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</title>
+				<imprint>
+			<date type="published" when="2021" />
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Deep learning in healthcare</title>
+		<author>
+			<persName><forename type="first">Deeksha</forename><surname>Kaul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harika</forename><surname>Raju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Tripathy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Deep Learning in Data Analytics: Recent Techniques, Practices and Applications</title>
+				<imprint>
+			<date type="published" when="2022" />
+			<biblScope unit="page" from="97" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving and bandwidth-efficient federated learning: An application to in-hospital mortality prediction</title>
+		<author>
+			<persName><forename type="first">Raouf</forename><surname>Kerkouche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gergely</forename><surname>Acs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claude</forename><surname>Castelluccia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pierre</forename><surname>Genevès</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Conference on Health, Inference, and Learning</title>
+				<meeting>the Conference on Health, Inference, and Learning</meeting>
+		<imprint>
+			<date type="published" when="2021" />
+			<biblScope unit="page" from="25" to="35" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">Dominik</forename><surname>Kreuzberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niklas</forename><surname>Kühl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Hirschl</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2205.02302</idno>
+		<title level="m">Machine learning operations (mlops): Overview, definition, and architecture</title>
+				<imprint>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Federated learning on clinical benchmark data: performance assessment</title>
+		<author>
+			<persName><forename type="first">Hyeong</forename><surname>Geun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Soo-Yong</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Shin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of medical Internet research</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">e20891</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Artificial intelligence as a service: Classification and research directions</title>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Lins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Konstantin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heiner</forename><surname>Pandl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Scott</forename><surname>Teigeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Calvin</forename><surname>Thiebes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sunyaev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Business &amp; Information Systems Engineering</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="441" to="456" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">When machine learning meets privacy: A survey and outlook</title>
+		<author>
+			<persName><forename type="first">Bo</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ming</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sina</forename><surname>Shaham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wenny</forename><surname>Rahayu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farhad</forename><surname>Farokhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zihuai</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Computing Surveys (CSUR)</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="36" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Threats, attacks and defenses to federated learning: issues, taxonomy and perspectives</title>
+		<author>
+			<persName><forename type="first">Pengrui</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiangrui</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wei</forename><surname>Wang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022" />
+			<publisher>Cybersecurity</publisher>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Federated learning for preserving data privacy in collaborative healthcare research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tyler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Loftus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matthew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Ruppert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tezcan</forename><surname>Shickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><forename type="middle">A</forename><surname>Ozrazgat-Baslanti</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Balch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Philip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gilbert</forename><forename type="middle">R</forename><surname>Efron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Parisa</forename><surname>Upchurch</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Rashidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiang</forename><surname>Tignanelli</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Health</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">20552076221134455</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Lightweight privacy-preserving medical diagnosis in edge computing</title>
+		<author>
+			<persName><forename type="first">Zhuoran</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jianfeng</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yinbin</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ximeng</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kim-Kwang Raymond</forename><surname>Choo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ruikang</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiangyu</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Services Computing</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1606" to="1618" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Communication-efficient learning of deep networks from decentralized data</title>
+		<author>
+			<persName><forename type="first">Brendan</forename><surname>Mcmahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eider</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Ramage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Seth</forename><surname>Hampson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Blaise</forename><surname>Aguera Y Arcas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Artificial intelligence and statistics</title>
+				<imprint>
+			<publisher>PMLR</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="1273" to="1282" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Deep learning for healthcare: review, opportunities and challenges</title>
+		<author>
+			<persName><forename type="first">Riccardo</forename><surname>Miotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fei</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shuang</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaoqian</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joel</forename><forename type="middle">T</forename><surname>Dudley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Briefings in bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1236" to="1246" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving generative adversarial network for case-based explainability in medical image analysis</title>
+		<author>
+			<persName><forename type="first">Helena</forename><surname>Montenegro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wilson</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jaime</forename><forename type="middle">S</forename><surname>Cardoso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Access</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="148037" to="148047" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Federated learning for smart healthcare: A survey</title>
+		<author>
+			<persName><forename type="first">Quoc-Viet</forename><surname>Dinh C Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pubudu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ming</forename><surname>Pathirana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aruna</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zihuai</forename><surname>Seneviratne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Octavia</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Won-Joo</forename><surname>Dobre</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hwang</surname></persName>
+		</author>
+		<ptr target="https://oecd.ai/en/dashboards/ai-principles/P7" />
+	</analytic>
+	<monogr>
+		<title level="m">Robustness, security and safety</title>
+				<imprint>
+			<date type="published" when="2022" />
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1" to="37" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">An efficient privacy-preserving deep learning scheme for medical image analysis</title>
+		<author>
+			<persName><forename type="first">J A</forename><surname>Onesimu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Karthikeyan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Special Issue: The Importance of Human Computer Interaction: Challenges, Methods and Applications</title>
+				<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="50" to="67" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Video-based ai for beat-to-beat assessment of cardiac function</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Ouyang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bryan</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amirata</forename><surname>Ghorbani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neal</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Ebinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Langlotz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Heidenreich</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Euan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ashley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">580</biblScope>
+			<biblScope unit="issue">7802</biblScope>
+			<biblScope unit="page" from="252" to="256" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Federated split vision transformer for covid-19 cxr diagnosis using task-agnostic training</title>
+		<author>
+			<persName><forename type="first">Sangjoon</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gwanghyun</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeongsol</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Boah</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jong Chul</forename><surname>Ye</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2111.01338</idno>
+		<imprint>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving collective learning with homomorphic encryption</title>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Access</title>
+		<editor>Jestine Paul, Meenatchi Sundaram Muthu Selva Annamalai, William Ming, Ahmad Al Badawi, Bharadwaj Veeravalli, and Khin Mi Mi Aung</editor>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="132084" to="132096" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Privacy preserving classification of eeg data using machine learning and homomorphic encryption</title>
+		<author>
+			<persName><forename type="first">Bianca</forename><surname>Andreea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ioana</forename><forename type="middle">Antonia</forename><surname>Popescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cosmin</forename><surname>Taca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anamaria</forename><surname>Ioan Nita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Vizitiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Constantin</forename><surname>Demeter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucian</forename><forename type="middle">Mihai</forename><surname>Suciu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Itu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Sciences</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page">7360</biblScope>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Secure and robust machine learning for healthcare: A survey</title>
+		<author>
+			<persName><forename type="first">Adnan</forename><surname>Qayyum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Junaid</forename><surname>Qadir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Muhammad</forename><surname>Bilal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ala</forename><surname>Al-Fuqaha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Reviews in Biomedical Engineering</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="156" to="180" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Deep multimodal learning: A survey on recent advances and trends. IEEE signal processing magazine</title>
+		<author>
+			<persName><forename type="first">Dhanesh</forename><surname>Ramachandram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Taylor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="96" to="108" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Deep learning for health informatics</title>
+		<author>
+			<persName><forename type="first">Daniele</forename><surname>Ravì</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charence</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fani</forename><surname>Deligianni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Berthelot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Javier</forename><surname>Andreu-Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benny</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Guang-Zhong</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE journal of biomedical and health informatics</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="4" to="21" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Privacy-first health research with federated learning</title>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Sadilek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luyang</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dung</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Methun</forename><surname>Kamruzzaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stylianos</forename><surname>Serghiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Rader</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Ingerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Mellem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Kairouz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elaine</forename><forename type="middle">O</forename><surname>Nsoesie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NPJ digital medicine</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">132</biblScope>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Scalable privacy-preserving cancer type prediction with homomorphic encryption</title>
+		<author>
+			<persName><forename type="first">Esha</forename><surname>Sarkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eduardo</forename><surname>Chielle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gamze</forename><surname>Gursoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leo</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Gerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michail</forename><surname>Maniatakos</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2204.05496</idno>
+		<imprint>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Machine learning in medical applications: A review of state-of-the-art methods</title>
+		<author>
+			<persName><forename type="first">Mohammad</forename><surname>Shehab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laith</forename><surname>Abualigah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qusai</forename><surname>Shambour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Muhannad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohd Khaled Yousef</forename><surname>Abu-Hashem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ahmed</forename><surname>Shambour</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Izzat Alsalibi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Amir</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gandomi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Biology and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="page">105458</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Privacy-preserving machine learning for medical image classification</title>
+		<author>
+			<persName><forename type="first">Shreyansh</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Shukla</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2108.12816</idno>
+		<imprint>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Privacy-preserving machine learning for medical image classification</title>
+		<author>
+			<persName><forename type="first">Shreyansh</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Shukla</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2108.12816</idno>
+		<imprint>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Integrated multimodal artificial intelligence framework for healthcare applications</title>
+		<author>
+			<persName><forename type="first">Yu</forename><surname>Luis R Soenksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cynthia</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leonard</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kimberly</forename><surname>Boussioux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liangyuan</forename><surname>Villalobos Carballo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Na</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Holly</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wiberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ignacio</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dimitris</forename><surname>Fuentes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bertsimas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NPJ Digital Medicine</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">149</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Effect of incremental feature enrichment on healthcare text classification system: A machine learning paradigm. Computer methods and programs in biomedicine</title>
+		<author>
+			<persName><forename type="first">Sandeep</forename><forename type="middle">Kumar</forename><surname>Saurabh Kumar Srivastava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jasjit S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Suri</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="page" from="35" to="51" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Chasing your long tails: Differentially private prediction in health care settings</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vinith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicolas</forename><surname>Suriyakumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Papernot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marzyeh</forename><surname>Goldenberg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ghassemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency</title>
+				<meeting>the 2021 ACM Conference on Fairness, Accountability, and Transparency</meeting>
+		<imprint>
+			<date type="published" when="2021" />
+			<biblScope unit="page" from="723" to="734" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Privacy preserving classification via machine learning model inference on homomorphic encrypted medical data</title>
+		<author>
+			<persName><forename type="first">T'jonck</forename><surname>Kristof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chandrakanth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bozheng</forename><surname>Kancharla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hans</forename><surname>Pang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeroen</forename><surname>Hallez</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Boydens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2022 XXXI International Scientific Conference Electronics (ET)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2022" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Attention is all you need. Advances in neural information processing systems</title>
+		<author>
+			<persName><forename type="first">Ashish</forename><surname>Vaswani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Noam</forename><surname>Shazeer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Niki</forename><surname>Parmar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jakob</forename><surname>Uszkoreit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Llion</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aidan</forename><forename type="middle">N</forename><surname>Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Łukasz</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Illia</forename><surname>Polosukhin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="volume">30</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Towards privacy-preserving deep learning based medical imaging applications</title>
+		<author>
+			<persName><forename type="first">Anamaria</forename><surname>Vizitiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrei</forename><surname>Cosmin Ioan Niţȃ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Constantin</forename><surname>Puiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucian</forename><forename type="middle">Mihai</forename><surname>Suciu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Itu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2019 IEEE international symposium on medical measurements and applications (MeMeA)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">The eu general data protection regulation (gdpr). A Practical Guide</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Voigt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Axel</forename><surname>Von</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bussche</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+			<publisher>Springer International Publishing</publisher>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="10" to="5555" />
+		</imprint>
+	</monogr>
+	<note>1st Ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Fedspl: federated self-paced learning for privacy-preserving disease diagnosis</title>
+		<author>
+			<persName><forename type="first">Qingyong</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yun</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Briefings in Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">498</biblScope>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Who issues first global report on artificial intelligence (ai) in health and six guiding principles for its design and use</title>
+		<author>
+			<persName><forename type="first">Stefanie</forename><surname>Warnat-Herresthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hartmut</forename><surname>Schultze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Krishnaprasad Lingadahalli</forename><surname>Shastry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sathyanarayanan</forename><surname>Manamohan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Saikat</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vishesh</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ravi</forename><surname>Sarveswara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristian</forename><surname>Händler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Pickkers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ahmad</forename><surname>Aziz</surname></persName>
+		</author>
+		<ptr target="https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-h" />
+	</analytic>
+	<monogr>
+		<title level="j">BioRxiv</title>
+		<imprint>
+			<biblScope unit="page" from="2020" to="2026" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+	<note>Swarm learning as a privacy-preserving machine learning approach for disease classification</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Homomorphic encryption and federated learning based privacy-preserving cnn training: Covid-19 detection usecase</title>
+		<author>
+			<persName><forename type="first">Febrianti</forename><surname>Wibawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Murat</forename><surname>Ferhat Ozgur Catak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Salih</forename><surname>Kuzlu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Umit</forename><surname>Sarp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Cali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2022 European Interdisciplinary Cybersecurity Conference</title>
+				<meeting>the 2022 European Interdisciplinary Cybersecurity Conference</meeting>
+		<imprint>
+			<date type="published" when="2022" />
+			<biblScope unit="page" from="85" to="90" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Ai model transferability in healthcare: a sociotechnical perspective</title>
+		<author>
+			<persName><forename type="first">Yin</forename><surname>Batia Mishan Wiesenfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oded</forename><surname>Aphinyanaphongs</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Machine Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="807" to="809" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Federated machine learning for a facilitated implementation of artificial intelligence in healthcare-a proof of concept study for the prediction of coronary artery calcification scores</title>
+		<author>
+			<persName><forename type="first">Justus</forename><surname>Wolff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Matschinske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dietrich</forename><surname>Baumgart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>Pytlik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Keck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arunakiry</forename><surname>Natarajan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claudio</forename><forename type="middle">E</forename><surname>Von Schacky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Josch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Pauling</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Baumbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Integrative Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">2022</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Federated learning for healthcare informatics</title>
+		<author>
+			<persName><forename type="first">Jie</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chang</forename><surname>Glicksberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiang</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fei</forename><surname>Bian</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Healthcare Informatics Research</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Label-efficient self-supervised federated learning for tackling data heterogeneity in medical imaging</title>
+		<author>
+			<persName><forename type="first">Rui</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liangqiong</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qingyue</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shih-Cheng</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liyue</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lei</forename><surname>Xing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yuyin</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Medical Imaging</title>
+		<imprint>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Medmnist v2-a large-scale lightweight benchmark for 2d and 3d biomedical image classification</title>
+		<author>
+			<persName><forename type="first">Jiancheng</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rui</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donglai</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zequan</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lin</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bilian</forename><surname>Ke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hanspeter</forename><surname>Pfister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bingbing</forename><surname>Ni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Data</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">41</biblScope>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main">Towards the practical utility of federated learning in the medical domain</title>
+		<author>
+			<persName><forename type="first">Seongjun</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hyeonji</forename><surname>Hwang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daeyoung</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Radhika</forename><surname>Dua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jong-Yeup</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eunho</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Choi</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2207.03075</idno>
+		<imprint>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving time-series medical images analysis using a hybrid deep learning framework</title>
+		<author>
+			<persName><forename type="first">Zijie</forename><surname>Yue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shuai</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lei</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Youtao</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zehong</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohammad</forename><surname>Tanveer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alireza</forename><surname>Jolfaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xi</forename><surname>Zheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Transactions on Internet Technology (TOIT)</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving time-series medical images analysis using a hybrid deep learning framework</title>
+		<author>
+			<persName><forename type="first">Zijie</forename><surname>Yue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shuai</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lei</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Youtao</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zehong</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohammad</forename><surname>Tanveer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alireza</forename><surname>Jolfaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xi</forename><surname>Zheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Transactions on Internet Technology (TOIT)</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">Report: State of the art solutions for privacy preserving machine learning in the medical context</title>
+		<author>
+			<persName><forename type="first">Jasmin</forename><surname>Zalonis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frederik</forename><surname>Armknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Björn</forename><surname>Grohmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manuel</forename><surname>Koch</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2201.11406</idno>
+		<imprint>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Blockchain for privacy preserving and trustworthy distributed machine learning in multicentric medical imaging (c-distrim)</title>
+		<author>
+			<persName><forename type="first">Fadila</forename><surname>Zerka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Visara</forename><surname>Urovi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akshayaa</forename><surname>Vaidyanathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samir</forename><surname>Barakat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Ralph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sean</forename><surname>Leijenaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hanif</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Gabrani-Juma</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Miraglio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Woodruff</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dumontier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020" />
+			<publisher>Ieee Access</publisher>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="183939" to="183951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Homomorphic encryption-based privacy-preserving federated learning in iot-enabled healthcare system</title>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jianbo</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pandi</forename><surname>Vijayakumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pradip</forename><forename type="middle">Kumar</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Uttam</forename><surname>Ghosh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Network Science and Engineering</title>
+		<imprint>
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Leakage of dataset properties in multi-party machine learning</title>
+		<author>
+			<persName><forename type="first">Wanrong</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shruti</forename><surname>Tople</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olga</forename><surname>Ohrimenko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">USENIX Security Symposium</title>
+				<imprint>
+			<date type="published" when="2021" />
+			<biblScope unit="page" from="2687" to="2704" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Adaptive privacy preserving deep learning algorithms for medical data</title>
+		<author>
+			<persName><forename type="first">Xinyue</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiahao</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maoqiang</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Stephen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hien</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miao</forename><surname>Van Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</title>
+				<meeting>the IEEE/CVF Winter Conference on Applications of Computer Vision</meeting>
+		<imprint>
+			<date type="published" when="2021" />
+			<biblScope unit="page" from="1169" to="1178" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Adaptive privacy preserving deep learning algorithms for medical data</title>
+		<author>
+			<persName><forename type="first">Xinyue</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiahao</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maoqiang</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Stephen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hien</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miao</forename><surname>Van Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</title>
+				<meeting>the IEEE/CVF Winter Conference on Applications of Computer Vision</meeting>
+		<imprint>
+			<date type="published" when="2021" />
+			<biblScope unit="page" from="1169" to="1178" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">Rickmer Braren, et al. Privacy-preserving medical image analysis</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Ziller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Passerat-Palmbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Théo</forename><surname>Ryffel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dmitrii</forename><surname>Usynin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Trask</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ionésio</forename><surname>Da Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Costa</forename><surname>Junior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Mancuso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcus</forename><surname>Makowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Rueckert</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2012.06354</idno>
+		<imprint>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

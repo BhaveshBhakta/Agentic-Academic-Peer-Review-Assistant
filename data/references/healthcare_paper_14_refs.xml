@@ -1,0 +1,1450 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Evolutionary dynamics of scientific collaboration networks: multi-levels and cross-time analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abbasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J R</forename><surname>Rasmussen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientometrics</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="687" to="710" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Socioeconomic analysis of patient-centric networks: effects of patients and hospitals&apos; characteristics and network structure on hospitalization costs</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abbasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The European Journal of Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="267" to="276" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Individual centrality and performance in virtual R&amp;D groups: An empirical study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ahuja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Galletta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Carley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Management Science</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="38" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The effect of physician-patient collaboration on patient adherence in nonpsychiatric medicine</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Arbuthnott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sharpe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Patient Education and Counseling</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="60" to="67" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of personality and social psychology</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1173" to="1182" />
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Communication patterns in task-oriented groups</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bavelas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the acoustical society of America</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="725" to="730" />
+			<date type="published" when="1950" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">An improved index of centrality</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beauchamp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavioral Science</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="161" to="163" />
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Simultaneous group and individual centralities</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bonacich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="155" to="168" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Structural relationships, job characteristics, and worker satisfaction and performance</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brass</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="331" to="348" />
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Technology and the structuring of jobs: Employee satisfaction, performance, and influence</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brass</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organizational Behavior and Human Decision Processes</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="216" to="240" />
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Hospital-Physician Collaboration: Landscape of Economic Integration and Impact on Clinical Integration</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Burns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Muller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Milbank Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="375" to="434" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The strength of strong ties: Co-authorship and productivity among Italian economists</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cainelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Maggioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Uberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Felice</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+		<respStmt>
+			<orgName>University of Padova</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Networks and centres in the integration of Indian civilization</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marriott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Research</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The effect of a multidisciplinary hospitalist/physician and advanced practice nurse collaboration on hospital costs</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cowan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hays</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Afifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vazirani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ettner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Nursing Administration</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="79" to="85" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Tie and network correlates of individual performance in knowledgeintensive work</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cummings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Academy of Management Journal</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="928" to="937" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Health professional networks as a vector for improving healthcare quality and safety: a systematic review</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ranmuthugala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Plumb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Georgiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Westbrook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Braithwaite</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Quality &amp; Safety</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="239" to="249" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Centrality in affiliation networks</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Faust</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="157" to="191" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Markov graphs</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Strauss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">395</biblScope>
+			<biblScope unit="page" from="832" to="842" />
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Centrality in social networks: Conceptual clarification</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Freeman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="215" to="239" />
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Roeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mulholland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Centrality in Social Networks: II. Experimental Results. Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">80</biblScope>
+			<biblScope unit="page" from="119" to="141" />
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Interprofessional collaboration within Canadian integrative healthcare clinics: Key components</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Gaboury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bujold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Boon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science &amp; Medicine</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="707" to="715" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Actor centrality correlates to project based coordination</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chung</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A randomized controlled trial of team-based care: impact of physician-pharmacist collaboration on uncontrolled hypertension</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Siemienczuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Rozenfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mackay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Leblanc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Touchette</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of general internal medicine</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1966" to="1972" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">An evaluation of outcome from intensive care in major medical centers</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Knaus</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Draper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Zimmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Internal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="410" to="418" />
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Variation in patient-sharing networks of physicians across the United States</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Landon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Barnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Onnela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>O'malley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Christakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA: the journal of the American Medical Association</title>
+		<imprint>
+			<biblScope unit="volume">308</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="265" to="273" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Using Administrative Data to Identify Naturally Occurring Networks of Physicians</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Landon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Onnela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Barnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>O'malley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Christakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>Medical care</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Some effects of certain communication patterns on group performance</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Leavitt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1949" />
+			<publisher>MIT Press</publisher>
+			<pubPlace>Boston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Some effects of certain communication patterns on group performance</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Leavitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of abnormal and social psychology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="38" to="50" />
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Exploring the use of social network methods in designing healthcare quality improvement teams</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Meltzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Khalili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Marlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schumock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Burt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science &amp; Medicine</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1119" to="1130" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Effects of communication network structure: Components of positional centrality* 1</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mullen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eduardo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="169" to="185" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Case manager-physician collaboration: Implications for professional identity, roles, and relationships</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Netting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health &amp; Social Work</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="216" to="224" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A partial test of the social information processing model of job attitudes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pfeffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Relations</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">457</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A graph theoretic approach to historical geography</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pitts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Professional Geographer</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="15" to="20" />
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The group health medical home at year two: cost savings, higher patient satisfaction, and less burnout for providers</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Fishman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Soman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Health Affairs</publisher>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="835" to="843" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">An introduction to exponential random graph (p*) models for social networks</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pattison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kalish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lusher</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socnet.2006.08.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networks</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="191" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A social information processing approach to job attitudes and task design</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Salancik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pfeffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Administrative Science Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="224" to="253" />
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Variability in the measurement of hospital-wide mortality rates</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Shahian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Iezzoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kirle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L T</forename><surname>Normand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="issue">26</biblScope>
+			<biblScope unit="page" from="2530" to="2539" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Social networks of aging gay men</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shippy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cantor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brennan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Men&apos;s Studies</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="107" to="120" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Managing one&apos;s social network: Does age make a difference</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A B</forename><surname>Snijders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Pattison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Handcock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Methodology</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="99" to="153" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>New specifications for exponential random graph models</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Physician, nurse, and social worker collaboration in primary care for chronically ill seniors</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Sommers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">I</forename><surname>Marton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Barbaccia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Randolph</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Internal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1825" to="1833" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Social networks and the performance of individuals and groups</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sparrowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Liden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kraimer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academy of Management Journal</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="316" to="325" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Leveraging Big Data Analytics to reduce Healthcare Costs. IT Professional</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Arunasalam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="21" to="28" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Towards coordination preparedness of soft-target organisation. Electronic Government</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="54" to="64" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Exploring physical, mental and psychological health for elders through their personal networks. Paper presented at the e-Health Networking</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Applications and Services</publisher>
+			<pubPlace>Sydney</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Social Networks Enabled Coordination Model for Cost Management of Patient Hospital Admissions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1945-1474.2010.00118.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal for Healthcare Quality</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="37" to="48" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Capturing Actor-level Dynamics of Longitudinal Networks. Paper presented at the Advances in Social Networks Analysis and Mining</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S K</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piraveenan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>ASONAM</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Exploring communication networks to understand organizational crisis using exponential random graph models</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hamra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computational &amp; Mathematical Organization Theory</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="25" to="41" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Mapping and modeling of physician collaboration network</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hamra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="3539" to="3551" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Disaster coordination preparedness of soft target organisations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Disasters</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="623" to="638" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Effects of Physician Collaboration Network on Hospital Outcomes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australasian Workshop on Health Informatics and Knowledge Management</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Dyad and Triad Census Analysis of Crisis Communication Network</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="32" to="41" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Trend and efficiency analysis of co-authorship network</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abbasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rasmussen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientometrics</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="687" to="699" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">A study of physician collaborations through social network and exponential random graph</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hamra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC health services research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="234" to="247" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Effect of physician collaboration network on hospitalization cost and readmission rate</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kelaher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The European Journal of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="629" to="633" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rasmussen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Network Effects on Scientific Collaborations. PloS one</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">e57546</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Dynamics of email communications among university students throughout a semester</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Jacobson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers &amp; Education</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="95" to="103" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Power-law behaviour in complex organizational communication network during crisis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T H</forename><surname>Murshed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica A: Statistical Mechanics and its Applications</title>
+		<imprint>
+			<biblScope unit="volume">390</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="2845" to="2853" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Topological Analysis of Longitudinal Networks</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piraveenan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hossain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">the Hawaii International Conference on System Sciences (HICSS-46)</title>
+				<meeting><address><addrLine>Hawaii, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>Paper presented at</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">The impact of study load on the dynamics of longitudinal email communications among students</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schwendimann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piraveenan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers &amp; Education</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="209" to="219" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Social network analysis: Methods and applications</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Faust</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Logit models and logistic regressions for social networks: I. An introduction to Markov graphs and P</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pattison</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf02294547</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychometrika</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="401" to="425" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

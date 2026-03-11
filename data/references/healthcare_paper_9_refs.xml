@@ -1,0 +1,5214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A survey on wearable sensor-based systems for health monitoring and prognosis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pantelopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Bourbakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans. Systems, Man, and Cybernetics, Part C</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Trustworthiness of medical devices and body area networks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the IEEE</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1174" to="1188" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Wireless communications technology in telehealth systems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kailas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ingram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Wireless Communication, Vehicular Technology, Information Theory and Aerospace &amp; Electronic Systems Technology</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="926" to="930" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Survey: Cybersecurity vulnerabilities, attacks and solutions in the medical domain</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Razaque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Amsaad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hariri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Siting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Ji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Access</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="168" to="774" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">An energy efficient implementation of on-demand mac protocol in medical wireless body sensor networks</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Symposium on Circuits and Systems</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Global medical device market to grow 4.5%</title>
+		<ptr target="https://www.24x7mag.com/medical-equipment/global-medical-device-market-grow-4-5/" />
+		<imprint>
+			<date type="published" when="2018-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Software-related recalls of health information technology and other medical devices: Implications for fda regulation of digital health</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Ronquillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Zuckerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Milbank Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="535" to="553" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Sensitive information tracking in commodity iot</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">B</forename><surname>Celik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Babun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mcdaniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">27th {USENIX} Security Symposium ({USENIX} Security 18)</title>
+				<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="1687" to="1704" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">6thsense: A context-aware sensor-based attack detector for smart devices</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">26th {USENIX} Security Symposium ({USENIX} Security 17</title>
+				<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="397" to="414" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">A survey on sensor-based threats to internet-of-things (iot) devices and applications</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Petracca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jaeger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1802.02041</idno>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Doctors disabled wireless in dick cheney&apos;s pacemaker to thwart hacking</title>
+		<ptr target="https://nakedsecurity.sophos.com/2013/10/22/doctors-disabled-wireless-in-dick-cheneys-pacemaker-to-thwart-hacking/" />
+		<imprint>
+			<date type="published" when="2013-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Pacemakers and implantable cardiac defibrillators: Software radio attacks and zero-power defenses</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Halperin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Heydt-Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ransford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Defend</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kohno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Maisel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE Symposium on Security and Privacy</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="129" to="142" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Hijacking an insulin pump: Security attacks and defenses for a diabetes therapy system</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>IEEE</publisher>
+			<biblScope unit="page" from="150" to="156" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Protecting global medical telemetry infrastructure</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Benessa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salajegheh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Inoue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">NH: Institute of Information Infrastructure Protection (I3P)</title>
+				<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Tech. Rep.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Peek-a-boo: I see your smart home activities</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Acar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fereidooni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Abera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Miettinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-R</forename><surname>Sadeghi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1808.02741</idno>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Security of implantable medical devices: limits, requirements, and proposals</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ellouze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Allouche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rekhis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Boudriga</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Security and Communication Networks</publisher>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="2475" to="2491" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Security tradeoffs in cyber physical systems: A case study survey on implantable medical devices</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Altawy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Youssef</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Access</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="959" to="979" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A review of security challenges, attacks and resolutions for wireless medical devices</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rathore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mohamed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Al-Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Guizani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">13th International Wireless Communications and Mobile Computing Conference</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="1495" to="1501" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Security and privacy issues in implantable medical devices: A comprehensive survey</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Camara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Peris-Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Tapiador</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of biomedical informatics</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="272" to="289" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Reliability and security of implantable and wearable medical devices</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Implantable Biomedical Microsystems</title>
+				<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="167" to="199" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Sok: Security and privacy in implantable medical devices and body area networks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rushanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Kune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Swanson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE Symposium on Security and Privacy (SP)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="524" to="539" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Wireless sensor networks for healthcare: A survey</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Alemdar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ersoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computer networks</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="2688" to="2710" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A comprehensive survey of security mechanisms in healthcare applications</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jeyachandran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2016 International Conference on Communication and Electronics Systems (ICCES)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Security challenges for medical devices</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sametinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Rozenblit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Lysecky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. ACM</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="74" to="82" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Toward uniform smart healthcare ecosystems: A survey on prospects, security, and privacy considerations</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Habibzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Soyata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Connected Health in Smart Cities</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="75" to="112" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The internet of things for health care: a comprehensive survey</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kwak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Kabir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-S</forename><surname>Kwak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Access</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="678" to="708" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Cybersecurity in healthcare: A systematic review of modern threats and trends</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Kruse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Frederick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jacobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Monticone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Technology and Health Care</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Security vulnerabilities, attacks, countermeasures, and regulations of networked medical devices-a review</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yaqoob</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Abbas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Atiquzzaman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Communications Surveys &amp; Tutorials</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="3723" to="3768" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Security requirements of internet of things-based healthcare system: a survey study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nasiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sadoughi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Tadayon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dehnad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Informatica Medica</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">253</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Medical devices: Guidance document -classification of medical devices</title>
+		<imprint>
+			<date type="published" when="2010-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Recent advances and future trends in low power wireless systems for medical applications</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Townsend</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Haslett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.-K</forename><surname>Tsang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>El-Gamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Iniewski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fifth International Workshop on System-on-Chip for Real-Time Applications (IWSOC&apos;05)</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Recent developments in flexible wearable electronics for monitoring applications</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lam Po</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the Institute of Measurement and Control</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="283" to="300" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Body area networks: A survey</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vasilakos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Leung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mobile networks and applications</title>
+				<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="171" to="193" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The agenda of wearable healthcare</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tröster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yearbook of medical informatics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">01</biblScope>
+			<biblScope unit="page" from="125" to="138" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Zigbee alliance</title>
+		<ptr target="https://www.zigbee.org/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A mics band wireless body sensor network</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Yuce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Ng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Myo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2007 IEEE Wireless Communications and Networking Conference</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="2473" to="2478" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Iot-enabled smart lighting systems for smart cities</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Acar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Akkaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2018 IEEE 8th Annual Computing and Communication Workshop and Conference (CCWC)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="639" to="645" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Maca: A privacy-preserving multi-factor cloud authentication system utilizing big data</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Beyah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conference on Computer Communications Workshops (INFOCOM WKSHPS</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="518" to="523" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Take two software updates and see me in the morning: The case for software security evaluations of medical devices</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rolles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Molina-Markham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Poosankam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blocki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Song</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<pubPlace>HealthSec</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Lack of security of networked medical equipment in radiology</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Moses</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Korah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Roentgenology</title>
+		<imprint>
+			<biblScope unit="volume">204</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="343" to="353" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Clustcrypt: Privacy-preserving clustering of unstructured big data in the cloud</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zobaed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gottumukkala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Salehi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2019 IEEE 21st International Conference on High Performance Computing and Communications; IEEE 17th International Conference on Smart City; IEEE 5th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="609" to="616" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Waca: Wearable-assisted continuous authentication</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Acar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Akkaya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Security and Privacy Workshops</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2018" />
+			<biblScope unit="page" from="264" to="269" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Protecting access privacy of cached contents in information centric networks</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mohaisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schuchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 8th ACM SIGSAC symposium on Information</title>
+				<meeting>the 8th ACM SIGSAC symposium on Information</meeting>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="173" to="178" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Privacy-preserving deep learning computation for geo-distributed medical big-data platforms</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mohaisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-K</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks-Supplemental Volume (DSN-S)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="3" to="4" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Getting authentication -right considerations for medical device security</title>
+		<ptr target="https://www.imprivata.com/blog/getting-authentication-right---considerations-medical-device-security" />
+		<imprint>
+			<date type="published" when="2018-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Is your cat infected with a computer virus</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Rieback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Crispo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Tanenbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fourth Annual IEEE International Conference on Pervasive Computing and Communications</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Security studies on wearable fitness trackers</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Security evaluation of nine fitness trackers</title>
+		<author>
+			<persName><forename type="first">D.-I</forename><forename type="middle">E</forename><surname>Clausing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schiefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Lösche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-I</forename><forename type="middle">M</forename><surname>Morgenstern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Independent IT-Security Institute</title>
+				<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Fit and vulnerable: Attacks and defenses for a health monitoring device</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Carbunar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Banik</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1304.5672</idno>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Medical devices at risk of dos attacks -5 insights</title>
+		<ptr target="https://www.beckersasc.com/asc-quality-infection-control/medical-devices-at-risk-of-denial-of-service-attacks-5-insights.html/" />
+		<imprint>
+			<date type="published" when="2016-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Privacy in mobile technology for personal healthcare</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Avancha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baxi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kotz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Computing Surveys (CSUR)</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Ppvc: Privacy preserving voronoi cell for location-based services</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Shahid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jeukeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pissinou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iyengar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sahni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Varela-Conover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2017 International Conference on Computing, Networking and Communications (ICNC)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="351" to="355" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Research issues for privacy and security of electronic health services</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yüksel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Küpçü</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ö</forename><surname>Özkasap</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Generation Computer Systems</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">A privacy-preserving attribute-based authentication system for mobile health networks</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Mobile Computing</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1927" to="1941" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">A complete guide to the common vulnerability scoring system version 2.0, &quot; in Published by FIRST-Forum of Incident Response and Security Teams</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Scarfone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Romanosky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A novel physiological features-assisted architecture for rapidly distinguishing health problems from hardware trojan attacks and errors in medical devices</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wehbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Mooney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Q</forename><surname>Javaid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Inan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Symposium on Hardware Oriented Security and Trust (HOST)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="106" to="109" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Wearfit: Security design analysis of a wearable fitness tracker</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>On</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Postmarket management of cybersecurity in medical devices draft guidance for industry and food and drug administration staff</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Food</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Administration</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FDA: Silver Spring</title>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Securing medical devices against hardware trojan attacks through analog-, digital-, and physiological-based signatures</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wehbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Mooney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Inan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Keezer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hardware and Systems Security</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Controlling for cybersecurity risks of medical device software</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomedical instrumentation &amp; technology</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">s1</biblScope>
+			<biblScope unit="page" from="38" to="41" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Patients put at risk by computer viruses</title>
+		<ptr target="https://www.wsj.com/articles/SB10001424127887324188604578543162744943762/" />
+		<imprint>
+			<date type="published" when="2013-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Orangeworm cyberattack group puts healthcare industry in the crosshairs</title>
+		<ptr target="http://www.aami.org/newsviews/newsdetail.aspx?ItemNumber=6205/" />
+		<imprint>
+			<date type="published" when="2018-05" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Cybersecurity and healthcare: how safe are we</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hankin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Darzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kinross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bmj</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page">3179</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Ransomware: taking businesses hostage</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mansfield-Devine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Network Security</title>
+		<imprint>
+			<biblScope unit="volume">2016</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="8" to="17" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">4 emerging threats to healthcare providers</title>
+		<ptr target="https://www.symantec.com/blogs/expert-perspectives/4-emerging-threats-healthcare-providers/" />
+		<imprint>
+			<date type="published" when="2018-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">New zeppelin ransomware targeting tech and health companies</title>
+		<ptr target="https://thehackernews.com/2019/12/zeppelin-ransomware-attacks.html/" />
+		<imprint>
+			<date type="published" when="2019-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">Lifelabs paid hackers to recover stolen medical data of 15 million canadians</title>
+		<ptr target="https://thehackernews.com/2019/12/lifelabs-data-breach.html/" />
+		<imprint>
+			<date type="published" when="2019-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">56% of health providers still rely on legacy windows 7 systems</title>
+		<ptr target="https://healthitsecurity.com/news/56-of-health-providers-still-rely-on-legacy-windows-7-systems/" />
+		<imprint>
+			<date type="published" when="2019-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">On the feasibility of side-channel attacks with brain-computer interfaces</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Martinovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Perito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">USENIX security symposium</title>
+				<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="143" to="158" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m" type="main">Security evaluation of the implantable cardiac device ecosystem architecture and implementation interdependencies</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Butts</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Attacks on fitness trackers revisited: A case-study of unfit firmware security</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rieck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM HEALTH</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2016-05" />
+			<publisher>Article . Publication date</publisher>
+		</imprint>
+	</monogr>
+	<note>preprint arXiv:1604</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Burnfit: Analyzing and exploiting wearable devices</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Workshop on Information Security Applications</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="227" to="239" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">A case study on vulnerability analysis and firmware modification attack for a wearable fitness tracker</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L J</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IT Converg. Pract</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="25" to="33" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Anatomy of a vulnerable fitness tracking system: Dissecting the fitbit cloud, app, and firmware</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Classen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wegemer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Patras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hollick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the ACM on Interactive, Mobile and Ubiquitous Technologies</title>
+				<meeting>the ACM on Interactive, Mobile and Ubiquitous Technologies</meeting>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Privacy and security in internet of things and wearable devices</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Arias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wurm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hoang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Multi-Scale Computing Systems</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="99" to="109" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">I can see your brain: Investigating home-use electroencephalography system security</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Internet of Things Journal</title>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Most dangerous hacked medical devices</title>
+		<ptr target="https://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm573669.htm/" />
+		<imprint>
+			<date type="published" when="2018-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">Vulnerabilities disclosed by cybermdx allow attackers to take over infusion pumps</title>
+		<ptr target="https://www.prnewswire.com/il/news-releases/vulnerabilities-disclosed-by-cybermdx-allow-attackers-to-take-over-infusion-pumps-300867517.html/" />
+		<imprint>
+			<date type="published" when="2019-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Ge aestiva and aespire anesthesia vulnerabilities</title>
+		<ptr target="https://www.us-cert.gov/ics/advisories/icsma" />
+		<imprint>
+			<date type="published" when="2019-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Assessing medical device vulnerabilities on the internet of things</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mcmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>El</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Samtani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Patton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Intelligence and Security Informatics (ISI)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="176" to="178" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">Change healthcare mckesson and horizon cardiology vulnerabilities</title>
+		<ptr target="https://www.us-cert.gov/ics/advisories/icsma-19-241-01/" />
+		<imprint>
+			<date type="published" when="2019-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title level="m" type="main">Medtronic conexus radio frequency telemetry protocol vulnerabilities</title>
+		<ptr target="https://www.us-cert.gov/ics/advisories/ICSMA-19-080-01/" />
+		<imprint>
+			<date type="published" when="2020-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">Philips isite/intellispace pacs vulnerabilities</title>
+		<ptr target="https://www.us-cert.gov/ics/advisories/ICSMA-18-088-01/" />
+		<imprint>
+			<date type="published" when="2018-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">Know your enemy: Characteristics of cyber-attacks on medical imaging devices</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mahler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nissim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shalom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Goldenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hassman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Makori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kochav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Elovici</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shahar</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1801.05583</idno>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">Vulnerability spotlight: Natus neuroworks multiple vulnerabilities</title>
+		<ptr target="https://blog.talosintelligence.com/2018/04/vulnerability-spotlight-natus.html#more/" />
+		<imprint>
+			<date type="published" when="2018-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Semantic attacks on wireless medical devices</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Potkonjak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SENSORS</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>IEEE</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Ghost talk: Mitigating emi signal injection attacks against analog sensors</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Kune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Backes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Security and Privacy (SP)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="145" to="159" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Interference with cardiac pacemakers by cellular telephones</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Estes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Griffith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Steffens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Carlo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Findlay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Safety of implantable pacemakers and cardioverter defibrillators in the magnetic field of a novel remote magnetic navigation system</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jilek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tzeis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Reents</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-L</forename><surname>Estner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fichtner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hessling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Deisenhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kolb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of cardiovascular electrophysiology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1136" to="1141" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">This ain&apos;t your dose: sensor spoofing attack on medical infusion pump</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Son</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">10th USENIX Workshop on Offensive Technologies. USENIX</title>
+				<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Towards trustworthy medical devices and body area networks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 50th Annual Design Automation Conference</title>
+				<meeting>the 50th Annual Design Automation Conference</meeting>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m" type="main">Blind attack on wireless insulin pumps could deliver lethal dose</title>
+		<ptr target="https://threatpost.com/blind-attack-wireless-insulin-pumps-could-deliver-lethal-dose-102711/75808/" />
+		<imprint>
+			<date type="published" when="2011-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<idno>R7-2016-07</idno>
+		<ptr target="https://blog.rapid7.com/2016/10/04/r7-2016-07-multiple-vulnerabilities-in-animas-onetouch-ping-insulin-pump/" />
+		<title level="m">Multiple vulnerabilities in animas onetouch ping insulin pump</title>
+				<imprint>
+			<date type="published" when="2016-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title level="m" type="main">Security risk of medical devices in it networks -the case of an infusion pump unit</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Knackmu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mãűller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pommerien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Creutzburg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="volume">9411</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title level="m" type="main">Assessment of security vulnerabilities in wearable devices</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cusack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Antony</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mody</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<monogr>
+		<title level="m" type="main">On the (in) security of the latest generation implantable cardiac defibrillators and how to secure them</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Marin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Singelée</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chothia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Willems</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Preneel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>in Computer Security Applications</note>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Securing the exocortex: A twenty-first century cybernetics challenge</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bonaci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Herron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Matlack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Chizeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conference on Norbert Wiener in the 21st Century (21CW)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="1" to="8" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">App stores for the brain: Privacy &amp; security in brain-computer interfaces</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bonaci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Calo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Chizeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Symposium on Ethics in Science</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="1" to="7" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">Security analysis of bluetooth low energy based smart wristbands</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2017 2nd International Conference on Frontiers of Sensors Technologies (ICFST)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="421" to="425" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Vibration-based secure side channel for medical devices</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2015 52nd ACM/EDAC/IEEE Design Automation Conference (DAC)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">Protecting privacy of {BLE} device users</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fawaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Shin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">25th {USENIX} Security Symposium ({USENIX} Security 16</title>
+				<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="1205" to="1221" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main">On pairing constrained wireless devices based on secrecy of auxiliary channels: the case of acoustic eavesdropping</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Halevi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Saxena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 17th ACM conference on Computer and communications security</title>
+				<meeting>the 17th ACM conference on Computer and communications security</meeting>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Assessing pairing and data exchange mechanism security in the wearable internet of things</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lotfy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Mobile Services (MS)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="25" to="32" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main">Cleartext data transmissions in consumer iot medical devices</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Apthorpe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Feamster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2017 Workshop on Internet of Things Security and Privacy</title>
+				<meeting>the 2017 Workshop on Internet of Things Security and Privacy</meeting>
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="7" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">Brain-computer interface applications: Security and privacy challenges</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communications and Network Security (CNS)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="663" to="666" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<analytic>
+		<title level="a" type="main">Hacking medical devices for fun and insulin: Breaking the human scada system</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Radcliffe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Black Hat Conference presentation slides</title>
+				<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">2011</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main">Knock! knock! who is there? investigating data leakage from a medical internet of things hijacking attack</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Flynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Grispos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Glisson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mahoney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">53rd Hawaii International Conference on System Sciences</title>
+				<imprint>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<analytic>
+		<title level="a" type="main">Cybersecurity and medical devices: a practical guide for cardiac electrophysiologists</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ransford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Kramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Foo Kune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Auto De Medeiros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pacing and Clinical Electrophysiology</title>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<monogr>
+		<title level="m" type="main">A dozen vulnerabilities affect millions of bluetooth le powered devices</title>
+		<ptr target="https://thehackernews.com/2020/02/hacking-bluetooth-vulnerabilities.html/" />
+		<imprint>
+			<date type="published" when="2020-02" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<analytic>
+		<title level="a" type="main">Security and privacy in the internet of medical things: taxonomy and risk assessment</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Alsubaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abuhussein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shiva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">42nd Conference on Local Computer Networks Workshops (LCN Workshops)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="112" to="120" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<monogr>
+		<title level="m" type="main">Security of medical cyber-physical systems: An empirical study on imaging devices</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="page">1904</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv</note>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main">On limitations of friendly jamming for confidentiality</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">O</forename><surname>Tippenhauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Malisa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ranganathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Capkun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Security and Privacy (SP), 2013 IEEE Symposium on</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="160" to="173" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<analytic>
+		<title level="a" type="main">Distance hijacking attacks on distance bounding protocols</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cremers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Capkun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Security and Privacy (SP), 2012 IEEE Symposium on</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="113" to="127" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<analytic>
+		<title level="a" type="main">Securing legacy mobile medical devices</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Pournaghshband</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sarrafzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Reiher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Wireless Mobile Communication and Healthcare</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="163" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<analytic>
+		<title level="a" type="main">Patient infusion pattern based access control schemes for wireless insulin pump system</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sokolsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Parallel and Distributed Systems</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="3108" to="3121" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<analytic>
+		<title level="a" type="main">Characterization of early smartwatch apps</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chauhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seneviratne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kaafar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mahanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Seneviratne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<analytic>
+		<title level="a" type="main">Synthesizing stealthy reprogramming attacks on cardiac devices</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Paoletti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Abbas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mangharam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Gruber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Smolka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">10th International Conference on Cyber-Physical Systems</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<analytic>
+		<title level="a" type="main">Effects of denial-of-sleep attacks on wireless sensor network mac protocols</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Raymond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Marchany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Brownfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Midkiff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE transactions on vehicular technology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="367" to="380" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<monogr>
+		<title level="m" type="main">Security for wireless implantable medical devices</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>Springer</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<analytic>
+		<title level="a" type="main">Improving google glass security and privacy by changing the physical and software structure</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Safavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shukur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Life Science Journal</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="109" to="117" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b120">
+	<analytic>
+		<title level="a" type="main">A survey of hardware trojan taxonomy and detection</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tehranipoor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Koushanfar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE design &amp; test of computers</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b121">
+	<analytic>
+		<title level="a" type="main">Aegis: a context-aware security framework for smart home systems</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Babun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 35th Annual Computer Security Applications Conference</title>
+				<meeting>the 35th Annual Computer Security Applications Conference</meeting>
+		<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="28" to="41" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b122">
+	<analytic>
+		<title level="a" type="main">A context-aware framework for detecting sensor-based threats on smart devices</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Mobile Computing</title>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b123">
+	<monogr>
+		<title level="m" type="main">Iotdots: A digital forensics framework for smart environments</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Babun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Acar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1809.00745</idno>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b124">
+	<monogr>
+		<title level="m" type="main">Patient medical records sell for $1k on dark web</title>
+		<ptr target="https://www.beckershospitalreview.com/cybersecurity/patient-medical-records-sell-for-1k-on-dark-web.html/" />
+		<imprint>
+			<date type="published" when="2019-02" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b125">
+	<analytic>
+		<title level="a" type="main">Hardware trojan attacks: threat analysis and countermeasures</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhunia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Hsiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Banga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Narasimhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the IEEE</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1229" to="1247" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b126">
+	<analytic>
+		<title level="a" type="main">Detecting trojans through leakage current analysis using multiple supply pads</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aarestad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Acharyya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Plusquellic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on information forensics and security</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="893" to="904" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b127">
+	<analytic>
+		<title level="a" type="main">The undetectable and unprovable hardware trojan horse</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Potkonjak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 50th Annual Design Automation Conference</title>
+				<meeting>the 50th Annual Design Automation Conference</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page">144</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b128">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">ACM HEALTH</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2020-05" />
+			<publisher>Article . Publication date</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b129">
+	<analytic>
+		<title level="a" type="main">Trojan detection based on delay variations measured using a high-precision, low-overhead embedded test structure</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lamech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Plusquellic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hardware-Oriented Security and Trust (HOST)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="75" to="82" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b130">
+	<analytic>
+		<title level="a" type="main">Hardware trojan horse benchmark via optimal creation and placement of malicious circuitry</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Koushanfar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Potkonjak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 49th Annual Design Automation Conference</title>
+				<meeting>the 49th Annual Design Automation Conference</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="90" to="95" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b131">
+	<analytic>
+		<title level="a" type="main">At-speed delay characterization for ic authentication and trojan horse detection</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Workshop on Hardware-Oriented Security and Trust</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="8" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b132">
+	<analytic>
+		<title level="a" type="main">An overview of ieee 802.15. 6 standard</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Kwak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ullah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ullah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Applied Sciences in Biomedical and Communication Technologies (ISABEL), 2010 3rd International Symposium on</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b133">
+	<analytic>
+		<title level="a" type="main">A dynamic and differential cmos logic with signal independent power consumption to withstand differential power analysis on smart cards</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Akmal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Verbauwhede</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Solid-State Circuits Conference</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b134">
+	<analytic>
+		<title level="a" type="main">Charge recycling sense amplifier based logic: securing low power security ics against dpa</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Verbauwhede</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">30th European Conference on Solid-State Circuits</title>
+				<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="page" from="179" to="182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b135">
+	<monogr>
+		<title level="m" type="main">Imdfence: Architecting a secure protocol for implantable medical devices</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Siddiqi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Doerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Strydis</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2002.09546</idno>
+		<imprint>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b136">
+	<analytic>
+		<title level="a" type="main">Towards realistic battery-dos protection of implantable medical devices</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Siddiqi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Strydis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 16th ACM International Conference on Computing Frontiers</title>
+				<meeting>the 16th ACM International Conference on Computing Frontiers</meeting>
+		<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="42" to="49" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b137">
+	<analytic>
+		<title level="a" type="main">Wattsupdoc: Power side channels to nonintrusively discover untargeted malware on embedded medical devices</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ransford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahmati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guineau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sorber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahmati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salajegheh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Holcomb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">HealthTech</title>
+				<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b138">
+	<analytic>
+		<title level="a" type="main">Electromagnetic analysis (ema): Measures and counter-measures for smart cards</title>
+		<author>
+			<persName><forename type="first">J.-J</forename><surname>Quisquater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Samyde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Smart Card Programming and Security</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2001" />
+			<biblScope unit="page" from="200" to="210" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b139">
+	<analytic>
+		<title level="a" type="main">An on-chip signal suppression countermeasure to power analysis attacks</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Ratanpal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Blalock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Dependable and Secure Computing</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="179" to="189" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b140">
+	<analytic>
+		<title level="a" type="main">Power analysis attacks and algorithmic approaches to their countermeasures for koblitz curve cryptosystems</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hasan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Computers</title>
+		<imprint>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1071" to="1083" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b141">
+	<analytic>
+		<title level="a" type="main">Protection circuit against differential power analysis attacks for smart cards</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Muresan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gregori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Computers</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">1540</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b142">
+	<analytic>
+		<title level="a" type="main">A low overhead dpa countermeasure circuit based on ring oscillators</title>
+		<author>
+			<persName><forename type="first">P.-C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-C</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-Y.</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE Transactions on Circuits and Systems II: Express Briefs</title>
+				<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="546" to="550" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b143">
+	<analytic>
+		<title level="a" type="main">Tpad: Hardware trojan prevention and detection for trusted integrated circuits</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ganesan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">A</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-S</forename><forename type="middle">P</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mitra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans. on CAD of Integrated Circuits and Systems</title>
+		<imprint>
+			<biblScope unit="page" from="521" to="534" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b144">
+	<analytic>
+		<title level="a" type="main">Introduction to hardware trojan detection methods</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Francq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Frick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2015 Design, Automation &amp; Test in Europe Conference &amp; Exhibition. EDA Consortium</title>
+				<meeting>the 2015 Design, Automation &amp; Test in Europe Conference &amp; Exhibition. EDA Consortium</meeting>
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="770" to="775" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b145">
+	<analytic>
+		<title level="a" type="main">Physical unclonable functions and applications: A tutorial</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M.-D</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Koushanfar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devadas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the IEEE</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1126" to="1141" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b146">
+	<analytic>
+		<title level="a" type="main">Analysis and design of a hardware/software trusted platform module for embedded systems</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aaraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Transactions on Embedded Computing Systems (TECS)</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b147">
+	<analytic>
+		<title level="a" type="main">Plug-n-trust: practical trusted sensing for mhealth</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Sorber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kotz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 10th international conference on Mobile systems, applications, and services</title>
+				<meeting>the 10th international conference on Mobile systems, applications, and services</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="309" to="322" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b148">
+	<analytic>
+		<title level="a" type="main">Secure virtual machine execution under an untrusted management os</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cloud Computing (CLOUD), 2010 IEEE 3rd International Conference on</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="172" to="179" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b149">
+	<analytic>
+		<title level="a" type="main">Static analysis of medical device software using codesonar</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Jetley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2008 workshop on Static analysis</title>
+				<meeting>the 2008 workshop on Static analysis</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="22" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b150">
+	<analytic>
+		<title level="a" type="main">Dynamic binary instrumentation-based framework for malware defense</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aaraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b151">
+	<analytic>
+		<title level="a" type="main">Improving the trustworthiness of medical device software with formal verification methods</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Embedded Systems Letters</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="50" to="53" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b152">
+	<analytic>
+		<title level="a" type="main">Semiformal verification of embedded software in medical devices considering stringent hardware constraints</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cordeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marques-Silva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Embedded Software and Systems</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="396" to="403" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b153">
+	<analytic>
+		<title level="a" type="main">A formal approach to pre-market review for medical device software</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jetley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Iyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Spees</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Computer Software and Applications Conference, 30th Annual International</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="169" to="177" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b154">
+	<analytic>
+		<title level="a" type="main">A novel biometrics method to secure wireless body area sensor networks for telemedicine and m-health</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Poon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-T</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-D</forename><surname>Bao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Communications Magazine</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="73" to="81" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b155">
+	<monogr>
+		<title level="m" type="main">Who wears me? bioimpedance as a passive biometric</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cornelius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sorber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Skinner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Halter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kotz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<pubPlace>HealthSec</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b156">
+	<analytic>
+		<title level="a" type="main">Opfka: Secure and efficient ordered-physiological-feature-based key agreement for wireless body area networks</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">INFOCOM</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="2274" to="2282" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b157">
+	<analytic>
+		<title level="a" type="main">Pska: Usable and secure key agreement scheme for body area networks</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Venkatasubramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K S</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Information Technology in Biomedicine</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="60" to="68" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b158">
+	<analytic>
+		<title level="a" type="main">Body area network security: Robust key establishment using human body channel</title>
+		<author>
+			<persName><forename type="first">S.-Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-C</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Y</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">HealthSec</title>
+				<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="5" to="5" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b159">
+	<analytic>
+		<title level="a" type="main">Heart-to-heart (h2h): authentication for implanted medical devices</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rostami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Juels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Koushanfar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2013 ACM SIGSAC conference on Computer &amp; communications security</title>
+				<meeting>the 2013 ACM SIGSAC conference on Computer &amp; communications security</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="1099" to="1112" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b160">
+	<analytic>
+		<title level="a" type="main">Securing mobile devices with biotelemetry</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Jurik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Weaver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Computer Communications and Networks (ICCCN), 2011 Proceedings of 20th International Conference on</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b161">
+	<analytic>
+		<title level="a" type="main">Biosec: A biometric based approach for securing communication in wireless networks of biosensors implanted in the human body</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cherukuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Venkatasubramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Parallel Processing Workshops</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="432" to="439" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b162">
+	<analytic>
+		<title level="a" type="main">Prediction of gait intention from pre-movement eeg signals: a feasibility study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Siddiquee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Atri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ramon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Marquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of NeuroEngineering and Rehabilitation</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b163">
+	<analytic>
+		<title level="a" type="main">Extracting randomness from the trend of ipi for cryptographic operators in implantable medical devices</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chizari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Lupu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Dependable and Secure Computing</title>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b164">
+	<analytic>
+		<title level="a" type="main">A modified algorithm for dna motif finding and ranking considering variable length motif and mutation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Ashrafi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M I</forename><surname>Newaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ajwad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Tanvee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mottalib</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2015 IEEE 2nd International Conference on Recent Trends in Information Systems (ReTIS)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="12" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b165">
+	<analytic>
+		<title level="a" type="main">Biometric-based authentication scheme for implantable medical devices during emergency situations</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Belkhouja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mohamed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Al-Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Guizani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Generation Computer Systems</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="109" to="119" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b166">
+	<analytic>
+		<title level="a" type="main">Data-driven detection of sensor-hijacking attacks on electrocardiogram sensors</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Venkatasubramanian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mission-Oriented Sensor Networks and Systems: Art and Science</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="757" to="781" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b167">
+	<analytic>
+		<title level="a" type="main">Detecting signal injection attack-based morphological alterations of ecg measurements</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">V</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Krishna</forename><forename type="middle">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Distributed Computing in Sensor Systems (DCOSS)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="127" to="135" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b168">
+	<analytic>
+		<title level="a" type="main">Patients, pacemakers, and implantable defibrillators: Human values and security for wireless implantable medical devices</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Denning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Borning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kohno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Maisel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</title>
+				<meeting>the SIGCHI Conference on Human Factors in Computing Systems</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="917" to="926" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b169">
+	<analytic>
+		<title level="a" type="main">Secure ad hoc trust initialization and key management in wireless body area networks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Guttman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Transactions on sensor Networks (TOSN)</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">18</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b170">
+	<monogr>
+		<title level="m" type="main">Security that is meant to be skin deep using ultraviolet micropigmentation to store emergency-access keys for implantable medical devices</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schechter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b171">
+	<analytic>
+		<title level="a" type="main">Loud and clear: Human-verifiable authentication based on audio</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Goodrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sirivianos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Solis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tsudik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Uzun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE International Conference on Distributed Computing Systems</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="10" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b172">
+	<analytic>
+		<title level="a" type="main">Pacemaker systems as implantable cardiac rhythm monitors</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Israel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Barold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Cardiology</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="442" to="445" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b173">
+	<analytic>
+		<title level="a" type="main">Suitability of nfc for medical device communication and power delivery</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Freudenthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Herrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kautz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Natividad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ogrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sipla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Betancourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Estevez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Engineering in Medicine and Biology Workshop</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="51" to="54" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b174">
+	<analytic>
+		<title level="a" type="main">Human-centric connectivity enabled by body-coupled communications</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Baldus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Corroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Klabunde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schenk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Communications Magazine</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b175">
+	<analytic>
+		<title level="a" type="main">Protect your bsn: No handshakes, just namaste!</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bagade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Milazzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Body Sensor Networks (BSN), 2013 IEEE International Conference on</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b176">
+	<analytic>
+		<title level="a" type="main">Proximity-based access control for implantable medical devices</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Castelluccia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Heydt-Benjamin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Capkun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 16th ACM conference on Computer and communications security</title>
+				<meeting>the 16th ACM conference on Computer and communications security</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b177">
+	<analytic>
+		<title level="a" type="main">Bana: body area network authentication exploiting channel characteristics</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yuan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Journal on selected Areas in Communications</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1803" to="1816" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b178">
+	<monogr>
+		<title level="m" type="main">Absence makes the heart grow fonder: New directions for implantable medical device security</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Denning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kohno</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>HotSec</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b179">
+	<analytic>
+		<title level="a" type="main">They can hear your heartbeats: non-invasive security for implantable medical devices</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gollakota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hassanieh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ransford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Katabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ACM SIGCOMM Computer Communication Review</title>
+				<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">41</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b180">
+	<analytic>
+		<title level="a" type="main">Imdguard: Securing implantable medical devices with the external wearable guardian</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">INFOCOM</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="1862" to="1870" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b181">
+	<analytic>
+		<title level="a" type="main">Medmon: Securing medical devices through wireless monitoring and anomaly detection</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Biomedical circuits and Systems</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="871" to="881" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b182">
+	<analytic>
+		<title level="a" type="main">Katan and ktantanâĂŤa family of small and efficient hardware-oriented block ciphers</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>De Canniere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Dunkelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Knežević</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cryptographic Hardware and Embedded Systems-CHES 2009</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="272" to="288" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b183">
+	<analytic>
+		<title level="a" type="main">Analyzing the energy consumption of security protocols</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Potlapally</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ravi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2003 international symposium on Low power electronics and design</title>
+				<meeting>the 2003 international symposium on Low power electronics and design</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="30" to="35" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b184">
+	<analytic>
+		<title level="a" type="main">Present: An ultra-lightweight block cipher</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bogdanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Knudsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Leander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Paar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poschmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Robshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Seurin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vikkelsoe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Workshop on Cryptographic Hardware and Embedded Systems</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b185">
+	<analytic>
+		<title level="a" type="main">Compressed sensing</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Donoho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on information theory</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1289" to="1306" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b186">
+	<analytic>
+		<title level="a" type="main">Advanced encryption standard (aes)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Heron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Network Security</title>
+		<imprint>
+			<biblScope unit="volume">2009</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="8" to="12" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b187">
+	<analytic>
+		<title level="a" type="main">Keccak</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bertoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Daemen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Peeters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Van Assche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Annual international conference on the theory and applications of cryptographic techniques</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="313" to="314" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b188">
+	<analytic>
+		<title level="a" type="main">Ask-ban: authenticated secret key extraction utilizing channel characteristics for body area networks</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">the sixth ACM conference on Security and privacy in wireless and mobile networks</title>
+				<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b189">
+	<analytic>
+		<title level="a" type="main">Zero reconciliation secret key generation for body-worn health monitoring devices</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sivaraman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ostry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">fifth ACM conference on Security and Privacy in Wireless and Mobile Networks</title>
+				<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="39" to="50" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b190">
+	<analytic>
+		<title level="a" type="main">On the effectiveness of secret key extraction from wireless signal strength in real environments</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Premnath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Kasera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Patwari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Krishnamurthy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 15th annual international conference on Mobile computing and networking</title>
+				<meeting>the 15th annual international conference on Mobile computing and networking</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="321" to="332" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b191">
+	<analytic>
+		<title level="a" type="main">Radio-telepathy: extracting a secret key from an unauthenticated wireless channel</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mathur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Trappe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mandayam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reznik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">14th ACM international conference on Mobile computing and networking</title>
+				<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b192">
+	<analytic>
+		<title level="a" type="main">A lightweight security protocol for ultra-low power asic implementation for wireless implantable medical devices</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hosseini-Khayat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">5th International Symposium on Medical Information and Communication Technology</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b193">
+	<analytic>
+		<title level="a" type="main">Balancing security and utility in medical devices</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rostami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Burleson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Koushanfar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Juels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 50th Annual Design Automation Conference</title>
+				<meeting>the 50th Annual Design Automation Conference</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b194">
+	<analytic>
+		<title level="a" type="main">Block cipher based security for severely resource-constrained implantable medical devices</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Masny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Geiselmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bretthauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">on Applied Sciences in Biomedical and Communication Technologies</title>
+				<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b195">
+	<analytic>
+		<title level="a" type="main">Energy-efficient and secure sensor data transmission using encompression</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Kermani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Raghunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Jha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">26th International Conference on VLSI Design</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="31" to="36" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b196">
+	<analytic>
+		<title level="a" type="main">Bulwark: Securing implantable medical devices communication channels</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Karpovsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kinsy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers &amp; Security</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="498" to="511" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b197">
+	<monogr>
+		<title level="m" type="main">Machine learning for ddos detection in packet core network for iot</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Saeedi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b198">
+	<analytic>
+		<title level="a" type="main">Wearable device user authentication using physiological and behavioral metrics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vhaduri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Poellabauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b199">
+	<analytic>
+		<title level="a" type="main">Healthguard: A machine learning-based security framework for smart healthcare systems</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Newaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SNAMS</title>
+		<imprint>
+			<date type="published" when="2019" />
+			<publisher>IEEE</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b200">
+	<analytic>
+		<title level="a" type="main">Supervised classification of eeg signals with score threshold regulation for pseudo-online asynchronous detection of gait intention</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Siddiquee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b201">
+	<analytic>
+		<title level="a" type="main">Deep learning-based security schemes for implantable medical devices</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rathore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mohamed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Guizani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Energy Efficiency of Medical Devices and Healthcare Applications</title>
+				<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="109" to="130" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b202">
+	<analytic>
+		<title level="a" type="main">Hcpp: Cryptography based secure ehr system for patient privacy and emergency healthcare</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2011 31st International Conference on Distributed Computing Systems</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="373" to="382" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b203">
+	<analytic>
+		<title level="a" type="main">Cam: cloud-assisted privacy preserving mobile health monitoring</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Information Forensics and Security</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="985" to="997" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b204">
+	<analytic>
+		<title level="a" type="main">Data security and privacy in wireless body area networks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Wireless communications</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b205">
+	<monogr>
+		<title level="m" type="main">Scalable and secure sharing of personal health records in cloud computing using attribute-based encryption</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="131" to="143" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b206">
+	<analytic>
+		<title level="a" type="main">Achieving secure and efficient data access control for cloud-integrated body sensor networks</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Guan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Distributed Sensor Networks</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">101287</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b207">
+	<analytic>
+		<title level="a" type="main">Defending resource depletion attacks on implantable medical devices</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Global telecommunications conference (GLOBECOM 2010)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="1" to="5" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b208">
+	<analytic>
+		<title level="a" type="main">Poks based secure and energy-efficient access control for implantable medical devices</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mohamed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Guizani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Security and Privacy in Communication Systems</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="105" to="125" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b209">
+	<analytic>
+		<title level="a" type="main">Blockchain-based medical records secure storage and medical service framework</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of medical systems</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b210">
+	<analytic>
+		<title level="a" type="main">A decentralized privacy-preserving healthcare blockchain for iot</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Dwivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Srivastava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sensors</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">326</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b211">
+	<analytic>
+		<title level="a" type="main">A light and secure healthcare blockchain for iot medical devices</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Srivastava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crichigno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dhar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Canadian</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2019" />
+			<publisher>IEEE</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b212">
+	<analytic>
+		<title level="a" type="main">Sensor-chain: A lightweight scalable blockchain framework for internet of things</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Shahid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pissinou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Staier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kwan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2019 International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="1154" to="1161" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b213">
+	<analytic>
+		<title level="a" type="main">Data sharing and privacy for patient iot devices using blockchain</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Srivastava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Parizi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dehghantanha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-K</forename><forename type="middle">R</forename><surname>Choo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Smart City and Informatization</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="334" to="348" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b214">
+	<analytic>
+		<title level="a" type="main">Context-aware intrusion detection method for smart devices with sensors</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">uS Patent</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">413</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b215">
+	<monogr>
+		<title level="m" type="main">Multi-user multi-device-aware access control system for smart home</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Sikder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Babun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">B</forename><surname>Celik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Acar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Aksu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mcdaniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kirda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Uluagac</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1911.10186</idno>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b216">
+	<analytic>
+		<title level="a" type="main">Design and implementation of a securewireless mote-based medical sensor network</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malasri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sensors</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="6273" to="6297" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b217">
+	<analytic>
+		<title level="a" type="main">Think like a hacker: Insights on the latest attack vectors (and security controls) for medical device applications</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of diabetes science and technology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="207" to="212" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b218">
+	<analytic>
+		<title level="a" type="main">Cybersecurity vulnerabilities in medical devices: a complex environment and multifaceted problem</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Woodward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Devices</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">305</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b219">
+	<analytic>
+		<title level="a" type="main">System structure for software fault tolerance</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Randell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ieee transactions on software engineering</title>
+				<imprint>
+			<date type="published" when="1975" />
+			<biblScope unit="page" from="220" to="232" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b220">
+	<analytic>
+		<title level="a" type="main">The use of triple-modular redundancy to improve computer reliability</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Lyons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Vanderkulk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IBM Journal of Research and Development</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="200" to="209" />
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b221">
+	<analytic>
+		<title level="a" type="main">A decentralized intrusion detection system for increasing security of wireless sensor networks</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Chatzigiannakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Strikos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Emerging Technologies and Factory Automation</title>
+				<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="1408" to="1411" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

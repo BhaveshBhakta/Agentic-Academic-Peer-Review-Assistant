@@ -1,0 +1,751 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A Survey on Bias and Fairness in Machine Learning</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mehrabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Morstatter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Saxena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Galstyan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACM Computing Surveys</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">35</biblScope>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A comparative study of fairness-enhancing interventions in machine learning</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Friedler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scheidegger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Venkatasubramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Choudhary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Roth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the conference on fairness, accountability, and transparency</title>
+				<meeting>the conference on fairness, accountability, and transparency</meeting>
+		<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="329" to="338" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Addressing fairness in classification with a model-agnostic multiobjective algorithm</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Padh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Antognini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lejal-Glaude</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Faltings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Musat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence. PMLR</title>
+				<meeting>the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence. PMLR</meeting>
+		<imprint>
+			<date type="published" when="2021-12" />
+			<biblScope unit="page" from="600" to="609" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Ensuring fairness in machine learning to advance health equity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rajkomar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Corrado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Chin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of internal medicine</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="866" to="872" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Fairness through awareness</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dwork</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pitassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Reingold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zemel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 3rd innovations in theoretical computer science conference</title>
+				<meeting>the 3rd innovations in theoretical computer science conference</meeting>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="214" to="226" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Equality of opportunity in supervised learning</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Srebro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in neural information processing systems</title>
+				<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="3315" to="3323" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Creating fair models of atherosclerotic cardiovascular disease risk</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Pfohl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Electron</forename><surname>Kharaziha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Trivedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">AMIA Annual Symposium Proceedings</title>
+				<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="volume">2019</biblScope>
+			<biblScope unit="page">716</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Inherent trade-offs in the fair determination of risk scores</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kleinberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mullainathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Raghavan</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1609.05807</idno>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Fair regression for health care spending</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="973" to="982" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Data preprocessing techniques for classification without discrimination</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kamiran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Calders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Knowledge and information systems</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="33" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Fairmask: Better fairness via model-based rebalancing of protected attributes</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chakraborty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Menzies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Software Engineering</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2426" to="2439" />
+			<date type="published" when="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)</title>
+				<meeting><address><addrLine>Houston, TX, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2023-06" />
+			<biblScope unit="page" from="709" to="711" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Man is to computer programmer as woman is to homemaker? debiasing word embeddings</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bolukbasi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-W</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Saligrama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Kalai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in neural information processing systems</title>
+				<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="4349" to="4357" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Constraining the latent space of variational auto-encoders for fair representation learning</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cerrato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marchionini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ciaglia</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2012.06159</idno>
+		<imprint>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Fairness-Aware Classifier with Prejudice Remover Regularizer</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kamishima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Akaho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Asoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sakuma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Machine Learning and Knowledge Discovery in Databases</title>
+				<meeting><address><addrLine>Berlin, Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="35" to="50" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A Reductions Approach to Fair Classification</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beygelzimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dudik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Langford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wallach</surname></persName>
+		</author>
+		<ptr target="http://proceedings.mlr.press/v80/agarwal18a.html" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 35th International Conference on Machine Learning</title>
+				<meeting>the 35th International Conference on Machine Learning<address><addrLine>Stockholmsmässan, Stockholm, Sweden</addrLine></address></meeting>
+		<imprint>
+			<publisher>PMLR</publisher>
+			<date type="published" when="2018-07-10" />
+			<biblScope unit="page" from="60" to="69" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Optimising Equal Opportunity Fairness in Model Training</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Baldwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Frermann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</title>
+				<meeting>the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies<address><addrLine>Seattle, United States</addrLine></address></meeting>
+		<imprint>
+			<publisher>Association for Computational Linguistics</publisher>
+			<date type="published" when="2022-07" />
+			<biblScope unit="page" from="4073" to="4084" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Explainable ai for fair sepsis mortality predictive model</title>
+		<author>
+			<persName><forename type="first">C.-H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Artificial Intelligence in Medicine</title>
+				<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2024" />
+			<biblScope unit="page" from="267" to="276" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Mitigating Unwanted Biases with Adversarial Learning</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lemoine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mitchell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Learning fair representations</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zemel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Swersky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pitassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dwork</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Machine Learning. PMLR</title>
+				<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="325" to="333" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A confidence-based approach for balancing fairness and accuracy</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">D</forename><surname>Lelkes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2016 SIAM international conference on data mining. SIAM</title>
+				<meeting>the 2016 SIAM international conference on data mining. SIAM</meeting>
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="144" to="152" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Can ai help reduce disparities in general medical and mental health care?</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pierson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ferryman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ghassemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AMA journal of ethics</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="167" to="179" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Demarginalizing the intersection of race and sex: A black feminist critique of antidiscrimination doctrine, feminist theory and antiracist politics</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Crenshaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Feminist legal theories. Routledge</title>
+				<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="23" to="51" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Fairness under unawareness: Assessing disparity when protected class is unobserved</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kallus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Svacha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Udell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the conference on fairness, accountability, and transparency</title>
+				<meeting>the conference on fairness, accountability, and transparency</meeting>
+		<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="339" to="348" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">How fair can we go in machine learning? assessing the boundaries of accuracy and fairness</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Valdivia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sánchez-Monedero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Casillas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Intelligent Systems</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1619" to="1643" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Developing Clinical Prediction Models for Post-treatment Substance Use Relapse with Explainable Artificial Intelligence</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Liang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021" />
+		</imprint>
+		<respStmt>
+			<orgName>Drexel University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bulgarelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pollard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Horng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Celi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MIMIC-IV</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Adam: A method for stochastic optimization</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Kingma</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:1412.6980</idno>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Fairness improvement with multiple protected attributes: How far are we?</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sarro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the IEEE/ACM 46th International Conference on Software Engineering</title>
+				<meeting>the IEEE/ACM 46th International Conference on Software Engineering</meeting>
+		<imprint>
+			<date type="published" when="2024" />
+			<biblScope unit="page" from="1" to="13" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Digital twin: Benefits, use cases, challenges, and opportunities</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Attaran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Celik</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.dajour.2023.1001651</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Decision Analytics Journal</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">2023</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Digital twins in human-computer interaction: A systematic review</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Barricelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fogli</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10447318.2022.2118189</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Human-Computer Interaction</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="79" to="97" />
+			<date type="published" when="2024" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cityseircast: an agentbased city digital twin for pandemic analysis and simulation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bilal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zaatour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Alonso</forename><surname>Otano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ginjala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Groen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Michael</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40747-024-01683-x1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Complex &amp; Intelligent Systems</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2024-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Service blueprinting: A practical technique for service innovation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Bitner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Ostrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">N</forename><surname>Morgan</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/411664462</idno>
+	</analytic>
+	<monogr>
+		<title level="j">California Management Review</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="66" to="94" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<ptr target="https://visualanalyticshealthcare.github.io" />
+		<title level="m">This is the author&apos;s version of the article that has been published in the proceedings of VAHC 2025 (16th workshop on Visual Analytics in Healthcare</title>
+				<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A multi-level typology of abstract visualization tasks</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brehmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Munzner</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/TVCG.2013.1242</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Visualization and Computer Graphics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2376" to="2385" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Anatomy education potential of the first digital twin of a korean cadaver</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">e0305679</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Development of a digital twin for the diagnosis of cardiac perfusion defects. medRxiv</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Criseo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baggiano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Pelagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nannini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Redaelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pontone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vergara</surname></persName>
+		</author>
+		<idno>doi: 10.1101/ 2025.02.04.25321638</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Application of digital twin and heuristic computer reasoning to workflow management: Gastroenterology outpatient centers study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Garbey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Joerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Furr</surname></persName>
+		</author>
+		<idno type="DOI">10.26502/jsr.10020283</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Surgery and Research</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A hybrid upper-arm-geared exoskeleton with anatomical digital twin for tangible metaverse feedback and communication</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Baek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Seo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/admt.202301404</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Advanced Materials Technologies</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Towards a digital twin based monitoring tool for ventilated patients</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hennigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bigalke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hardel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Carbon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rostalski</surname></persName>
+		</author>
+		<idno>doi: 10.1016/j. ifacol.2024.11.009</idno>
+	</analytic>
+	<monogr>
+		<title level="m">12th IFAC Symposium on Biological and Medical Systems BMS 2024</title>
+				<imprint>
+			<date type="published" when="2024" />
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Holistic patient assessment system using digital twin for xr medical teleconsultation</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-S</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Woo</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/3652920.3652943</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Augmented Humans International Conference 2024, AHs &apos;24</title>
+				<meeting>the Augmented Humans International Conference 2024, AHs &apos;24<address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Association for Computing Machinery</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Human digital twin-based interactive dashboards for informal caregivers of stroke patients</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Lauer-Schmaltz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kerim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Gulyás</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Andersen</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/3594806.3594824</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 16th International Conference on PErvasive Technologies Related to Assistive Environments, PETRA &apos;23</title>
+				<meeting>the 16th International Conference on PErvasive Technologies Related to Assistive Environments, PETRA &apos;23<address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>Association for Computing Machinery</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Toward enabling cardiac digital twins of myocardial infarction using deep computational models for inverse inference</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Camps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Grau</surname></persName>
+		</author>
+		<idno>doi: 10. 1109/TMI.2024.3367409</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Medical Imaging</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2024" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Digital twins as global learning health and disease models for preventive and personalized medicine</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Loscalzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K M F</forename><surname>Mahmud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Aly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rzhetsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zitnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Benson</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13073-025-01435-71</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Medicine</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2025-02" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Digital twin based software design in ehealth -a new development approach for health / medical software products</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lutze</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/ICE/ITMC49519.2020.91985462</idno>
+	</analytic>
+	<monogr>
+		<title level="m">2020 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC)</title>
+				<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="1" to="9" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Service design impact report: Health sector. Service Design Network gGmbH</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mager</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Using user persona and work domain analysis to elicit information for a product-service digital twin</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Nassiuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E.-M</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grant</surname></persName>
+		</author>
+		<idno>doi: 10. 21606/drs.2024.275</idno>
+		<imprint>
+			<biblScope unit="volume">2024</biblScope>
+			<biblScope unit="page">2024</biblScope>
+			<pubPlace>Boston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Leveraging service design for healthcare transformation: toward people-centered, integrated, and technology-enabled healthcare systems</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Patrício</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sangiorgi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mahr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Čaić</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kalantari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sundar</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/JOSM-11-2019-03321</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Service Management</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="889" to="909" />
+			<date type="published" when="2020-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A survey of visualization techniques for digital twins</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Paziraei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Motamedi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Information Technology in Civil and Building Engineering</title>
+				<editor>
+			<persName><forename type="first">A</forename><surname>Francis</surname></persName>
+			<persName><forename type="first">E</forename><surname>Miresco</surname></persName>
+			<persName><forename type="first">S</forename><surname>Melhado</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature Switzerland</publisher>
+			<date type="published" when="2002" />
+			<biblScope unit="page" from="586" to="599" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Developing cardiac digital twin populations powered by machine learning provides electrophysiological insights in conduction and repolarization</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Qian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ugurlu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fairweather</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Toso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Strocchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cicci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zaidi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Halliday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hammersley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Plank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vigmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Razavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lamata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Niederer</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s44161-025-00650-01</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Cardiovascular Research</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2025-05" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A digital twinbased platform for medical cyber-physical systems</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lalouani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Toubal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Emokpae</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/ACCESS.2024.3502077</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Access</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2024" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Assessing post-tavr cardiac conduction abnormalities risk using a digital twin of a beating heart. medRxiv</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Reza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kovarovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bluestein</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/2024.03.28.24305028</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ruiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nitti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Pilloni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cadoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Grosso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fadda</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/mti8060048</idno>
+		<title level="m">Metaverse &amp; human digital twin: Digital identity, biometrics, and privacy in the future virtual worlds. Multimodal Technologies and Interaction</title>
+				<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Exploring public sector strategy</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Scholes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Pearson Education</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Population scale proteomics enables adaptive digital twin modelling in sepsis. medRxiv</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mellhammar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Malmström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goch Gustafsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bakochi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Isaksson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mohanty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Thelaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Malmström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Malmström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Linder</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/2024.03.20.24304575</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Visualization in medical system interfaces: Ux guidelines</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shaalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jusoh</surname></persName>
+		</author>
+		<idno>doi: 10</idno>
+	</analytic>
+	<monogr>
+		<title level="m">2020 12th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)</title>
+				<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="page" from="1" to="8" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Innovative metaheuristic optimization approach with a bi-triad for rehabilitation exoskeletons</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sosa Méndez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>García Cena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bedolla-Martínez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Martín González</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/s24072231</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sensors</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">This is service design thinking: Basics, tools, cases</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stickdorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schneider</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>John Wiley &amp; Sons</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Digital twin in healthcare: Recent updates and challenges. DIGITAL HEALTH</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/205520762211496511</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">2023</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Human digital twin for personalized elderly type 2 diabetes management</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Thamotharan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kesavadev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mohan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seshadhri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bekiroglu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Toffanin</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/jcm12062094</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Medicine</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Interactive Visual Data Analysis. AK Peters Visualization Series</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tominski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schumann</surname></persName>
+		</author>
+		<idno>doi: 10.1201/ 9781315152707 2</idno>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<biblScope unit="page">2020</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Designing the future of healthcare: the role of design research in shaping digital twin technologies. Design for Health</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tsekleves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename></persName>
+		</author>
+		<idno>doi: 10.1080/ 24735132.2025.2483479</idno>
+		<imprint>
+			<date type="published" when="2025" />
+			<biblScope unit="volume">0</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Digital twin for healthcare systems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vallée</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fdgth.2023.12530501</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Digital Health</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A service design and systems thinking approach to enabling new value propositions in digital twins with ai technologies</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Mangla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Digital Twins</title>
+				<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2024" />
+			<biblScope unit="page" from="274" to="290" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Triboelectric mat multimodal sensing system (tmmss) enhanced by infrared image perception for sleep and emotion-relevant activity monitoring</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/advs.202407888</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Advanced Science</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Toward a deeper understanding of the role of interaction in information visualization</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Yi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">A</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stasko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jacko</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/TVCG.2007.705152</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Visualization and Computer Graphics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1224" to="1231" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Predicting ventricular tachycardia circuits in patients with arrhythmogenic right ventricular cardiomyopathy using genotype-specific heart digital twins</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prakosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Zimmerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Carrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gasperetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tichnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Calkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Trayanova</surname></persName>
+		</author>
+		<idno type="DOI">10.7554/eLife.88865</idno>
+		<imprint>
+			<date type="published" when="2023-10" />
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Visual analytics for digital twins: a conceptual framework and case study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bao</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10845-023-02135-y1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Intell. Manuf</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1671" to="1686" />
+			<date type="published" when="2023-05" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Metaxai: Metahuman-assisted audio and visual explainability framework for internet of medical things</title>
+		<author>
+			<persName><forename type="first">İbrahim</forename><surname>Kök</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.bspc.2024.107034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biomedical Signal Processing and Control</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Table 1: List of the selected papers presenting digital twin systems in healthcare that include visualization, visual interfaces, interactive components, or decision support dashboard. Despite the different clinical domains and DT solutions, none of the reviewed works intentionally incorporates service design principles. Six studies do not reference or apply service design concepts, while the remaining works exhibit only implicit usage of SD principles. The list is sorted by publication year. # Ref. Year Domain SD Implicit Usage Title 1 [30] 2023 Diabetes Human Digital Twin for Personalized Elderly Type 2 Diabetes Management 2 [12] 2023 Rehabilitation Human Digital Twin-based interactive dashboards for informal caregivers of stroke patients 3 [37] 2023 Cardiology Predicting ventricular tachycardia circuits in patients with arrhythmogenic right ventricular cardiomyopathy using genotype-specific heart digital twins 4 [9] 2024 Rehabilitation A Hybrid Upper-Arm-Geared Exoskeleton with AnatomicalDigital Twin for Tangible Metaverse Feedback andCommunication 5 [8] 2024 Gastroenterology Application of Digital Twin and Heuristic Computer Reasoning to Workflow Management: Gastroenterology Outpatient Centers Study 6 [22] 2024 Cardiology Assessing Post-TAVR Cardiac Conduction Abnormalities Risk Using a Digital Twin of a Beating Heart</title>
+		<idno>https://visualanalyticshealthcare.github.io</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Telehealth Holistic Patient Assessment System using Digital Twin for XR Medical Teleconsultation 8 [27] 2024 Rehabilitation Innovative Metaheuristic Optimization Approach with a Bi-Triad for</title>
+				<imprint>
+			<date type="published" when="2024" />
+		</imprint>
+	</monogr>
+	<note>This is the author&apos;s version of the article that has been published in the proceedings of VAHC 2025 (16th workshop on Visual Analytics in Healthcare. Rehabilitation Exoskeletons 9 [23] 2024 Preventive Medicine Metaverse &amp; Human Digital Twin: Digital Identity, Biometrics, and Privacy in the Future Virtual Worlds</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Cardiology Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Diabetes CitySEIRCast: an agent-based city digital twin for pandemic analysis and simulation</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Preventive Medicine Digital twins as global learning health and disease models for preventive and personalized medicine 18 [39] 2025 Neurology MetaXAI: Metahuman-assisted audio and visual explainability framework for Internet of Medical Things 19 [21] 2025 Cardiology Personalized topology-informed localization of standard 12-lead ECG electrode placement from incomplete cardiac MRIs for efficient cardiac digital twins 20</title>
+	</analytic>
+	<monogr>
+		<title level="m">Somnology Triboelectric Mat Multimodal Sensing System (TMMSS) Enhanced by Infrared Image Perception for Sleep and Emotion-Relevant Activity Monitoring</title>
+				<imprint>
+			<date type="published" when="2025" />
+			<biblScope unit="volume">35</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

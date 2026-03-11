@@ -1,0 +1,1022 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Kepler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not. R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">1315</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Kleinman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J. Suppl. Ser</title>
+		<imprint>
+			<biblScope unit="volume">204</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Należyty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Madej</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astron. Astrophys</title>
+		<imprint>
+			<biblScope unit="volume">420</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">507</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vennes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">480</biblScope>
+			<biblScope unit="page">714</biblScope>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chandrasekhar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not. R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">207</biblScope>
+			<date type="published" when="1935" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hicken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J. Lett</title>
+		<imprint>
+			<biblScope unit="volume">669</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">L17</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamanaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J. Lett</title>
+		<imprint>
+			<biblScope unit="volume">707</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">L118</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Scalzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">713</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">1073</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Taubenberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not. R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">412</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">2735</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Leibundgut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Rel. Gravit</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">221</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Howell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">443</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Silverman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not. R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">410</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">585</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Franzon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schramm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page">83006</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Otoniel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Mod. Phys. Conf. Ser</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page">1760024</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">U</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mukhopadhyay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cosmol. Astropart. Phys</title>
+		<imprint>
+			<biblScope unit="volume">2014</biblScope>
+			<biblScope unit="issue">06</biblScope>
+			<biblScope unit="page">50</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">U</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mukhopadhyay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cosmol. Astropart. Phys</title>
+		<imprint>
+			<biblScope unit="volume">2015</biblScope>
+			<biblScope unit="issue">05</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bhattacharya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not.R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">445</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">3951</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophy. J</title>
+		<imprint>
+			<biblScope unit="volume">794</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Lobato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Malheiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Mod. Phys. D</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">09</biblScope>
+			<biblScope unit="page">1641025</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Malheiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ruffini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Publ. Astron. Soc. Jpn</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">56</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rueda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J. Lett</title>
+		<imprint>
+			<biblScope unit="volume">772</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">L24</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Malheiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Publ. Astron. Soc. Jpn</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mukhopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cosmol. Astropart. Phys</title>
+		<imprint>
+			<biblScope unit="volume">2016</biblScope>
+			<biblScope unit="issue">05</biblScope>
+			<biblScope unit="page">7</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cáceres</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not. R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">465</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">4434</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Kaplan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Naukovy Zapiski (Sci. Notes Univ. Lwow)</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">109</biblScope>
+			<date type="published" when="1949" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chandrasekhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Tooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page">1396</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lapidus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cameron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. Space Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">113</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Boshkayev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">762</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">117</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Boshkayev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ruffini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Mod. Phys. E</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">supp01</biblScope>
+			<biblScope unit="page">136</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Boshkayev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Korean Phys. Soc</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">855</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Boshkayev</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="2468" to="2474" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sagert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Phys</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">577</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mathew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Nandy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res. Astron. Astrophys</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bhattacharya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mon. Not.R. Astron. Soc</title>
+		<imprint>
+			<biblScope unit="volume">456</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">3375</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rotondo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ruffini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Xue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. C</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">45805</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rotondo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ruffini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Xue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. D</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">84007</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">An Introduction to the Study of Stellar Structure</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chandrasekhar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Astrophysical monographs</title>
+		<imprint>
+			<date type="published" when="1957" />
+			<publisher>Dover Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Rey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Martínez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sussman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Rel. Gravit</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">1499</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Salpeter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page">669</biblScope>
+			<date type="published" when="1961" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Salpeter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astrophys. J</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page">683</biblScope>
+			<date type="published" when="1961" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Adler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bazin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schiffer</surname></persName>
+		</author>
+		<title level="m">Introduction to general relativity</title>
+				<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Oppenheimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Volkoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">374</biblScope>
+			<date type="published" when="1939" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Tolman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">364</biblScope>
+			<date type="published" when="1939" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gautreau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Rel. Gravit</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">671</biblScope>
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Herrera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Rel. Gravit</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">437</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Penrose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Rel. Gravit</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">1141</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Knutsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Rel. Gravit</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">317</biblScope>
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Marinho</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Malheiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Conf. Ser</title>
+		<imprint>
+			<biblScope unit="volume">630</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">12058</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Marinho</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Malheiro</surname></persName>
+		</author>
+		<title level="m">WSCP Proceedings of THE SECOND ICRANET CÉSAR LAT-TES MEETING p</title>
+				<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Rel. Gravit</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">131</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>De Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rotondo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ruffini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. C</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">15801</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

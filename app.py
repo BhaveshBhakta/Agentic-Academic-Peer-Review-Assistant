@@ -62,20 +62,22 @@ def review():
 
         state = {
             "pdf_path": pdf_path,
-            "topic": topic if topic else "general"
+            "topic": topic if topic else "general",
+            "run_dir": run_dir
         }
 
         result = agent_graph.invoke(state)
 
         review_text = result.get("final_review_text", "")
+        review_file = os.path.join(run_dir, "review.txt")
+
+        with open(review_file, "w", encoding="utf-8") as f:
+            f.write(review_text)
 
         if not review_text or len(review_text.strip()) < 20:
-            review_file = "data/results/review.txt"
-
             if os.path.exists(review_file):
                 with open(review_file, "r", encoding="utf-8") as f:
                     review_text = f.read()
-
             else:
                 review_text = "Review generation failed."
 

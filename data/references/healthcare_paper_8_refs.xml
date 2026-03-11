@@ -1,0 +1,541 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Automated triaging of adult chest radiographs with deep artificial neural networks</title>
+		<author>
+			<persName><forename type="first">Mauro</forename><surname>Annarumma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samuel</forename><forename type="middle">J</forename><surname>Withey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">J</forename><surname>Bakewell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emanuele</forename><surname>Pesce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vicky</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giovanni</forename><surname>Montana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiology</title>
+		<imprint>
+			<biblScope unit="page">291</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Attention-based models for speech recognition</title>
+		<author>
+			<persName><forename type="first">Dzmitry</forename><surname>Jan K Chorowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dmitriy</forename><surname>Bahdanau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kyunghyun</forename><surname>Serdyuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yoshua</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bengio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Neural Information Processing Systems</title>
+				<editor>
+			<persName><forename type="first">C</forename><surname>Cortes</surname></persName>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Lawrence</surname></persName>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Lee</surname></persName>
+			<persName><forename type="first">M</forename><surname>Sugiyama</surname></persName>
+			<persName><forename type="first">R</forename><surname>Garnett</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="577" to="585" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Learning dense volumetric segmentation from sparse annotation</title>
+		<author>
+			<persName><forename type="first">Ahmed</forename><surname>Ozgün Ç Içek</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Abdulkadir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Soeren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Lienkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olaf</forename><surname>Brox</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ronneberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medical Image Computing and Computer-Assisted Intervention -MICCAI 2016</title>
+				<editor>
+			<persName><forename type="first">Sebastien</forename><surname>Ourselin</surname></persName>
+			<persName><forename type="first">Leo</forename><surname>Joskowicz</surname></persName>
+			<persName><forename type="first">R</forename><surname>Mert</surname></persName>
+			<persName><forename type="first">Gozde</forename><surname>Sabuncu</surname></persName>
+			<persName><forename type="first">William</forename><surname>Unal</surname></persName>
+			<persName><surname>Wells</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2016" />
+			<biblScope unit="page" from="424" to="432" />
+		</imprint>
+	</monogr>
+	<note>3d u-net</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Measuring abdominal aortic diameters in routine abdominal computed tomography scans and implications for abdominal aortic aneurysm screening</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Claridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neil</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andre</forename><forename type="middle">M</forename><surname>Van Rij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vascular Surgery</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page">16371642</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Deep learning in drug discovery and medicine; scratching the surface</title>
+		<author>
+			<persName><forename type="first">Dibyendu</forename><surname>Dana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Satishkumar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gadhiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Luce</surname></persName>
+		</author>
+		<author>
+			<persName><surname>St</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Surin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farha</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Quaisar</forename><surname>Naaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Latha</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Paka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mahesh</forename><surname>Yamin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Itzhak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Prakash</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Narayan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecules</title>
+		<imprint>
+			<biblScope unit="page">23</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">BERT: Pre-training of deep bidirectional transformers for language understanding</title>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Devlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ming-Wei</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kenton</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristina</forename><surname>Toutanova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</title>
+				<meeting>the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</meeting>
+		<imprint>
+			<date type="published" when="2019-06" />
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="4171" to="4186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A guide to deep learning in healthcare</title>
+		<author>
+			<persName><forename type="first">Andre</forename><surname>Esteva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexandre</forename><surname>Robicquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bharath</forename><surname>Ramsundar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Volodymyr</forename><surname>Kuleshov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Depristo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katherine</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claire</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Greg</forename><surname>Corrado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Thrun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeff</forename><surname>Dean</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Medicine</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="24" to="29" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Clinically applicable deep learning for diagnosis and referral in retinal disease</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>De Fauw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">R</forename><surname>Ledsam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernardino</forename><surname>Romera-Paredes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stanislav</forename><surname>Nikolov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nenad</forename><surname>Tomasev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Blackwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harry</forename><surname>Askham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xavier</forename><surname>Glorot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Brendan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Donoghue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">George</forename><surname>Visentin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Balaji</forename><surname>Van Den Driessche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clemens</forename><surname>Lakshminarayanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Faith</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Mackinder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kareem</forename><surname>Bouton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Reena</forename><surname>Ayoub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dominic</forename><surname>Chopra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Karthikesalingam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Can</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rosalind</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Raine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dawn</forename><forename type="middle">A</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Sim</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Egan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Medicine</title>
+		<editor>Peng T. Khaw, Mustafa Suleyman, Julien Cornebise, Pearse A. Keane, and Olaf Ronneberger</editor>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1342" to="1350" />
+			<date type="published" when="2018" />
+			<publisher>Adnan Tufail</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Deep residual learning for image recognition</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</title>
+				<imprint>
+			<date type="published" when="2016-06" />
+			<biblScope unit="page" from="770" to="778" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The rise and &apos;fall&apos; of expert systems in medicine</title>
+		<author>
+			<persName><forename type="first">Heather</forename><surname>Heathfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Systems</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="183" to="188" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Imagenet classification with deep convolutional neural networks</title>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Krizhevsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ilya</forename><surname>Sutskever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><forename type="middle">E</forename><surname>Hinton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Neural Information Processing Systems</title>
+				<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1097" to="1105" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jen-Tang</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rupert</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jin</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Varun</forename><surname>Buch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gopal</forename><surname>Kotecha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katherine</forename><forename type="middle">P</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Deepaaa: Clinically applicable and generalizable detection of abdominal aortic aneurysm using deep learning</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Andriole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joel</forename><surname>Ghoshhajra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Vozila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neil</forename><forename type="middle">A</forename><surname>Michalski</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tenenholtz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medical Image Computing and Computer Assisted Intervention -MICCAI 2019</title>
+				<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2019" />
+			<biblScope unit="page" from="723" to="731" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Deep biomarkers of human aging: Application of deep neural networks to biomarker development</title>
+		<author>
+			<persName><forename type="first">Evgeny</forename><surname>Putin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Polina</forename><surname>Mamoshina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Aliper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mikhail</forename><surname>Korzinkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexey</forename><surname>Moskalev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexey</forename><surname>Kolosov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Ostrovskiy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Cantor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Zhavoronkov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aging</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1021" to="1030" />
+			<date type="published" when="2016-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

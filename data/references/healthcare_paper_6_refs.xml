@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Health Care Utilization and Cost Associated with Biologic Treatment Patterns Among Patients with Moderate to Severe Psoriasis: Analyses from a Large U.S. Claims Database</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Steven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haijun</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xinyue</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rebecca</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Germino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Managed Care and Specialty Pharmacy</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="479" to="488" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Non-restarting cumulative sum charts and control of the false discovery rate</title>
+		<author>
+			<persName><forename type="first">Axel</forename><surname>Gandy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Din-Houn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="261" to="268" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Optimality of non-restarting CUSUM charts</title>
+		<author>
+			<persName><forename type="first">Axel</forename><surname>Gandy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Din-Houn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sequential Analysis</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="458" to="468" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Trevor</forename><surname>Hastie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Tibshirani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jerome</forename><surname>Friedman</surname></persName>
+		</author>
+		<title level="m">The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd</title>
+				<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Get the Most Comprehensive Drug Pricing and Product Information Available -From a Single Source</title>
+		<author>
+			<persName><surname>Ibm Watson Health</surname></persName>
+		</author>
+		<ptr target="http://truvenhealth.com/Portals/0/Assets/AWP/PROV_19262_0818_Red_Book_Online_Data_Sheet_final.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">White Paper</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">IBM MarketScan Research Databases for Health Services Researchers</title>
+		<author>
+			<persName><surname>Ibm Watson Health</surname></persName>
+		</author>
+		<ptr target="https://www.ibm.com/downloads/cas/6KNYVVQ2" />
+		<imprint>
+			<date type="published" when="2018" />
+			<publisher>White Paper</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">The Medical Episode GrouperL Applications and Methodology</title>
+		<author>
+			<persName><surname>Ibm Watson Health</surname></persName>
+		</author>
+		<ptr target="https://www.ibm.com/downloads/cas/EZALXAMB" />
+		<imprint>
+			<date type="published" when="2018" />
+			<publisher>White Paper</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Toward Comprehensive Attribution of Healthcare Cost Changes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dmitriy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dennis</forename><surname>Katz-Rogozhnikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gigi</forename><forename type="middle">Y</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Yuen-Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE International Conference on Data Mining Workshop</title>
+				<imprint>
+			<publisher>ICDMW</publisher>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="146" to="155" />
+		</imprint>
+	</monogr>
+	<note>Karthikeyan Natesan Ramamurthy, and Aleksandra Mojsilovic</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Initiating statistical process control to improve quality outcomes in colorectal surgery</title>
+		<author>
+			<persName><forename type="first">Deborah</forename><forename type="middle">S</forename><surname>Keller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonah</forename><forename type="middle">J</forename><surname>Stulberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Justin</forename><forename type="middle">K</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hoda</forename><surname>Samia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Conor</forename><forename type="middle">P</forename><surname>Delaney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Surg Endosc</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="3559" to="3564" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Impact of Implementation of Electronically Transmitted Referrals on Pediatric Subspecialty Visit Attendance</title>
+		<author>
+			<persName><forename type="first">Kristin</forename><forename type="middle">N</forename><surname>Ray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Drnach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ateev</forename><surname>Mehrotra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Srinivaan</forename><surname>Suresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">G</forename><surname>Docimo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academic Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="409" to="417" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Application of statistical process control in healthcare improvement: systematic review</title>
+		<author>
+			<persName><forename type="first">Johan</forename><surname>Thor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonas</forename><surname>Lundberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jakob</forename><surname>Ask</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jesper</forename><surname>Olsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cheryl</forename><surname>Carli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Quality and Safety</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="387" to="399" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>Karin Pukk H arenstam, and Mats Brommels</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

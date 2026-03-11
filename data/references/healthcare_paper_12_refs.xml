@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Improving safety with information technology</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Gawande</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="2526" to="2534" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Botterman</surname></persName>
+		</author>
+		<ptr target="http://ec.europa.eu/information_society/policy/rfid/documents/iotprague2009.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Internet of Things: an early reality of the Future Internet</title>
+				<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The Global Market for RFID in Healthcare</title>
+	</analytic>
+	<monogr>
+		<title level="m">Kalorama Information</title>
+				<imprint>
+			<date type="published" when="2010-05-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">RFID Radio Frequency Identification, OECD Policy Guidance</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Corrigan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Donaldson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Ministerial Meeting on the Future of the Internet Economy</title>
+				<meeting><address><addrLine>Seoul, Korea</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Academy Press. Organisation for Economic Co-operation and Development-OECD</publisher>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="17" to="18" />
+		</imprint>
+		<respStmt>
+			<orgName>Institute of Medicine</orgName>
+		</respStmt>
+	</monogr>
+	<note>To Err is Human, Building a Safer Health System</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Radio Frequency Identification (RFID)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers and Security</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="18" to="26" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wolfram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gampl</surname></persName>
+		</author>
+		<title level="m">Cluster of European RFID Projects -CERP, 2nd CERP Meeting</title>
+				<meeting><address><addrLine>Brussels</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">ITU Internet Reports, The Internet of Things</title>
+				<imprint>
+			<date type="published" when="2005-11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
