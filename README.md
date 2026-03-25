@@ -56,7 +56,8 @@ This tool analyzes research papers to provide structured, reviewer-style feedbac
 
 <img width="1835" height="1080" alt="Screenshot_20250925_193919" src="https://github.com/user-attachments/assets/74a1444b-03c6-4811-a6aa-138425cf8aa3" />
 <img width="1840" height="971" alt="Screenshot_20250919_112236" src="https://github.com/user-attachments/assets/a1871891-43a0-485b-bd38-899c9480b883" />
-<img width="1851" height="1080" alt="Screenshot_20250925_193809" src="https://github.com/user-attachments/assets/e4d8c603-92b5-4fe6-938f-6bce016a82f6" />
+<img width="1844" height="1080" alt="peerreview" src="https://github.com/user-attachments/assets/de7632b3-403b-4151-9cbd-e46dc12a5706" />
+
 
 ---
 
@@ -121,32 +122,11 @@ npm run dev
 ---
 
 ## High-Level Architecture
+![peerarch](https://github.com/user-attachments/assets/540535ce-deaa-436e-ae4d-65e8b221a161)
 
-```
-User (Browser, PDF Upload)
-        ↓
-     React Frontend
-        ↓
-      Flask API
-        ↓
- ┌──────────── Agentic Pipeline ─────────────┐
- │  1. Planner Agent (tool selection)        │
- │  2. RAG Retrieval (FAISS literature)      │
- │  3. Automated Analysis Tools              │
- │     - Novelty Check                       │
- │     - Plagiarism Detection                │
- │     - Citation Quality Analysis           │
- │     - Claim Mapping                       │
- │     - Factual Consistency Check           │
- │  4. Reviewer Agent                        │
- │  5. Critic Agent                          │
- │  6. Meta Reviewer (final review)          │
- └───────────────────────────────────────────┘
-        ↓
-   Structured Peer Review Report
-```
+---
 
-**Deep Search Flow**
+## Deep Search Flow
 
 If the user enables **Deep Search**:
 
