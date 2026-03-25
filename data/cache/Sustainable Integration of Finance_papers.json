@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Environmental sustainability in basic research: a perspective from HECAP+",
+        "abstract": "The climate crisis and the degradation of the world's ecosystems require humanity to take immediate action. The international scientific community has a responsibility to limit the negative environmental impacts of basic research. The HECAP+ communities (High Energy Physics, Cosmology, Astroparticle Physics, and Hadron and Nuclear Physics) make use of common and similar experimental infrastructure, such as accelerators and observatories, and rely similarly on the processing of big data. Our communities therefore face similar challenges to improving the sustainability of our research. This document aims to reflect on the environmental impacts of our work practices and research infrastructure, to highlight best practice, to make recommendations for positive changes, and to identify the opportunities and challenges that such changes present for wider aspects of social responsibility.",
+        "link": "https://arxiv.org/abs/2306.02837v2",
+        "published": "2023-06-05T12:35:49Z",
+        "pdf_url": "http://arxiv.org/pdf/2306.02837v2.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_1.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_1.pdf"
+    },
+    {
+        "title": "FinRL: Deep Reinforcement Learning Framework to Automate Trading in Quantitative Finance",
+        "abstract": "Deep reinforcement learning (DRL) has been envisioned to have a competitive edge in quantitative finance. However, there is a steep development curve for quantitative traders to obtain an agent that automatically positions to win in the market, namely \\textit{to decide where to trade, at what price} and \\textit{what quantity}, due to the error-prone programming and arduous debugging. In this paper, we present the first open-source framework \\textit{FinRL} as a full pipeline to help quantitative traders overcome the steep learning curve. FinRL is featured with simplicity, applicability and extensibility under the key principles, \\textit{full-stack framework, customization, reproducibility} and \\textit{hands-on tutoring}.\n  Embodied as a three-layer architecture with modular structures, FinRL implements fine-tuned state-of-the-art DRL algorithms and common reward functions, while alleviating the debugging workloads. Thus, we help users pipeline the strategy design at a high turnover rate. At multiple levels of time granularity, FinRL simulates various markets as training environments using historical data and live trading APIs. Being highly extensible, FinRL reserves a set of user-import interfaces and incorporates trading constraints such as market friction, market liquidity and investor's risk-aversion. Moreover, serving as practitioners' stepping stones, typical trading tasks are provided as step-by-step tutorials, e.g., stock trading, portfolio allocation, cryptocurrency trading, etc.",
+        "link": "https://arxiv.org/abs/2111.09395v1",
+        "published": "2021-11-07T00:34:32Z",
+        "pdf_url": "http://arxiv.org/pdf/2111.09395v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_2.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_2.pdf"
+    },
+    {
+        "title": "Quantum Game Theory in Finance",
+        "abstract": "This is a short review of the background and recent development in quantum game theory and its possible application in economics and finance. The intersection of science and society is also discussed. The review is addressed to non--specialists.",
+        "link": "https://arxiv.org/abs/quant-ph/0406129v1",
+        "published": "2004-06-18T12:50:24Z",
+        "pdf_url": "http://arxiv.org/pdf/quant-ph/0406129v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_3.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_3.pdf"
+    },
+    {
+        "title": "A model-free approach to continuous-time finance",
+        "abstract": "We present a non-probabilistic, pathwise approach to continuous-time finance based on causal functional calculus. We introduce a definition of self-financing, free from any integration concept and show that the value of a self-financing portfolio is a pathwise integral (every self-financing strategy is a gradient) and that generic domain of functional calculus is inherently arbitrage-free. We then consider the problem of hedging a path-dependent payoff across a generic set of scenarios. We apply the transition principle of Isaacs in differential games and obtain a verification theorem for the optimal solution, which is characterised by a fully non-linear path-dependent equation. For the Asian option, we obtain explicit solution.",
+        "link": "https://arxiv.org/abs/2211.15531v1",
+        "published": "2022-11-28T16:39:35Z",
+        "pdf_url": "http://arxiv.org/pdf/2211.15531v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_4.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_4.pdf"
+    },
+    {
+        "title": "FinRL-Podracer: High Performance and Scalable Deep Reinforcement Learning for Quantitative Finance",
+        "abstract": "Machine learning techniques are playing more and more important roles in finance market investment. However, finance quantitative modeling with conventional supervised learning approaches has a number of limitations. The development of deep reinforcement learning techniques is partially addressing these issues. Unfortunately, the steep learning curve and the difficulty in quick modeling and agile development are impeding finance researchers from using deep reinforcement learning in quantitative trading. In this paper, we propose an RLOps in finance paradigm and present a FinRL-Podracer framework to accelerate the development pipeline of deep reinforcement learning (DRL)-driven trading strategy and to improve both trading performance and training efficiency. FinRL-Podracer is a cloud solution that features high performance and high scalability and promises continuous training, continuous integration, and continuous delivery of DRL-driven trading strategies, facilitating a rapid transformation from algorithmic innovations into a profitable trading strategy. First, we propose a generational evolution mechanism with an ensemble strategy to improve the trading performance of a DRL agent, and schedule the training of a DRL algorithm onto a GPU cloud via multi-level mapping. Then, we carry out the training of DRL components with high-performance optimizations on GPUs. Finally, we evaluate the FinRL-Podracer framework for a stock trend prediction task on an NVIDIA DGX SuperPOD cloud. FinRL-Podracer outperforms three popular DRL libraries Ray RLlib, Stable Baseline 3 and FinRL, i.e., 12% \\sim 35% improvements in annual return, 0.1 \\sim 0.6 improvements in Sharpe ratio and 3 times \\sim 7 times speed-up in training time. We show the high scalability by training a trading agent in 10 minutes with $80$ A100 GPUs, on NASDAQ-100 constituent stocks with minute-level data over 10 years.",
+        "link": "https://arxiv.org/abs/2111.05188v1",
+        "published": "2021-11-07T01:03:15Z",
+        "pdf_url": "http://arxiv.org/pdf/2111.05188v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_5.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_5.pdf"
+    },
+    {
+        "title": "The Role of Central Banks in Advancing Sustainable Finance",
+        "abstract": "This paper examines the pivotal role central banks play in advancing sustainable finance, a crucial component in addressing global environmental and social challenges. As supervisors of financial stability and economic growth, central banks have dominance over the financial system to influence how a country moves towards sustainable economy. The chapter explores how central banks integrate sustainability into their monetary policies, regulatory frameworks, and financial market operations. It highlights the ways in which central banks can promote green finance through sustainable investment principles, climate risk assessments, and green bond markets. Additionally, the chapter examines the collaborative efforts between central banks, governments, and international institutions to align financial systems with sustainability goals. By investigating case studies and best practices, the chapter provides a comprehensive understanding of the strategies central banks employ to foster a resilient and sustainable financial landscape. The findings underscore the imperative for central banks to balance traditional mandates with the emerging necessity to support sustainable development, ultimately contributing to the broader agenda of achieving global sustainability targets.",
+        "link": "https://arxiv.org/abs/2411.13576v1",
+        "published": "2024-11-14T12:59:47Z",
+        "pdf_url": "http://arxiv.org/pdf/2411.13576v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_6.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_6.pdf"
+    },
+    {
+        "title": "Large Language Models in Finance: A Survey",
+        "abstract": "Recent advances in large language models (LLMs) have opened new possibilities for artificial intelligence applications in finance. In this paper, we provide a practical survey focused on two key aspects of utilizing LLMs for financial tasks: existing solutions and guidance for adoption.\n  First, we review current approaches employing LLMs in finance, including leveraging pretrained models via zero-shot or few-shot learning, fine-tuning on domain-specific data, and training custom LLMs from scratch. We summarize key models and evaluate their performance improvements on financial natural language processing tasks.\n  Second, we propose a decision framework to guide financial professionals in selecting the appropriate LLM solution based on their use case constraints around data, compute, and performance needs. The framework provides a pathway from lightweight experimentation to heavy investment in customized LLMs.\n  Lastly, we discuss limitations and challenges around leveraging LLMs in financial applications. Overall, this survey aims to synthesize the state-of-the-art and provide a roadmap for responsibly applying LLMs to advance financial AI.",
+        "link": "https://arxiv.org/abs/2311.10723v2",
+        "published": "2023-09-28T06:04:04Z",
+        "pdf_url": "http://arxiv.org/pdf/2311.10723v2.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_7.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_7.pdf"
+    },
+    {
+        "title": "How Decentralized is the Governance of Blockchain-based Finance: Empirical Evidence from four Governance Token Distributions",
+        "abstract": "Novel blockchain technology provides the infrastructure layer for the creation of decentralized appli-cations. A rapidly growing ecosystem of applications is built around financial services, commonly referred to as decentralized finance. Whereas the intangible concept of decentralization is presented as a key driver for the applications, defining and measuring decentralization is multifaceted. This pa-per provides a framework to quantify decentralization of governance power among blockchain appli-cations. Governance of the applications is increasingly important and requires striking a balance be-tween broad distribution, fostering user activity, and financial incentives. Therefore, we aggregate, parse, and analyze empirical data of four finance applications calculating coefficients for the statistical dispersion of the governance token distribution. The gauges potentially support IS scholars for an objective evaluation of the capabilities and limitations of token governance and for fast iteration in design-driven governance mechanisms.",
+        "link": "https://arxiv.org/abs/2102.10096v2",
+        "published": "2021-02-02T09:52:26Z",
+        "pdf_url": "http://arxiv.org/pdf/2102.10096v2.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_8.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_8.pdf"
+    },
+    {
+        "title": "Impact of the Global Crisis on SME Internal vs. External Financing in China",
+        "abstract": "Changes in the capital structure before and after the global financial crisis for SMEs are studied, emphasizing their financing problems, distinguishing between internal financing and external financing determinants. The empirical research bears upon 158 small and medium-sized firms listed on Shenzhen and Shanghai Stock Exchanges in China over the period of 2004-2014. A regression analysis, along the lines of the Trade-Off Theory, shows that the leverage decreases with profitability, non-debt tax shields and the liquidity, and increases with firm size and tangibility. A positive relationship is found between firm growth and debt ratio, though not highly significantly. It is shown that the SMEs with high growth rates are those which will more easily obtain external financing after a financial crisis. It is recognized that the China government should reconsider SMEs taxation laws.",
+        "link": "https://arxiv.org/abs/1707.06635v1",
+        "published": "2017-07-01T10:05:08Z",
+        "pdf_url": "http://arxiv.org/pdf/1707.06635v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_9.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_9.pdf"
+    },
+    {
+        "title": "Unlocking The Future of Food Security Through Access to Finance for Sustainable Agribusiness Performance",
+        "abstract": "Access to finance is vital for improving food security, particularly in developing nations where agricultural production is crucial. Despite several financial interventions targeted at increasing agricultural production, smallholder farmers continue to lack access to reasonable, timely, and sufficient financing, limiting their ability to invest in improved technology and inputs, lowering productivity and food supply. This study examines the relationship between access to finance and food security among smallholder farmers in Ogun State, employing institutional theory as a theoretical framework. The study takes a quantitative method, with a survey for the research design and a population of 37,200 agricultural smallholder farmers. A sample size of 380 was chosen using probability sampling and simple random techniques. The data were analysed via Partial Least Squares Structural Equation Modelling (PLS-SEM). The findings demonstrate a favourable relationship between access to finance and food security, with an R2-value of 0.615 indicating a robust link. These findings underline the need of improving financial institutions and implementing enabling policies to enable farmers have access to the financial resources they need to achieve food security outcomes.",
+        "link": "https://arxiv.org/abs/2511.18576v1",
+        "published": "2025-11-23T18:42:00Z",
+        "pdf_url": "http://arxiv.org/pdf/2511.18576v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_10.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_10.pdf"
+    },
+    {
+        "title": "Essays on Responsible and Sustainable Finance",
+        "abstract": "The dissertation consists of three essays on responsible and sustainable finance. I show that local communities should be seen as stakeholders to decisions made by corporations. In the first essay, I examine whether the imposition of fiduciary duty on municipal advisors affects bond yields and advising fees. Using a difference-in-differences analysis, I show that bond yields reduce by 9\\% after the imposition of the SEC Municipal Advisor Rule. In the second essay, we analyze the impact of USD 40 billion of corporate subsidies given by U.S. local governments on their borrowing costs. We find that winning counties experience a 15 bps increase in bond yield spread as compared to the losing counties. In the third essay, we provide new evidence that the bankruptcy filing of a locally-headquartered and publicly-listed manufacturing firm imposes externalities on the local governments. Compared to matched counties with similar economic trends, municipal bond yields for affected counties increase by 10 bps within a year of the firm filing for bankruptcy. The final essay examines whether managers walk the talk on the environmental and social discussion. We train a deep-learning model on various corporate sustainability frameworks to construct a comprehensive Environmental and Social (E and S) dictionary. Using this dictionary, we find that the discussion of environmental topics in the earnings conference calls of U.S. public firms is associated with higher pollution abatement and more future green patents.",
+        "link": "https://arxiv.org/abs/2406.12995v1",
+        "published": "2024-06-18T18:34:22Z",
+        "pdf_url": "http://arxiv.org/pdf/2406.12995v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_11.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_11.pdf"
+    },
+    {
+        "title": "Econophysics: Empirical facts and agent-based models",
+        "abstract": "This article aims at reviewing recent empirical and theoretical developments usually grouped under the term Econophysics. Since its name was coined in 1995 by merging the words Economics and Physics, this new interdisciplinary field has grown in various directions: theoretical macroeconomics (wealth distributions), microstructure of financial markets (order book modelling), econometrics of financial bubbles and crashes, etc. In the first part of the review, we discuss on the emergence of Econophysics. Then we present empirical studies revealing statistical properties of financial time series. We begin the presentation with the widely acknowledged stylized facts which describe the returns of financial assets- fat tails, volatility clustering, autocorrelation, etc.- and recall that some of these properties are directly linked to the way time is taken into account. We continue with the statistical properties observed on order books in financial markets. For the sake of illustrating this review, (nearly) all the stated facts are reproduced using our own high-frequency financial database. Finally, contributions to the study of correlations of assets such as random matrix theory and graph theory are presented. In the second part of the review, we deal with models in Econophysics through the point of view of agent-based modelling. Amongst a large number of multi-agent-based models, we have identified three representative areas. First, using previous work originally presented in the fields of behavioural finance and market microstructure theory, econophysicists have developed agent-based models of order-driven markets that are extensively presented here. Second, kinetic theory models designed to explain some empirical facts on wealth distribution are reviewed. Third, we briefly summarize game theory models by reviewing the now classic minority game and related problems.",
+        "link": "https://arxiv.org/abs/0909.1974v2",
+        "published": "2009-09-10T15:25:45Z",
+        "pdf_url": "http://arxiv.org/pdf/0909.1974v2.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_12.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_12.pdf"
+    },
+    {
+        "title": "Electrification of Clay Calcination: A First Look into Dynamic Modeling and Energy Management for Integration with Sustainable Power Grids",
+        "abstract": "This article explores the electrification in clay calcination, proposing a dynamic model and energy management strategy for the integration of electrified calcination plants into sustainable power grids. A theoretical dynamic modeling of the electrified calcination process is introduced, aiming at outlining temperature profiles and energy usage - thus exploring the feasibility of electrification. The model serves as a tool for optimizing parameters, estimating system behavior, and enabling model-based process control. An innovative energy management model is also presented, ensuring efficient assimilation of electrified calcination plants into the power grid. It encapsulates demand-supply balancing and optimizes renewable energy usage. In essence, we provide an insightful pathway to a more sustainable cement production, underlining the value of renewable energy sources and effective energy management in the context of clay calcination.",
+        "link": "https://arxiv.org/abs/2404.12695v1",
+        "published": "2024-04-19T07:53:05Z",
+        "pdf_url": "http://arxiv.org/pdf/2404.12695v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_13.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_13.pdf"
+    },
+    {
+        "title": "Cross-disciplinary integration towards sustainable construction",
+        "abstract": "The built environment is the basis for human experience in the world, yet its current practices contribute significantly to global greenhouse gas emissions, resource depletion, and environmental degradation. This chapter explores the critical role of cross-disciplinary integration in achieving sustainable construction, emphasising the need to bridge the gaps between material science, architecture, engineering, environmental studies, and social sciences. By examining past and present examples and trends we explore how holistic, systems-oriented approaches can drive innovation and sustainability. We examine how the siloed nature of modern disciplines has hindered progress, leading to fragmented outcomes and missed opportunities for circularity and resource efficiency. We present the case for a paradigm shift towards cross-disciplinarity, where stakeholders across sectors and disciplines collaborate to create cohesive solutions that balance technical and economic performance, environmental stewardship, and social equity. This chapter addresses the economic and regulatory barriers that impede the adoption of sustainable materials and practices, advocating for structural changes in education, industry, and policy and highlighting the tools that are now enhancing this integration of knowledge. Ultimately, this work underscores the transformative potential of cross-disciplinary integration in redefining the built environment, offering a roadmap for achieving sustainability through collaboration, innovation, and a shared commitment to planetary well-being.",
+        "link": "https://arxiv.org/abs/2603.00091v1",
+        "published": "2026-02-16T21:15:46Z",
+        "pdf_url": "http://arxiv.org/pdf/2603.00091v1.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_14.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_14.pdf"
+    },
+    {
+        "title": "Is decentralized finance actually decentralized? A social network analysis of the Aave protocol on the Ethereum blockchain",
+        "abstract": "Decentralized finance (DeFi) has the potential to disrupt centralized finance by validating peer-to-peer transactions through tamper-proof smart contracts, thus significantly lowering the transaction cost charged by financial intermediaries. However, the actual realization of peer-to-peer transactions and the levels and effects of decentralization are largely unknown. Our research pioneers a blockchain network study that applies social network analysis to measure the level, dynamics, and impacts of decentralization in DeFi token transactions on the Ethereum blockchain. First, we find a significant core-periphery structure in the AAVE token transaction network where the cores include the two largest centralized crypto exchanges. Second, we provide evidence that multiple network features consistently characterize decentralization dynamics. Finally, we document that a more decentralized network significantly predicts a higher return and lower volatility of the decentralized market of AAVE tokens on the Ethereum blockchain. We point out that our approach is seminal for inspiring future extensions related to the facets of application scenarios, research questions, and methodologies on the mechanics of blockchain decentralization.",
+        "link": "https://arxiv.org/abs/2206.08401v4",
+        "published": "2022-06-16T18:26:38Z",
+        "pdf_url": "http://arxiv.org/pdf/2206.08401v4.pdf",
+        "txt_path": "data/parsed_text/Sustainable Integration of Finance_paper_15.txt",
+        "pdf_path": "data/pdfs/Sustainable Integration of Finance_paper_15.pdf"
+    }
+]

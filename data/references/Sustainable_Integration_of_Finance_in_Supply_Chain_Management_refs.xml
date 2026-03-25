@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sustainable Integration of Finance in Supply Chain Management</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mahima</forename><surname>Hardiya</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Shri G. S. Institute of Technology and Science</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Sustainable Integration of Finance in Supply Chain Management</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2" ident="GROBID" when="2026-03-25T07:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The convergence of financial management and supply chain operations remains under-theorized regarding its role in the global transition to ESG compliance. This paper addresses the "Liquidity-Sustainability Paradox"-where stringent ESG requirements often marginalize capital-constrained suppliers-by proposing a novel Sustainable Supply Chain Finance Index (SSCF Index). Using a systems-based framework, we analyze the integration of green financial instruments and digital enablers. Our findings suggest that technological transparency is a prerequisite for mitigating "greenwashing" risks in supply chain finance. This study contributes a standardized evaluative tool for practitioners and a theoretical foundation for future empirical research in sustainable finance.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. Introduction</head><p>Global supply chains are undergoing a transformation driven by financial efficiency and sustainability requirements. Increasing pressure from stakeholders has led firms to integrate ESG considerations into supply chain operations.</p><p>Traditional supply chain management focused on cost and efficiency, but modern systems emphasize sustainability, resilience, and transparency. Supply chain finance has evolved into Sustainable Supply Chain Finance (SSCF), linking financing to ESG performance.</p><p>Despite the proliferation of Green Finance, a significant research gap exists in how these instruments translate to operational resilience at the tier-2 and tier-3 supplier levels. Current models often fail to account for the technical and financial barriers faced by Small and Medium Enterprises (SMEs). This paper fills that void by proposing a multi-dimensional index that balances financial efficiency with social and environmental accountability.</p><p>This paper examines the mechanisms through which financial integration supports sustainability and proposes a structured evaluation framework.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. Literature Review</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Sustainable Supply Chain Management</head><p>Sustainable Supply Chain Management (SSCM) can be understood as the coordinated management of supply chain activities while simultaneously addressing economic performance, environmental impact, and social responsibility.Existing literature highlights that sustainability and financial performance can be mutually reinforcing.</p><p>Research has demonstrated that environmentally sustainable practices contribute positively to firm performance. Additionally, recent studies emphasize the role of governance, inter-organizational relationships, and resilience in achieving sustainable outcomes <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b15">16]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Supply Chain Finance</head><p>Supply Chain Finance (SCF) involves the use of financial instruments to optimize working capital across supply chains. Common mechanisms include reverse factoring, dynamic discounting, and inventory financing.</p><p>Recent research has explored how SCF can incorporate sustainability incentives, particularly benefiting small and medium enterprises <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b17">18]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">ESG Finance</head><p>ESG finance integrates environmental, social, and governance criteria into financial decision-making. The growing importance of ESG factors has significantly influenced corporate investment and valuation strategies.</p><p>Empirical evidence consistently suggests a positive association between strong ESG performance and improved financial outcomes <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b11">12]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">Green Finance</head><p>Green finance focuses on investments in environmentally sustainable projects. Instruments such as green bonds and sustainability-linked loans play a key role in funding sustainable initiatives. These instruments act as catalysts for sustainability transformation within supply chains.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>III. Research Methodology</head><p>The research methodology adopted in this study is based on a systematic literature review approach to ensure a comprehensive and unbiased synthesis of existing knowledge.</p><p>The study relies on secondary data collected from academic databases such as Google Scholar and Scopus. The review focuses on literature published between 2018 and 2024.</p><p>Following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, the search was executed across Scopus, Web of Science, and ScienceDirect. The initial corpus of N = 450 records was subjected to a three-stage filtration process: (1) title and abstract screening for thematic relevance, (2) full-text eligibility assessment based on peer-review status, and (3) qualitative synthesis. This resulted in a final selection of n = 85 foundational studies.</p><p>This structured approach enhances methodological transparency and reproducibility.</p><p>The findings were synthesized using a thematic analysis approach, enabling identification of key research trends and gaps.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. Conceptual Framework</head><p>This study advances the understanding of sustainable supply chain finance by proposing an integrated systemsbased model capturing the interaction between financial instruments, governance, and technology.</p><p>The framework is structured into three layers: inputs, processes, and outputs, with feedback loops ensuring continuous improvement.</p><p>Inputs include financial instruments such as green bonds and sustainability-linked loans, governance structures such as policies and ESG compliance requirements, and technological enablers such as blockchain and data analytics.</p><p>The process layer represents the interaction of these components. Financial instruments are operationalized through governance structures to ensure alignment with sustainability objectives. Technology enhances transparency, automation, and real-time monitoring.</p><p>Outputs include improved financial performance, enhanced ESG outcomes, increased transparency, and supply chain resilience.</p><p>Feedback loops connect outputs back to inputs and processes, enabling continuous system refinement.</p><p>Figure <ref type="figure" target="#fig_0">1</ref> illustrates the Integrated Sustainable Supply Chain Finance Model. V. Sustainable Supply Chain Finance Index (SSCF Index)</p><p>The Sustainable Supply Chain Finance Index (SSCF Index) is proposed as a composite framework to evaluate how effectively organizations integrate sustainability into supply chain finance practices.</p><p>The index is based on five dimensions: financial sustainability, ESG integration, supplier inclusion, technology adoption, and governance quality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1">Dimensions and Indicators</head><p>Financial Sustainability (Weight: 0.25) This dimension evaluates financial efficiency and stability in supply chain finance. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2">Index Formulation</head><p>To ensure commensurability across heterogeneous indicators, we apply a Min-Max normalization to each variable x ij , yielding a standardized score</p><formula xml:id="formula_0">x ′ ij ∈ [0, 1].</formula><p>The SSCF Index is formulated as a weighted aggregate:</p><formula xml:id="formula_1">SSCF = n j=1 w j 1 m m i=1 x ′ ij (1)</formula><p>where w j represents the relative importance of the jth dimension, determined through an initial literaturebased weighting. This prevents the "dilution effect" where high performance in governance masks critical failures in environmental impact.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3">Discussion</head><p>The SSCF Index provides a structured framework for evaluating sustainable financial integration and enables cross-industry comparison.</p><p>However, the index remains conceptual and requires empirical validation across industries and regions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>VI. Role of Financial Integration in Supply</head><p>Chain Sustainability</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.1">Working Capital Optimization and Sustainability Incentives</head><p>The management of working capital has direct implications for sustainability outcomes. Limited liquidity often forces suppliers to compromise on environmental and social standards. Sustainable Supply Chain Finance (SSCF) programs address this by linking financing conditions to ESG performance. Suppliers with higher sustainability performance gain access to preferential financing rates, aligning financial incentives with sustainability goals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.2">Risk Management and Financial Transparency</head><p>Integrating sustainability into financial decision-making enhances risk management by addressing environmental, social, and regulatory risks. Financial transparency, supported by sustainability disclosures, enables accurate risk assessment and strengthens supply chain resilience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.3">Supplier Financing Mechanisms</head><p>Mechanisms such as reverse factoring and dynamic discounting can incorporate sustainability criteria. These instruments facilitate capital flow while encouraging sustainable practices.</p><p>Development finance institutions also support sustainable transformation, particularly in emerging economies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>VII. Green Finance and Sustainable Supply Chains 7.1 Green Bonds and Sustainability-Linked Instruments</head><p>Green bonds and sustainability-linked financial instruments serve as key mechanisms for channeling capital toward environmentally sustainable initiatives. Sustainability-linked loans adjust financing costs based on ESG performance, ensuring accountability while maintaining flexibility <ref type="bibr" target="#b6">[7]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.2">Green Credit Policies</head><p>Green credit policies require financial institutions to incorporate environmental risks into lending decisions, in-fluencing supply chain behavior.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.3">Responsible Procurement Finance</head><p>Responsible procurement finance uses financial relationships to promote sustainability. Buyers incentivize compliance through favorable payment terms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>VIII. Role of Technology in SSCF 8.1 FinTech Platforms</head><p>FinTech platforms improve efficiency and accessibility by providing real-time visibility and dynamic financing solutions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.2">Blockchain and Transparency</head><p>Blockchain technology improves traceability while significantly reducing the risk of greenwashing through immutable transaction records <ref type="bibr" target="#b14">[15]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.3">ESG Analytics</head><p>Advanced analytics tools enable data-driven sustainability evaluation and risk identification across supply chains.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IX. Benefits of Sustainable Financial Integration</head><p>The integration of sustainability into supply chain finance provides multiple advantages. These benefits include enhanced resilience driven by stronger and more collaborative supplier relationships, cost reduction through operational efficiency, enhanced access to capital, and increased stakeholder trust.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>X. Challenges and Limitations</head><p>Sustainable supply chain finance faces several challenges that limit its effectiveness.</p><p>Information asymmetry reduces the accuracy of sustainability assessments. Inconsistent ESG ratings create uncertainty in financial decision-making. Small and medium enterprises face barriers due to limited resources and compliance capabilities.</p><p>Regulatory fragmentation across regions further increases complexity and reduces scalability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="10.1">Critical Discussion</head><p>The risk of greenwashing undermines credibility, as firms may present sustainability initiatives without measurable impact.</p><p>Inconsistent ESG frameworks weaken incentive mechanisms, while the exclusion of SMEs raises concerns about equity and inclusivity.</p><p>These limitations highlight the need for standardized frameworks, improved transparency, and inclusive financial models.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="10.2">The Greenwashing-Liquidity Tradeoff</head><p>A critical tension exists between the demand for transparency and the cost of compliance. Our analysis reveals that without "Digital Trust" (e.g., Blockchain), the SSCF Index is susceptible to data manipulation. Furthermore, we must acknowledge the "Inclusion Paradox": while SSCF aims to help SMEs, the administrative burden of ESG reporting may inadvertently push the most vulnerable suppliers out of the formal financial system.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>XI. Case Studies</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="11.1">Unilever and Apple: Comparative Analysis</head><p>Unilever and Apple represent two distinct approaches to sustainable supply chain finance. Unilever adopts a sustainability-driven financing model where financial incentives are directly linked to supplier ESG performance. Suppliers meeting sustainability criteria benefit from preferential financing rates.</p><p>Apple focuses on large-scale capital investment through green bonds and supplier clean energy programs, emphasizing long-term transformation.</p><p>This comparison highlights two strategic pathways: incentive-based integration and investment-driven transformation.  The European Union demonstrates strong regulatory enforcement, China shows rapid adoption through technology, and India presents emerging opportunities with structural challenges.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="12.2">Comparative Regional Analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>XIII. Future Research</head><p>Future research should focus on empirical validation of the SSCF Index across industries and regions.</p><p>Further studies can explore the role of financial intermediaries, policy effectiveness, and integration of digital technologies in sustainable finance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>XIV. Conclusion</head><p>This paper examined the integration of finance and sustainability in supply chain management through a conceptual framework and systematic analysis.</p><p>The study contributes by proposing the SSCF Index and an integrated systems-based model.</p><p>While sustainable supply chain finance offers significant benefits, challenges such as ESG inconsistencies, SME exclusion, and regulatory fragmentation remain.</p><p>With appropriate policy support, SSCF can serve as a driver of sustainable and inclusive economic growth.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: Integrated Sustainable Supply Chain Finance Model</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 :</head><label>1</label><figDesc>Comparison of Unilever and Apple</figDesc><table><row><cell>Aspect</cell><cell>Unilever</cell><cell>Apple</cell></row><row><cell cols="2">Financial Mechanisms SSCF incentives</cell><cell>Green bonds</cell></row><row><cell>ESG Strategy</cell><cell cols="2">Integrated sustainability Carbon neutrality focus</cell></row><row><cell>Supplier Impact</cell><cell>SME inclusion</cell><cell>Large supplier focus</cell></row><row><cell>Outcomes</cell><cell>ESG improvement</cell><cell>Emission reduction</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 :</head><label>2</label><figDesc>Regional Comparison of SSCF Adoption</figDesc><table><row><cell>Factor</cell><cell>EU</cell><cell>China</cell><cell>India</cell></row><row><cell>Policy Strength</cell><cell>Very High</cell><cell>High</cell><cell>Moderate</cell></row><row><cell>SCF Adoption</cell><cell>High</cell><cell>High</cell><cell>Moderate</cell></row><row><cell cols="2">ESG Regulation Strong</cell><cell>Moderate</cell><cell>Developing</cell></row><row><cell>SME Inclusion</cell><cell>Medium</cell><cell>High</cell><cell>Medium</cell></row><row><cell>Challenges</cell><cell cols="3">Compliance Transparency Infrastructure</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Transforming business using digital innovations: the application of AI, blockchain, cloud and data analytics</title>
+		<author>
+			<persName><forename type="first">Shahriar</forename><surname>Akter</surname></persName>
+			<idno type="ORCID">0000-0002-2050-9985</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Katina</forename><surname>Michael</surname></persName>
+			<idno type="ORCID">0000-0003-3118-5557</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Muhammad</forename><forename type="middle">Rajib</forename><surname>Uddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Grace</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mahfuzur</forename><surname>Rahman</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10479-020-03620-w</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Operations Research</title>
+		<title level="j" type="abbrev">Ann Oper Res</title>
+		<idno type="ISSN">0254-5330</idno>
+		<idno type="ISSNe">1572-9338</idno>
+		<imprint>
+			<biblScope unit="volume">308</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="7" to="39" />
+			<date type="published" when="2020-05-04" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Firm resources and sustained competitive advantage</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="99" to="120" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Aggregate Confusion: The Divergence of ESG Ratings</title>
+		<author>
+			<persName><forename type="first">Florian</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><forename type="middle">F</forename><surname>Kölbel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roberto</forename><surname>Rigobon</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/rof/rfac033</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Finance</title>
+		<idno type="ISSN">1572-3097</idno>
+		<idno type="ISSNe">1573-692X</idno>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1315" to="1344" />
+			<date type="published" when="2022-05-23" />
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A framework of sustainable supply chain management</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Physical Distribution &amp; Logistics Management</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="360" to="387" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Supply chain finance: A literature review</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Demir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Díaz-López</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fernández-Jardín</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Financial Studies</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">20</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">ESG scores and financial performance</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duque-Grisales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aguilera-Caracuel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business Ethics</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="315" to="334" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Corporate green bonds</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Flammer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Financial Economics</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="499" to="516" />
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">ESG and financial performance</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Friede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Busch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bassen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Sustainable Finance &amp; Investment</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="210" to="233" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A Meta‐Analysis of Environmentally Sustainable Supply Chain Management Practices and Firm Performance</title>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">L</forename><surname>Golicic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlo</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jscm.12006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Supply Chain Management</title>
+		<title level="j" type="abbrev">J Supply Chain Manag</title>
+		<idno type="ISSN">1523-2409</idno>
+		<idno type="ISSNe">1745-493X</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="78" to="95" />
+			<date type="published" when="2013-04" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A supply chainoriented approach of working capital management</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hofmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kotzab</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business Logistics</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="305" to="330" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Supply chain resilience</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ivanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dolgui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Production Research</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2904" to="2915" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Corporate sustainability and financial performance</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Serafeim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yoon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Accounting Review</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1697" to="1724" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Green supply chain efficiency evaluation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cleaner Production</title>
+		<imprint>
+			<biblScope unit="page">127492</biblScope>
+			<date type="published" when="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Evolution of Resilience in Supply Chain Management: A Retrospective on Ensuring Supply Chain Resilience</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><forename type="middle">J</forename><surname>Pettit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keely</forename><forename type="middle">L</forename><surname>Croxton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Fiksel</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jbl.12202</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business Logistics</title>
+		<title level="j" type="abbrev">J of Business Logistics</title>
+		<idno type="ISSN">0735-3766</idno>
+		<idno type="ISSNe">2158-1592</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="56" to="65" />
+			<date type="published" when="2019-03" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Blockchain in sustainable supply chains</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saberi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kouhizadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sarkis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Production Research</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="2117" to="2135" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Sustainable supply chain management</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seuring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Müller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cleaner Production</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1699" to="1710" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Research Opportunities in Supply Chain Transparency</title>
+		<author>
+			<persName><forename type="first">Manmohan</forename><forename type="middle">S</forename><surname>Sodhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">S</forename><surname>Tang</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/poms.13115</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Production and Operations Management</title>
+		<title level="j" type="abbrev">Production and Operations Management</title>
+		<idno type="ISSN">1059-1478</idno>
+		<idno type="ISSNe">1937-5956</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2946" to="2959" />
+			<date type="published" when="2019-12" />
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Financial supply chain management</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Wuttke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blome</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Henke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Production Economics</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="773" to="789" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Supplier financing mechanisms</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Huchzermeier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Omega</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="77" to="90" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

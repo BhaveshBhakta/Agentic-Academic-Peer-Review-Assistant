@@ -69,29 +69,30 @@ def run_tools(state: ReviewState):
             "run_dir": run_dir
         })
 
-        # new_path = os.path.join(run_dir, "claim_mapping.json")
-        # shutil.move(path, new_path)
-
-        with open(new_path, "r") as f:
-            state["claim_result"] = json.load(f)
+        if path and os.path.exists(path):
+            with open(path, "r") as f:
+                state["claim_result"] = json.load(f)
+        else:
+            state["claim_result"] = {}
 
     if "factual_check" in tools:
         path = factual_check_tool.invoke({
             "pdf_path": pdf_path,
-            "topic": topic
+            "topic": state.get("topic", "general"),
+            "run_dir": run_dir
         })
 
         new_path = os.path.join(run_dir, "factual.json")
-        shutil.move(path, new_path)
 
-        with open(new_path, "r") as f:
-            state["factual_result"] = json.load(f)
+        if path and os.path.exists(path):
+            shutil.move(path, new_path)
 
-    if "deep_search" in tools:
-        deep_search_tool.invoke({"topic": topic})
-
-    return state
-
+            with open(new_path, "r") as f:
+                state["factual_result"] = json.load(f)
+        else:
+            print("[WARNING] factual.json not found, skipping factual check")
+            state["factual_result"] = {}
+            
 def build_graph():
 
     builder = StateGraph(ReviewState)

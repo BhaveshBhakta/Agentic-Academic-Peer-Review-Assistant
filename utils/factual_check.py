@@ -148,10 +148,11 @@ def factual_check(path: str, topic: str, z_thresh: float = 3.0):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Factual Verification with FAISS corpus")
     parser.add_argument("--path", type=str, required=True, help="Path to PDF/TXT file")
-    parser.add_argument("--topic", type=str, required=True, help="Research topic (matches Step 3 index)")
+    parser.add_argument("--topic", type=str, nargs="+", required=True, help="Research topic (matches Step 3 index)")
     parser.add_argument("--z_thresh", type=float, default=3.0)
     parser.add_argument("--output", type=str)
     args = parser.parse_args()
+    args.topic = " ".join(args.topic) 
 
     results = factual_check(args.path, args.topic, args.z_thresh)
     if args.output:

@@ -14,7 +14,7 @@ const HowItWorksSection: React.FC = () => {
       number: "02",
       title: "AI Analysis Engine",
       description: "Our advanced AI performs comprehensive analysis including novelty search, plagiarism detection, factual verification, and citation quality checks simultaneously.",
-      image: "https://cdn.getmidnight.com/50062ddd13358c02dea31c6e82a524c5/2023/09/AdobeStock_600314909.jpeg",
+      image: "https://i0.wp.com/www.neuronsw.com/wp-content/uploads/2025/11/Gemini_Generated_Image_asc9l5asc9l5asc9-1.png?fit=1024%2C1024&ssl=1",
       gradient: "from-blue-500 to-blue-700",
       bgColor: "bg-blue-50"
     },
