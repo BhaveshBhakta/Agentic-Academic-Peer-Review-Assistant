@@ -109,7 +109,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.6.2" ident="GROBID" when="2026-03-17T13:29+0000">
+				<application version="0.6.2" ident="GROBID" when="2026-05-14T12:08+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -299,31 +299,29 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b6">
 	<analytic>
-		<title level="a" type="main">Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks</title>
+		<title level="a" type="main">Distillation as a defense to adversarial perturbations against deep neural networks</title>
 		<author>
-			<persName><forename type="first">Nicolas</forename><surname>Papernot</surname></persName>
+			<persName><forename type="first">N</forename><surname>Papernot</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Patrick</forename><surname>Mcdaniel</surname></persName>
+			<persName><forename type="first">P</forename><surname>Mcdaniel</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Xi</forename><surname>Wu</surname></persName>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Somesh</forename><surname>Jha</surname></persName>
+			<persName><forename type="first">S</forename><surname>Jha</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Ananthram</forename><surname>Swami</surname></persName>
+			<persName><forename type="first">A</forename><surname>Swami</surname></persName>
 		</author>
-		<idno type="DOI">10.1109/sp.2016.41</idno>
+		<idno type="DOI">10.1109/SP.2016.41</idno>
 	</analytic>
 	<monogr>
-		<title level="m">2016 IEEE Symposium on Security and Privacy (SP)</title>
+		<title level="m">IEEE Symposium on Security and Privacy</title>
 				<meeting><address><addrLine>San Jose, CA</addrLine></address></meeting>
 		<imprint>
-			<publisher>IEEE</publisher>
-			<date type="published" when="2016-05" />
-			<biblScope unit="page" from="582" to="597" />
+			<date type="published" when="2016" />
 		</imprint>
 	</monogr>
 </biblStruct>
