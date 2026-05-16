@@ -54,9 +54,10 @@ This tool analyzes research papers to provide structured, reviewer-style feedbac
 
 ## Website Overview
 
-<img width="1835" height="1080" alt="Screenshot_20250925_193919" src="https://github.com/user-attachments/assets/74a1444b-03c6-4811-a6aa-138425cf8aa3" />
-<img width="1840" height="971" alt="Screenshot_20250919_112236" src="https://github.com/user-attachments/assets/a1871891-43a0-485b-bd38-899c9480b883" />
-<img width="1844" height="1080" alt="peerreview" src="https://github.com/user-attachments/assets/de7632b3-403b-4151-9cbd-e46dc12a5706" />
+<img width="1920" height="1080" alt="agenticai1" src="https://github.com/user-attachments/assets/1e039f93-c44f-4774-b21a-8470cb319f82" />
+<img width="1920" height="1080" alt="agenticai2" src="https://github.com/user-attachments/assets/7d911f49-a1bd-422f-b421-a9567a9e9657" />
+<img width="1848" height="1080" alt="agenticai3" src="https://github.com/user-attachments/assets/3797911c-205a-440a-a4b6-d7a001e6b0af" />
+
 
 
 ---
