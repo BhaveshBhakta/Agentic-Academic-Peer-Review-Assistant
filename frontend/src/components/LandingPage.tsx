@@ -57,10 +57,8 @@ const Navbar = ({ onActionClick }: { onActionClick: () => void }) => (
 
 const Footer = () => (
   <footer className="py-12 px-6 max-w-7xl mx-auto border-t border-border-sage">
-    {/* Always 3 columns on mobile, scaling up to 12 columns on desktop */}
     <div className="grid grid-cols-3 md:grid-cols-12 gap-8">
       
-      {/* Product Section (Takes 1 column on mobile) */}
       <div className="col-span-1 md:col-span-2">
         <h5 className="text-[10px] font-medium uppercase tracking-widest text-charcoal mb-4">Product</h5>
         <ul className="space-y-2 text-sm text-muted-grey">
@@ -70,7 +68,6 @@ const Footer = () => (
         </ul>
       </div>
       
-      {/* Discovery Section (Takes 1 column on mobile) */}
       <div className="col-span-1 md:col-span-2">
         <h5 className="text-[10px] font-medium uppercase tracking-widest text-charcoal mb-4">Discovery</h5>
         <ul className="space-y-2 text-sm text-muted-grey">
@@ -80,7 +77,6 @@ const Footer = () => (
         </ul>
       </div>
 
-      {/* Company Section (Takes 1 column on mobile) */}
       <div className="col-span-1 md:col-span-3">
         <h5 className="text-[10px] font-medium uppercase tracking-widest text-charcoal mb-4">Company</h5>
         <ul className="space-y-2 text-sm text-muted-grey break-all sm:break-normal">
@@ -90,7 +86,6 @@ const Footer = () => (
         </ul>
       </div>
 
-      {/* Branding & Copyright (Spans all 3 columns on mobile to sit underneath cleanly) */}
       <div className="col-span-3 md:col-span-5 md:order-first border-t border-border-sage/40 md:border-0 pt-8 md:pt-0">
         <div className="flex items-center gap-2 mb-4">
            <div className="w-8 h-8 bg-forest-green rounded-sm flex items-center justify-center">
